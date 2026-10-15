@@ -101,7 +101,7 @@ Your Steam library probably dies with you.
 
 The Subscriber Agreement says accounts are 'strictly personal' and can't be transferred unless Valve permits it. Valve doesn't recognise transfers by operation of law either.
 
-https://afterkeep.github.io/platforms/steam/
+https://afterkeep.github.io/platforms/game-libraries/
 ```
 
 **P6** (237 chars, X-weighted; URLs count as 23)

@@ -1898,7 +1898,7 @@ Q: Which of these work outside the US?
 A: Bitwarden, Keeper, Proton Pass (Proton Emergency Access), 1Password, LastPass Emergency Access, Dashlane are available globally. 
 
 Q: Does Afterkeep store my information?
-A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+A: No. Afterkeep is a comparison and guide directory only. We never collect your accounts, passwords or documents. We use Google Analytics, which sets cookies, for anonymous usage stats.
 
 
 ## Crypto inheritance
@@ -1916,7 +1916,7 @@ Q: Which of these work outside the US?
 A: Casa, AnchorWatch, Liana, Vault12 Guard, Ledger Recover are available globally. Unchained are US-focused.
 
 Q: Does Afterkeep store my information?
-A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+A: No. Afterkeep is a comparison and guide directory only. We never collect your accounts, passwords or documents. We use Google Analytics, which sets cookies, for anonymous usage stats.
 
 
 ## Estate & document tools
@@ -1934,7 +1934,7 @@ Q: Which of these work outside the US?
 A: SecureSafe are available globally. Everplans, GoodTrust, Prisidio, Trust & Will are US-focused.
 
 Q: Does Afterkeep store my information?
-A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+A: No. Afterkeep is a comparison and guide directory only. We never collect your accounts, passwords or documents. We use Google Analytics, which sets cookies, for anonymous usage stats.
 
 
 ## Platform legacy settings
@@ -1952,7 +1952,7 @@ Q: Which of these work outside the US?
 A: Apple Legacy Contact, Google Inactive Account Manager are available globally. 
 
 Q: Does Afterkeep store my information?
-A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+A: No. Afterkeep is a comparison and guide directory only. We never collect your accounts, passwords or documents. We use Google Analytics, which sets cookies, for anonymous usage stats.
 
 
 ## Memorial & memory-keeping
