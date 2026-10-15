@@ -1,0 +1,1351 @@
+# Afterkeep: full content
+
+> General information, not legal advice. Facts checked against official sources on 15 Oct 2026.
+
+## Bitwarden (tool review)
+URL: https://afterkeep.github.io/tools/bitwarden/
+
+The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set. Best for: Budget-conscious people who want a proper, tested emergency-access workflow.
+
+Key facts:
+- Category: Vaults & password managers
+- Pricing: Free plan available; Emergency Access requires Premium or a paid Families/Teams/Enterprise plan. Check current pricing.
+- Best for: Budget-conscious people who want a proper, tested emergency-access workflow.
+- Emergency contacts only need a free Bitwarden account
+- Choose View-only or Takeover access with a custom wait time
+- Pros: Emergency contacts only need a free Bitwarden account; Choose View-only or Takeover access with a custom wait time; Open-source and independently audited; No limit on the number of emergency contacts
+- Cons: Contact must be on the same Bitwarden server region (US/EU); Can't add or edit contacts if Premium lapses (existing ones still work); Interface is functional rather than polished
+
+Sources: https://bitwarden.com/help/emergency-access/
+
+Q: Is Bitwarden good for digital legacy planning?
+A: The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
+
+Q: Who is Bitwarden best for?
+A: Budget-conscious people who want a proper, tested emergency-access workflow.
+
+Q: How much does Bitwarden cost?
+A: Free plan available; Emergency Access requires Premium or a paid Families/Teams/Enterprise plan. Check current pricing.
+
+Q: What are the downsides of Bitwarden?
+A: Contact must be on the same Bitwarden server region (US/EU); Can't add or edit contacts if Premium lapses (existing ones still work); Interface is functional rather than polished.
+
+Q: What are alternatives to Bitwarden?
+A: Alternatives in the same category include 1Password, Keeper, LastPass Emergency Access.
+
+
+## 1Password (tool review)
+URL: https://afterkeep.github.io/tools/1password/
+
+Excellent password manager, but it has no automatic emergency-access feature. Legacy planning relies on the Emergency Kit and family account recovery. Best for: Families who will store the Emergency Kit with their will and use a Families plan, where an organiser can help recover members' accounts.
+
+Key facts:
+- Category: Vaults & password managers
+- Pricing: Paid plans only (free trial). Check current pricing.
+- Best for: Families who will store the Emergency Kit with their will and use a Families plan, where an organiser can help recover members' accounts.
+- Printable Emergency Kit with your sign-in details and Secret Key
+- Families plan lets organisers recover family members' accounts
+- Pros: Printable Emergency Kit with your sign-in details and Secret Key; Families plan lets organisers recover family members' accounts; Strong security model and polished apps
+- Cons: No time-delayed emergency contact feature; The Emergency Kit has to be stored securely and kept current; No free tier
+
+Sources: https://support.1password.com/emergency-kit/
+
+Q: Is 1Password good for digital legacy planning?
+A: Excellent password manager, but it has no automatic emergency-access feature. Legacy planning relies on the Emergency Kit and family account recovery.
+
+Q: Who is 1Password best for?
+A: Families who will store the Emergency Kit with their will and use a Families plan, where an organiser can help recover members' accounts.
+
+Q: How much does 1Password cost?
+A: Paid plans only (free trial). Check current pricing.
+
+Q: What are the downsides of 1Password?
+A: No time-delayed emergency contact feature; The Emergency Kit has to be stored securely and kept current; No free tier.
+
+Q: What are alternatives to 1Password?
+A: Alternatives in the same category include Bitwarden, Keeper, LastPass Emergency Access.
+
+
+## Keeper (tool review)
+URL: https://afterkeep.github.io/tools/keeper/
+
+A solid choice with built-in Emergency Access: name trusted contacts who can request your vault after a wait period. Best for: People who want emergency access alongside business-grade security features.
+
+Key facts:
+- Category: Vaults & password managers
+- Pricing: Paid plans with a free trial. Check current pricing.
+- Best for: People who want emergency access alongside business-grade security features.
+- Up to 5 emergency contacts, each with an optional access delay of up to 3 months
+- Mature apps on every platform
+- Pros: Up to 5 emergency contacts, each with an optional access delay of up to 3 months; Mature apps on every platform; Extra add-ons for secure file storage
+- Cons: Add-ons can increase the total cost; Contacts need a Keeper account to accept access; Emergency Access is for consumer accounts only, not business accounts
+
+Sources: https://docs.keeper.io/en/user-guides/emergency-access
+
+Q: Is Keeper good for digital legacy planning?
+A: A solid choice with built-in Emergency Access: name trusted contacts who can request your vault after a wait period.
+
+Q: Who is Keeper best for?
+A: People who want emergency access alongside business-grade security features.
+
+Q: How much does Keeper cost?
+A: Paid plans with a free trial. Check current pricing.
+
+Q: What are the downsides of Keeper?
+A: Add-ons can increase the total cost; Contacts need a Keeper account to accept access; Emergency Access is for consumer accounts only, not business accounts.
+
+Q: What are alternatives to Keeper?
+A: Alternatives in the same category include Bitwarden, 1Password, LastPass Emergency Access.
+
+
+## LastPass Emergency Access (tool review)
+URL: https://afterkeep.github.io/tools/lastpass-emergency-access/
+
+It works: contacts can request vault access after a wait period. LastPass's 2022 security breaches are a good reason to look at alternatives first, though. Best for: Existing LastPass users who want to add emergency contacts without switching.
+
+Key facts:
+- Category: Vaults & password managers
+- Pricing: Emergency Access is a paid-plan feature. Check current pricing.
+- Best for: Existing LastPass users who want to add emergency contacts without switching.
+- Long-standing emergency access with a wait timer
+- Owner can decline a request during the wait period; otherwise access is granted automatically
+- Pros: Long-standing emergency access with a wait timer; Owner can decline a request during the wait period; otherwise access is granted automatically; Familiar to many families
+- Cons: Significant 2022 security incidents involving encrypted vault data; Feature availability depends on plan; Contacts need their own LastPass account
+
+Sources: https://www.lastpass.com/features/emergency-access
+
+Q: Is LastPass Emergency Access good for digital legacy planning?
+A: It works: contacts can request vault access after a wait period. LastPass's 2022 security breaches are a good reason to look at alternatives first, though.
+
+Q: Who is LastPass Emergency Access best for?
+A: Existing LastPass users who want to add emergency contacts without switching.
+
+Q: How much does LastPass Emergency Access cost?
+A: Emergency Access is a paid-plan feature. Check current pricing.
+
+Q: What are the downsides of LastPass Emergency Access?
+A: Significant 2022 security incidents involving encrypted vault data; Feature availability depends on plan; Contacts need their own LastPass account.
+
+Q: What are alternatives to LastPass Emergency Access?
+A: Alternatives in the same category include Bitwarden, 1Password, Keeper.
+
+
+## Dashlane (tool review)
+URL: https://afterkeep.github.io/tools/dashlane/
+
+Not recommended for legacy access. Dashlane removed its Emergency Contact feature and now suggests sharing an exported vault file with a trusted person. Best for: People who use Dashlane for day-to-day passwords and plan legacy access some other way.
+
+Key facts:
+- Category: Vaults & password managers
+- Pricing: Check current pricing.
+- Best for: People who use Dashlane for day-to-day passwords and plan legacy access some other way.
+- Polished, easy-to-use apps
+- Account Recovery Key helps you regain access if you forget your master password
+- Pros: Polished, easy-to-use apps; Account Recovery Key helps you regain access if you forget your master password
+- Cons: No emergency contact or dead-man's-switch feature; The export-and-share workaround goes stale as passwords change; The recovery key is for the account owner, not for heirs
+
+Sources: https://support.dashlane.com/hc/en-us/articles/4407179219986-Share-your-data-with-a-trusted-person
+
+Q: Is Dashlane good for digital legacy planning?
+A: Not recommended for legacy access. Dashlane removed its Emergency Contact feature and now suggests sharing an exported vault file with a trusted person.
+
+Q: Who is Dashlane best for?
+A: People who use Dashlane for day-to-day passwords and plan legacy access some other way.
+
+Q: How much does Dashlane cost?
+A: Check current pricing.
+
+Q: What are the downsides of Dashlane?
+A: No emergency contact or dead-man's-switch feature; The export-and-share workaround goes stale as passwords change; The recovery key is for the account owner, not for heirs.
+
+Q: What are alternatives to Dashlane?
+A: Alternatives in the same category include Bitwarden, 1Password, Keeper.
+
+
+## Google Inactive Account Manager (tool review)
+URL: https://afterkeep.github.io/tools/google-inactive-account-manager/
+
+Free and essential if you use Google. Set it up today: after a period of inactivity you choose, Google notifies up to 10 people and can share selected data with them. Best for: Anyone with Gmail, Google Photos or Google Drive.
+
+Key facts:
+- Category: Platform legacy settings
+- Pricing: Free.
+- Best for: Anyone with Gmail, Google Photos or Google Drive.
+- Free and takes about 5 minutes
+- Choose which data (Photos, Drive, Gmail and more) each contact can download
+- Pros: Free and takes about 5 minutes; Choose which data (Photos, Drive, Gmail and more) each contact can download; Can delete the account after notifying contacts
+- Cons: Only triggers on inactivity, not on proof of death; Contacts download data; they don't take over the account
+
+Sources: https://support.google.com/accounts/answer/3036546
+
+Q: Is Google Inactive Account Manager good for digital legacy planning?
+A: Free and essential if you use Google. Set it up today: after a period of inactivity you choose, Google notifies up to 10 people and can share selected data with them.
+
+Q: Who is Google Inactive Account Manager best for?
+A: Anyone with Gmail, Google Photos or Google Drive.
+
+Q: How much does Google Inactive Account Manager cost?
+A: Free.
+
+Q: What are the downsides of Google Inactive Account Manager?
+A: Only triggers on inactivity, not on proof of death; Contacts download data; they don't take over the account.
+
+Q: What are alternatives to Google Inactive Account Manager?
+A: Alternatives in the same category include Apple Legacy Contact.
+
+
+## Apple Legacy Contact (tool review)
+URL: https://afterkeep.github.io/tools/apple-legacy-contact/
+
+Free and essential for iPhone users. Without it, even close family can find it very hard to get into iCloud photos and data. Best for: Anyone storing photos, messages or files in iCloud.
+
+Key facts:
+- Category: Platform legacy settings
+- Pricing: Free (requires an Apple Account and a supported OS version).
+- Best for: Anyone storing photos, messages or files in iCloud.
+- Free, built into Settings
+- You can add more than one Legacy Contact, and they don't need an Apple device
+- Pros: Free, built into Settings; You can add more than one Legacy Contact, and they don't need an Apple device; Contacts get an access key; Apple verifies the death certificate
+- Cons: Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions; Access is time-limited after approval (check Apple's page for details)
+
+Sources: https://support.apple.com/en-us/102631
+
+Q: Is Apple Legacy Contact good for digital legacy planning?
+A: Free and essential for iPhone users. Without it, even close family can find it very hard to get into iCloud photos and data.
+
+Q: Who is Apple Legacy Contact best for?
+A: Anyone storing photos, messages or files in iCloud.
+
+Q: How much does Apple Legacy Contact cost?
+A: Free (requires an Apple Account and a supported OS version).
+
+Q: What are the downsides of Apple Legacy Contact?
+A: Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions; Access is time-limited after approval (check Apple's page for details).
+
+Q: What are alternatives to Apple Legacy Contact?
+A: Alternatives in the same category include Google Inactive Account Manager.
+
+
+## Trust & Will (tool review)
+URL: https://afterkeep.github.io/tools/trust-and-will/
+
+Popular online tool for US wills and trusts with guided questions. Not built for Australian or most non-US jurisdictions. Best for: US residents who want a straightforward will or trust online.
+
+Key facts:
+- Category: Estate & document tools
+- Pricing: One-off plan fees plus optional membership. Check current pricing.
+- Best for: US residents who want a straightforward will or trust online.
+- Guided, plain-English interview for wills and trusts
+- State-specific US documents
+- Pros: Guided, plain-English interview for wills and trusts; State-specific US documents; Attorney-led plans for complex situations, plus an optional membership for updates
+- Cons: US-focused; not suitable for most other countries; Not a replacement for a lawyer in complex estates
+
+Sources: https://www.trustandwill.com
+
+Q: Is Trust & Will good for digital legacy planning?
+A: Popular online tool for US wills and trusts with guided questions. Not built for Australian or most non-US jurisdictions.
+
+Q: Who is Trust & Will best for?
+A: US residents who want a straightforward will or trust online.
+
+Q: How much does Trust & Will cost?
+A: One-off plan fees plus optional membership. Check current pricing.
+
+Q: What are the downsides of Trust & Will?
+A: US-focused; not suitable for most other countries; Not a replacement for a lawyer in complex estates.
+
+Q: What are alternatives to Trust & Will?
+A: Alternatives in the same category include GoodTrust, Everplans, Prisidio.
+
+
+## GoodTrust (tool review)
+URL: https://afterkeep.github.io/tools/goodtrust/
+
+An all-in-one US estate planning platform: will, trust and directives (valid in all 50 states) plus a Digital Vault for your digital life. Best for: US families who want estate documents and digital-account planning in one place.
+
+Key facts:
+- Category: Estate & document tools
+- Pricing: Estate+ plan advertised at $149 (US). Check current pricing.
+- Best for: US families who want estate documents and digital-account planning in one place.
+- Will, trust, power of attorney, health care, funeral and pet directives
+- Family plan with no extra fee per person
+- Pros: Will, trust, power of attorney, health care, funeral and pet directives; Family plan with no extra fee per person; Digital Vault where you choose who gets access and when
+- Cons: Estate documents are US-centric; Feature set varies by tier
+
+Sources: https://mygoodtrust.com
+
+Q: Is GoodTrust good for digital legacy planning?
+A: An all-in-one US estate planning platform: will, trust and directives (valid in all 50 states) plus a Digital Vault for your digital life.
+
+Q: Who is GoodTrust best for?
+A: US families who want estate documents and digital-account planning in one place.
+
+Q: How much does GoodTrust cost?
+A: Estate+ plan advertised at $149 (US). Check current pricing.
+
+Q: What are the downsides of GoodTrust?
+A: Estate documents are US-centric; Feature set varies by tier.
+
+Q: What are alternatives to GoodTrust?
+A: Alternatives in the same category include Trust & Will, Everplans, Prisidio.
+
+
+## Everplans (tool review)
+URL: https://afterkeep.github.io/tools/everplans/
+
+A well-structured digital vault for life admin and end-of-life plans that you can securely share with people you trust. Best for: Organised planners who want a guided inventory of accounts, wishes and documents.
+
+Key facts:
+- Category: Estate & document tools
+- Pricing: Free base app; Everplans Premium is paid. Check current pricing.
+- Best for: Organised planners who want a guided inventory of accounts, wishes and documents.
+- Guided templates for wishes, accounts and documents
+- Securely share selected items with people you trust
+- Pros: Guided templates for wishes, accounts and documents; Securely share selected items with people you trust; Reminders and alerts for important dates; enterprise version for advisors and firms
+- Cons: Mostly US-oriented content; Doesn't create legal documents itself
+
+Sources: https://www.everplans.com
+
+Q: Is Everplans good for digital legacy planning?
+A: A well-structured digital vault for life admin and end-of-life plans that you can securely share with people you trust.
+
+Q: Who is Everplans best for?
+A: Organised planners who want a guided inventory of accounts, wishes and documents.
+
+Q: How much does Everplans cost?
+A: Free base app; Everplans Premium is paid. Check current pricing.
+
+Q: What are the downsides of Everplans?
+A: Mostly US-oriented content; Doesn't create legal documents itself.
+
+Q: What are alternatives to Everplans?
+A: Alternatives in the same category include Trust & Will, GoodTrust, Prisidio.
+
+
+## Prisidio (tool review)
+URL: https://afterkeep.github.io/tools/prisidio/
+
+A family 'life readiness' vault with a Co-Owner and a Keyholder who can get the vault after a verified death, with identity checks via CLEAR. Best for: US households who want one shared vault for documents, valuables and stories.
+
+Key facts:
+- Category: Estate & document tools
+- Pricing: Check current pricing.
+- Best for: US households who want one shared vault for documents, valuables and stories.
+- Co-Owner plus Keyholder handover model
+- CLEAR identity verification for designees (added May 2026)
+- Pros: Co-Owner plus Keyholder handover model; CLEAR identity verification for designees (added May 2026); Activity log and reminders for expiring documents
+- Cons: After release, Keyholders get time-limited, view/download-only access (one year, per Prisidio's terms); US-focused identity verification
+
+Sources: https://www.prisidio.com
+
+Q: Is Prisidio good for digital legacy planning?
+A: A family 'life readiness' vault with a Co-Owner and a Keyholder who can get the vault after a verified death, with identity checks via CLEAR.
+
+Q: Who is Prisidio best for?
+A: US households who want one shared vault for documents, valuables and stories.
+
+Q: How much does Prisidio cost?
+A: Check current pricing.
+
+Q: What are the downsides of Prisidio?
+A: After release, Keyholders get time-limited, view/download-only access (one year, per Prisidio's terms); US-focused identity verification.
+
+Q: What are alternatives to Prisidio?
+A: Alternatives in the same category include Trust & Will, GoodTrust, Everplans.
+
+
+## Casa (tool review)
+URL: https://afterkeep.github.io/tools/casa/
+
+A leading multisig self-custody service with inheritance included in every plan, covering bitcoin, ETH and stablecoins. Best for: Bitcoin holders who want self-custody plus a guided inheritance plan.
+
+Key facts:
+- Category: Crypto inheritance
+- Pricing: From $250/yr (Standard); Premium $2,100/yr; Private Client $7,500/yr (USD). Check current pricing.
+- Best for: Bitcoin holders who want self-custody plus a guided inheritance plan.
+- Multisig removes the single point of failure
+- Inheritance included at no extra cost; recipients only need an email
+- Pros: Multisig removes the single point of failure; Inheritance included at no extra cost; recipients only need an email; Six-month verification period after a claim, so the owner can cancel a false claim
+- Cons: Ongoing membership cost; Heirs still need some setup and guidance
+
+Sources: https://casa.io
+
+Q: Is Casa good for digital legacy planning?
+A: A leading multisig self-custody service with inheritance included in every plan, covering bitcoin, ETH and stablecoins.
+
+Q: Who is Casa best for?
+A: Bitcoin holders who want self-custody plus a guided inheritance plan.
+
+Q: How much does Casa cost?
+A: From $250/yr (Standard); Premium $2,100/yr; Private Client $7,500/yr (USD). Check current pricing.
+
+Q: What are the downsides of Casa?
+A: Ongoing membership cost; Heirs still need some setup and guidance.
+
+Q: What are alternatives to Casa?
+A: Alternatives in the same category include Unchained, Vault12 Guard, Ledger Recover.
+
+
+## Unchained (tool review)
+URL: https://afterkeep.github.io/tools/unchained/
+
+Collaborative-custody Bitcoin vaults (2-of-3 multisig) with inheritance planning. Strong for larger holdings. Best for: Larger Bitcoin holdings, especially in the US, where a formal inheritance process is worth paying for.
+
+Key facts:
+- Category: Crypto inheritance
+- Pricing: Check current pricing.
+- Best for: Larger Bitcoin holdings, especially in the US, where a formal inheritance process is worth paying for.
+- You hold 2 of 3 keys, so Unchained can't move funds alone
+- Inheritance Protocol document set guides executors step by step
+- Pros: You hold 2 of 3 keys, so Unchained can't move funds alone; Inheritance Protocol document set guides executors step by step; Trust vaults, transfer-on-death beneficiaries and estate-planning advisors
+- Cons: Bitcoin-focused; Premium pricing aimed at serious holders
+
+Sources: https://www.unchained.com
+
+Q: Is Unchained good for digital legacy planning?
+A: Collaborative-custody Bitcoin vaults (2-of-3 multisig) with inheritance planning. Strong for larger holdings.
+
+Q: Who is Unchained best for?
+A: Larger Bitcoin holdings, especially in the US, where a formal inheritance process is worth paying for.
+
+Q: How much does Unchained cost?
+A: Check current pricing.
+
+Q: What are the downsides of Unchained?
+A: Bitcoin-focused; Premium pricing aimed at serious holders.
+
+Q: What are alternatives to Unchained?
+A: Alternatives in the same category include Casa, Vault12 Guard, Ledger Recover.
+
+
+## Vault12 Guard (tool review)
+URL: https://afterkeep.github.io/tools/vault12/
+
+Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals. Best for: Self-custody users with many wallets who don't want a seed phrase stored in one place.
+
+Key facts:
+- Category: Crypto inheritance
+- Pricing: Check current pricing.
+- Best for: Self-custody users with many wallets who don't want a seed phrase stored in one place.
+- Works with any blockchain and wallet
+- Guardians hold encrypted shards, not the full seed
+- Pros: Works with any blockchain and wallet; Guardians hold encrypted shards, not the full seed; Nothing stored on Vault12 servers or in the cloud
+- Cons: Guardians must install the app and stay reachable; Social-recovery setups need regular health checks
+
+Sources: https://vault12.com/product/inheritance/
+
+Q: Is Vault12 Guard good for digital legacy planning?
+A: Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals.
+
+Q: Who is Vault12 Guard best for?
+A: Self-custody users with many wallets who don't want a seed phrase stored in one place.
+
+Q: How much does Vault12 Guard cost?
+A: Check current pricing.
+
+Q: What are the downsides of Vault12 Guard?
+A: Guardians must install the app and stay reachable; Social-recovery setups need regular health checks.
+
+Q: What are alternatives to Vault12 Guard?
+A: Alternatives in the same category include Casa, Unchained, Ledger Recover.
+
+
+## Ledger Recover (tool review)
+URL: https://afterkeep.github.io/tools/ledger-recover/
+
+An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool. Best for: Ledger owners worried about losing their seed phrase who accept ID verification.
+
+Key facts:
+- Category: Crypto inheritance
+- Pricing: Paid subscription (Ledger has advertised $9.99/month). Check current pricing.
+- Best for: Ledger owners worried about losing their seed phrase who accept ID verification.
+- Encrypted seed split across three companies
+- Recover with ID on a new Ledger device
+- Pros: Encrypted seed split across three companies; Recover with ID on a new Ledger device; A trusted-contact option is sold on Ledger's store
+- Cons: Requires government ID verification; Controversial with self-custody purists; Availability depends on the country your ID was issued in
+
+Sources: https://www.ledger.com/ledger-recover
+
+Q: Is Ledger Recover good for digital legacy planning?
+A: An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
+
+Q: Who is Ledger Recover best for?
+A: Ledger owners worried about losing their seed phrase who accept ID verification.
+
+Q: How much does Ledger Recover cost?
+A: Paid subscription (Ledger has advertised $9.99/month). Check current pricing.
+
+Q: What are the downsides of Ledger Recover?
+A: Requires government ID verification; Controversial with self-custody purists; Availability depends on the country your ID was issued in.
+
+Q: What are alternatives to Ledger Recover?
+A: Alternatives in the same category include Casa, Unchained, Vault12 Guard.
+
+
+## Proton Pass (Proton Emergency Access) (tool review)
+URL: https://afterkeep.github.io/tools/proton-pass/
+
+A solid privacy-first option: on any paid Proton plan you can name up to five emergency contacts who get access automatically after a wait time you choose, unless you deny the request. Best for: Proton users who want one emergency process covering Proton Mail, Pass and Drive.
+
+Key facts:
+- Category: Vaults & password managers
+- Pricing: Emergency Access is included on all paid Proton plans, including Proton Pass Plus. Check current pricing.
+- Best for: Proton users who want one emergency process covering Proton Mail, Pass and Drive.
+- Up to 5 emergency contacts
+- Wait time of 1, 2, 3, 7, 14 or 30 days
+- Pros: Up to 5 emergency contacts; Wait time of 1, 2, 3, 7, 14 or 30 days; You're notified of every request and can deny it; Covers your whole Proton Account, including emails, passwords and files
+- Cons: Both you and your contact need a Proton Mail address; Paid plans only; Longest wait time is 30 days
+
+Sources: https://proton.me/support/emergency-access, https://proton.me/support/proton-pass-plans-explained
+
+Q: Is Proton Pass (Proton Emergency Access) good for digital legacy planning?
+A: A solid privacy-first option: on any paid Proton plan you can name up to five emergency contacts who get access automatically after a wait time you choose, unless you deny the request.
+
+Q: Who is Proton Pass (Proton Emergency Access) best for?
+A: Proton users who want one emergency process covering Proton Mail, Pass and Drive.
+
+Q: How much does Proton Pass (Proton Emergency Access) cost?
+A: Emergency Access is included on all paid Proton plans, including Proton Pass Plus. Check current pricing.
+
+Q: What are the downsides of Proton Pass (Proton Emergency Access)?
+A: Both you and your contact need a Proton Mail address; Paid plans only; Longest wait time is 30 days.
+
+Q: What are alternatives to Proton Pass (Proton Emergency Access)?
+A: Alternatives in the same category include Bitwarden, 1Password, Keeper.
+
+
+## What happens to my Google / Gmail when I die?
+URL: https://afterkeep.github.io/platforms/google-gmail/
+
+Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once your account goes inactive. Without it, immediate family or a representative can ask Google to close the account, release funds or provide some data, decided case by case.
+
+Key facts:
+- Passwords: never shared
+- Plan ahead: Inactive Account Manager, up to 10 contacts
+- No plan: deceased-user request (close, funds or data)
+- Inactivity: personal accounts can be deleted after 2 years
+
+Documents heirs need:
+- Your ID and the deceased person's Gmail address
+- A death certificate
+- For data requests, Google may ask for further legal documents such as a court order
+
+What can't be recovered:
+- Passwords and login access
+- Account contents after a closure request: Google says it can't process a later request for the contents once you choose to close the account
+- Everything, if the account is deleted under the 2-year inactivity policy
+
+Timeline: Inactive Account Manager runs only after the inactivity period you set. Deceased-user requests are reviewed individually and Google gives no fixed timeframe.
+
+Sources: https://support.google.com/accounts/troubleshooter/6357590, https://support.google.com/accounts/answer/3036546, https://support.google.com/accounts/answer/12418290
+
+Q: What happens to my Google / Gmail when I die?
+A: Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once your account goes inactive. Without it, immediate family or a representative can ask Google to close the account, release funds or provide some data, decided case by case.
+
+Q: Can my family log into my Gmail after I die?
+A: Not with Google's blessing. Google doesn't share passwords. Use Inactive Account Manager so contacts can download data instead.
+
+Q: Does Google delete inactive accounts?
+A: Google's policy lets it delete personal accounts that have been inactive for 2 years.
+
+Q: Should I request data or closure first?
+A: Data first. Google says that if you close the account it can't later turn over its contents.
+
+Q: Does Inactive Account Manager include YouTube?
+A: Yes. Google's own example lists Blogger, Drive, Mail and YouTube among the data a contact can be given.
+
+
+## What happens to my Google Photos when I die?
+URL: https://afterkeep.github.io/platforms/google-photos/
+
+Google Photos lives inside your Google Account, so it follows Google's rules. Add Photos to Inactive Account Manager and your chosen contacts can download it after the inactivity period. Without a plan, family must use Google's deceased-user data request, which isn't guaranteed. Shared albums and Takeout backups made now are the safest route.
+
+Key facts:
+- Covered by Inactive Account Manager
+- No plan: deceased-user data request, reviewed case by case
+- Inactive accounts can be deleted after 2 years
+- Back up now with Google Takeout
+
+Documents heirs need:
+- Death certificate
+- Your ID and the account address
+- Possibly further legal documents for a data request
+
+What can't be recovered:
+- Photos only stored in an account deleted for inactivity
+- Contents of an account already closed at family's request
+
+Timeline: Contacts get a download link only after the inactivity period you chose. Data requests have no published timeframe.
+
+Sources: https://support.google.com/accounts/answer/3036546, https://support.google.com/accounts/troubleshooter/6357590, https://support.google.com/accounts/answer/12418290
+
+Q: What happens to my Google Photos when I die?
+A: Google Photos lives inside your Google Account, so it follows Google's rules. Add Photos to Inactive Account Manager and your chosen contacts can download it after the inactivity period. Without a plan, family must use Google's deceased-user data request, which isn't guaranteed. Shared albums and Takeout backups made now are the safest route.
+
+Q: Will my Google Photos be deleted when I die?
+A: They can be deleted if the account stays inactive for 2 years, so set up Inactive Account Manager and a Takeout backup.
+
+Q: Can I give someone my photos automatically?
+A: Yes. Inactive Account Manager can share your Google Photos data with up to 10 contacts.
+
+Q: How do I back up my Google Photos?
+A: Use Google Takeout and select Google Photos; store the archive offline and in a second location.
+
+Q: Can family request photos without a plan?
+A: They can ask through Google's deceased-user form, but Google decides each request after review.
+
+
+## What happens to my Apple iCloud when I die?
+URL: https://afterkeep.github.io/platforms/apple-icloud/
+
+With a Legacy Contact, that person uses their access key and your death certificate to request your iCloud data, such as photos, messages, notes, files and backups. Without one, Apple requires legal documentation, often a court order; Apple says Australia and some other countries accept alternative documents. Keychain passwords and purchased media are never included.
+
+Key facts:
+- Legacy Contact needs: access key + death certificate
+- Excluded: iCloud Keychain and purchased media
+- No Legacy Contact: court order or local equivalent
+- Australia: Apple accepts alternative documentation
+
+Documents heirs need:
+- Legacy Contact route: the access key and a death certificate
+- Without a Legacy Contact: death certificate plus a court order or the documentation Apple accepts in your country
+- To delete the account: your own Apple Account and the required legal documents
+
+What can't be recovered:
+- iCloud Keychain passwords, passkeys and payment info
+- Purchased movies, music, books and subscriptions
+- Some end-to-end encrypted data may need a device passcode
+- A passcode-locked device can't be unlocked by Apple without erasing it
+
+Timeline: Apple reviews and verifies documentation before acting and doesn't publish a fixed processing time.
+
+Sources: https://support.apple.com/en-us/102631, https://support.apple.com/en-us/102431
+
+Q: What happens to my Apple iCloud when I die?
+A: With a Legacy Contact, that person uses their access key and your death certificate to request your iCloud data, such as photos, messages, notes, files and backups. Without one, Apple requires legal documentation, often a court order; Apple says Australia and some other countries accept alternative documents. Keychain passwords and purchased media are never included.
+
+Q: Does a Legacy Contact get my passwords?
+A: No. Keychain passwords are excluded, so pair it with a password manager that has emergency access.
+
+Q: What if no Legacy Contact was set?
+A: Apple generally requires a court order for family to get the data.
+
+Q: Can Apple unlock a dead person's iPhone?
+A: No. Apple says it can't remove a device passcode without erasing the device. It may help remove Activation Lock so the device can be reused.
+
+Q: Is a court order needed in Australia?
+A: Apple says Australia and some other jurisdictions accept alternative documentation instead of a court order; check Apple's page for your country.
+
+
+## What happens to my Facebook when I die?
+URL: https://afterkeep.github.io/platforms/facebook/
+
+Facebook either memorialises your profile, adding 'Remembering' next to your name, or permanently deletes it, depending on what you chose in advance. A legacy contact you name can manage parts of a memorialised profile, such as a pinned tribute post, but can't log in or read your messages. Family can request memorialisation with proof of death.
+
+Key facts:
+- Options: memorialise or delete
+- Legacy contact: can't log in or read messages
+- You must be 18+ to choose a legacy contact
+- Set in Accounts Centre → Memorialisation
+
+Documents heirs need:
+- Memorialisation: proof of death such as an obituary
+- Removal: proof you're immediate family or the executor, such as a death certificate
+
+What can't be recovered:
+- Private messages
+- Login access for anyone, including the legacy contact
+
+Timeline: Requests are reviewed by Facebook; no fixed timeframe is published.
+
+Sources: https://www.facebook.com/help/1568013990080948, https://www.meta.com/help/accounts-center/841741830388205/
+
+Q: What happens to my Facebook when I die?
+A: Facebook either memorialises your profile, adding 'Remembering' next to your name, or permanently deletes it, depending on what you chose in advance. A legacy contact you name can manage parts of a memorialised profile, such as a pinned tribute post, but can't log in or read your messages. Family can request memorialisation with proof of death.
+
+Q: Can a legacy contact read my messages?
+A: No. They can manage a pinned tribute post, profile photo and friend requests, but not messages. You can optionally let them download a copy of what you shared.
+
+Q: Can family delete a Facebook account?
+A: Verified immediate family or an executor can request removal.
+
+Q: Can I choose deletion instead?
+A: Yes. In the Memorialisation settings you can choose to have your account permanently deleted after your death.
+
+Q: Is Instagram the same?
+A: No. Instagram offers memorialisation and removal requests but works differently. See our Instagram page.
+
+
+## What happens to my Instagram when I die?
+URL: https://afterkeep.github.io/platforms/instagram/
+
+Instagram memorialises an account when it receives proof of death, such as an obituary. Nobody can log into a memorialised account, and its posts stay visible to the same audience. Verified immediate family can instead ask for the account to be removed, using documents such as a death certificate. Instagram doesn't give out passwords.
+
+Key facts:
+- Memorialise: anyone, with proof of death
+- Remove: verified immediate family
+- No login access for anyone
+- Back up your own photos via Download your information
+
+Documents heirs need:
+- Memorialisation: proof of death, such as an obituary link
+- Removal: documents such as the death certificate and proof you're immediate family or the estate representative
+
+What can't be recovered:
+- Direct messages
+- Login access
+
+Timeline: Instagram reviews each request; no fixed timeframe is published.
+
+Sources: https://help.instagram.com/264154560391256
+
+Q: What happens to my Instagram when I die?
+A: Instagram memorialises an account when it receives proof of death, such as an obituary. Nobody can log into a memorialised account, and its posts stay visible to the same audience. Verified immediate family can instead ask for the account to be removed, using documents such as a death certificate. Instagram doesn't give out passwords.
+
+Q: Can family get into an Instagram account?
+A: No. Instagram doesn't give out login access to memorialised accounts.
+
+Q: Does Instagram have a legacy contact?
+A: Instagram supports memorialisation and removal requests. Check the current Accounts Centre settings for options.
+
+Q: How do I save my Instagram photos?
+A: Use Accounts Centre → Your information and permissions → Download your information.
+
+Q: Can anyone request memorialisation?
+A: Yes, with proof of death. Removal is limited to verified immediate family.
+
+
+## What happens to my X (Twitter) when I die?
+URL: https://afterkeep.github.io/platforms/x-twitter/
+
+X doesn't memorialise accounts and won't give anyone access, including family. An immediate family member or a person authorised to act for the estate can ask X to deactivate the account. X then asks for details of the deceased, a copy of the requester's ID and a death certificate. Download your own archive now if you want posts kept.
+
+Key facts:
+- No memorialisation
+- No account access for family
+- Deactivation on request
+- Needs: requester ID + death certificate
+
+Documents heirs need:
+- Details of the deceased and their @username
+- A copy of your government ID
+- A copy of the death certificate
+
+What can't be recovered:
+- Direct messages
+- Posts, once the account is deactivated, unless someone downloaded an archive beforehand
+
+Timeline: X emails instructions after the request is submitted; no fixed processing time is published.
+
+Sources: https://help.x.com/en/rules-and-policies/contact-x-about-a-deceased-family-members-account
+
+Q: What happens to my X (Twitter) when I die?
+A: X doesn't memorialise accounts and won't give anyone access, including family. An immediate family member or a person authorised to act for the estate can ask X to deactivate the account. X then asks for details of the deceased, a copy of the requester's ID and a death certificate. Download your own archive now if you want posts kept.
+
+Q: Will X give my family my DMs?
+A: No. X won't provide account access to anyone, including family.
+
+Q: Can I keep a copy of my posts for family?
+A: Yes. Request your archive in Settings → Your account → Download an archive of your data, and store it with your digital estate plan.
+
+Q: Who can ask X to deactivate an account?
+A: An immediate family member or someone authorised to act on behalf of the estate.
+
+
+## What happens to my Microsoft / Outlook when I die?
+URL: https://afterkeep.github.io/platforms/microsoft-outlook/
+
+Microsoft won't release a deceased person's Outlook.com or OneDrive content without a valid subpoena or court order, and even then it isn't guaranteed. You don't need to report the death. If nobody signs in, Outlook.com and OneDrive are frozen after 1 year, with content deleted soon after, and the Microsoft account expires after 2 years.
+
+Key facts:
+- Content release: subpoena or court order only
+- Outlook.com/OneDrive frozen after 1 year inactive
+- Account expires after 2 years inactive
+- Closed accounts can be reopened within 60 days
+
+Documents heirs need:
+- If you have the password: nothing; you can close the account yourself
+- Without access: a valid subpoena or court order served on Microsoft's registered agent (Microsoft won't act on faxed or emailed requests)
+
+What can't be recovered:
+- Email and OneDrive files, after the 1-year freeze and deletion
+- All account data 60 days after closure
+
+Timeline: 1 year of inactivity: Outlook.com and OneDrive frozen and content deleted shortly after. 2 years: the Microsoft account expires. After a closure, 60 days to change your mind before permanent deletion.
+
+Sources: https://support.microsoft.com/en-us/accounts-billing/manage/accessing-outlook-com-onedrive-and-other-microsoft-services-when-someone-has-died
+
+Q: What happens to my Microsoft / Outlook when I die?
+A: Microsoft won't release a deceased person's Outlook.com or OneDrive content without a valid subpoena or court order, and even then it isn't guaranteed. You don't need to report the death. If nobody signs in, Outlook.com and OneDrive are frozen after 1 year, with content deleted soon after, and the Microsoft account expires after 2 years.
+
+Q: Can I get into my late parent's Outlook account?
+A: Usually only with a court order, unless a legacy feature or password was planned in advance.
+
+Q: Does Microsoft have a legacy contact feature?
+A: Microsoft's official page on deceased users doesn't describe one. It points family to closing the account (if they have the password) or a court order. Plan with a password manager instead.
+
+Q: How do I stop a dead person's Microsoft subscriptions?
+A: Microsoft suggests cancelling via the bank: close the card or account, or revoke the payment authorisation.
+
+
+## What happens to my LinkedIn when I die?
+URL: https://afterkeep.github.io/platforms/linkedin/
+
+LinkedIn offers two options: close the account or memorialise the profile. Anyone connected or related by last name can report a member as deceased, and LinkedIn will memorialise the profile. Closing the account requires someone with legal authority to act for the estate, a death certificate and probate-type documents. LinkedIn never gives out passwords.
+
+Key facts:
+- Memorialise: report as deceased (connection or same surname)
+- Close: needs legal authority
+- Memorialised accounts are locked
+- Data deleted within 30 days of closure
+
+Documents heirs need:
+- Member's full name, profile URL and your relationship
+- Helpful: their email, date of death and an obituary link
+- To close: death certificate plus Letters of Administration, Letters Testamentary, Letters of Representation or another court order
+
+What can't be recovered:
+- Login access and messages
+- All profile data after closure
+
+Timeline: After closure, LinkedIn says it can take up to 30 days to fully delete the data.
+
+Sources: https://www.linkedin.com/help/linkedin/answer/a1336663, https://www.linkedin.com/help/linkedin/answer/a1380121
+
+Q: What happens to my LinkedIn when I die?
+A: LinkedIn offers two options: close the account or memorialise the profile. Anyone connected or related by last name can report a member as deceased, and LinkedIn will memorialise the profile. Closing the account requires someone with legal authority to act for the estate, a death certificate and probate-type documents. LinkedIn never gives out passwords.
+
+Q: Will LinkedIn delete a dead person's profile?
+A: Yes, on request. LinkedIn can memorialise or close it.
+
+Q: Can family get a LinkedIn password?
+A: No. LinkedIn says it won't disclose usernames or passwords to anyone, including family, under any circumstances.
+
+Q: What's the difference between memorialising and closing?
+A: Memorialising keeps the profile visible but locked; closing deletes it. Closing requires legal authority.
+
+
+## What happens to my Crypto exchanges (Coinbase) when I die?
+URL: https://afterkeep.github.io/platforms/coinbase/
+
+Crypto held on Coinbase forms part of your estate. Coinbase doesn't support beneficiary designations for individual accounts, so heirs need to know the account exists. The executor files an Executor Services claim with a death certificate, proof of authority such as probate or letters of administration, photo ID, and a signed letter naming the Coinbase account to receive the assets.
+
+Key facts:
+- No beneficiary designation
+- Claim via Coinbase Executor Services
+- Needs probate or equivalent authority
+- Recipient may need a Coinbase account
+
+Documents heirs need:
+- Official death certificate
+- Probate, Letters Testamentary, Letters of Administration, or a small estate affidavit where accepted
+- Current government photo ID of the person named in those documents
+- A signed letter directing transfer to a named Coinbase account and email
+
+What can't be recovered:
+- Funds in self-custody wallets if nobody has the seed phrase. No company can recover those.
+
+Timeline: Coinbase reviews claims after receiving the documents; no fixed timeframe is published.
+
+Sources: https://help.coinbase.com/en/coinbase/managing-my-account/other/how-do-i-gain-access-to-a-deceased-family-members-coinbase-account
+
+Q: What happens to my Crypto exchanges (Coinbase) when I die?
+A: Crypto held on Coinbase forms part of your estate. Coinbase doesn't support beneficiary designations for individual accounts, so heirs need to know the account exists. The executor files an Executor Services claim with a death certificate, proof of authority such as probate or letters of administration, photo ID, and a signed letter naming the Coinbase account to receive the assets.
+
+Q: Can I name a beneficiary on Coinbase?
+A: No. The assets pass according to your will or the law.
+
+Q: What about crypto in a hardware wallet?
+A: No company can recover it. Your heirs need the seed phrase or an inheritance setup.
+
+Q: Do heirs need a Coinbase account?
+A: Usually. The assets are transferred to a Coinbase account named in the executor's letter.
+
+Q: Can I name a beneficiary on Coinbase?
+A: No. Coinbase says beneficiary designations aren't supported for individual accounts.
+
+
+## What happens to my Dropbox when I die?
+URL: https://afterkeep.github.io/platforms/dropbox/
+
+Dropbox may give access to a deceased person's files, but only after reviewing proof of death and a valid court order showing you have a legal right to them. Access isn't guaranteed and can take time. Dropbox's own first suggestion is to check the person's computer, where the Dropbox folder often holds a synced copy of every file.
+
+Key facts:
+- Check the synced folder on their computer first
+- Needs proof of death + court order
+- Access not guaranteed
+- Request via a Dropbox support ticket
+
+Documents heirs need:
+- Full name and Dropbox email of the deceased
+- Your name, mailing address, email and relationship
+- A photocopy of your government ID
+- A valid court order establishing your right to the files
+
+What can't be recovered:
+- Files that only exist online, if the request is refused
+
+Timeline: Dropbox says these requests 'can take some time' and gives no fixed timeframe.
+
+Sources: https://help.dropbox.com/account-settings/access-account-of-someone-who-passed-away
+
+Q: What happens to my Dropbox when I die?
+A: Dropbox may give access to a deceased person's files, but only after reviewing proof of death and a valid court order showing you have a legal right to them. Access isn't guaranteed and can take time. Dropbox's own first suggestion is to check the person's computer, where the Dropbox folder often holds a synced copy of every file.
+
+Q: Does Dropbox have a legacy contact?
+A: No. Dropbox handles access requests through its support process.
+
+Q: Is there a faster way into Dropbox files?
+A: Yes. Look in the Dropbox folder on the person's computer, which often contains synced copies of everything.
+
+Q: Does Dropbox have a legacy contact?
+A: No. Requests go through a support ticket with legal documents.
+
+
+## What happens to my WhatsApp when I die?
+URL: https://afterkeep.github.io/platforms/whatsapp/
+
+WhatsApp doesn't memorialise accounts or offer a legacy contact. Accounts are generally deleted after 365 days without connecting to WhatsApp. Chats and media saved on the person's phone stay there until the app is removed, so the phone itself is usually the only way family can keep messages. Recipients keep their own copies of messages.
+
+Key facts:
+- No memorialisation or legacy contact
+- Inactive accounts deleted after 365 days
+- Local chats stay on the device until WhatsApp is removed
+- Deletion can't be undone or restored
+
+Documents heirs need:
+- To keep chats: access to the unlocked phone (the passcode)
+
+What can't be recovered:
+- Chats, media and backups from a deleted account: WhatsApp says it can't restore or transfer them
+- Contacts saved to the WhatsApp account are deleted with it
+
+Timeline: Generally 365 days of inactivity before automatic deletion. A deliberate account deletion can take up to 90 days to complete.
+
+Sources: https://faq.whatsapp.com/828406668498455, https://faq.whatsapp.com/2138577903196467
+
+Q: What happens to my WhatsApp when I die?
+A: WhatsApp doesn't memorialise accounts or offer a legacy contact. Accounts are generally deleted after 365 days without connecting to WhatsApp. Chats and media saved on the person's phone stay there until the app is removed, so the phone itself is usually the only way family can keep messages. Recipients keep their own copies of messages.
+
+Q: Can family read a dead person's WhatsApp messages?
+A: Only from the person's own unlocked phone or a backup they can open. WhatsApp doesn't provide access.
+
+Q: Does a WhatsApp account delete itself?
+A: Generally yes, after 365 days of inactivity.
+
+Q: Do other people keep my messages?
+A: Yes. Deleting an account doesn't remove other users' copies of messages you sent them.
+
+
+## What happens to my YouTube when I die?
+URL: https://afterkeep.github.io/platforms/youtube/
+
+YouTube channels belong to a Google Account, so Google's rules apply. With Inactive Account Manager you can share YouTube data with up to 10 trusted contacts after a period of inactivity, or have the account deleted. Without a plan, family use Google's deceased-user request. Google never shares passwords, and inactive accounts can be deleted after 2 years.
+
+Key facts:
+- Governed by your Google Account
+- Inactive Account Manager can share YouTube data
+- No passwords shared
+- 2-year inactivity deletion can apply
+
+Documents heirs need:
+- Death certificate and the requester's ID for Google's deceased-user request
+- Possibly further legal documents for data
+
+What can't be recovered:
+- Login access to the channel
+- Everything, if the account is deleted for inactivity or closed before data is requested
+
+Timeline: Shared data is released only after your chosen inactivity period. Deceased-user requests have no published timeframe.
+
+Sources: https://support.google.com/accounts/answer/3036546, https://support.google.com/accounts/troubleshooter/6357590, https://support.google.com/accounts/answer/12418290, https://support.google.com/youtube/answer/9481328
+
+Q: What happens to my YouTube when I die?
+A: YouTube channels belong to a Google Account, so Google's rules apply. With Inactive Account Manager you can share YouTube data with up to 10 trusted contacts after a period of inactivity, or have the account deleted. Without a plan, family use Google's deceased-user request. Google never shares passwords, and inactive accounts can be deleted after 2 years.
+
+Q: Will my YouTube channel stay up after I die?
+A: It stays until the account is closed or deleted. Under Google's policy, personal accounts inactive for 2 years can be deleted.
+
+Q: Can someone take over my YouTube channel?
+A: Google won't hand over a login. Add trusted people through channel permissions while you're alive.
+
+Q: Can I give someone my videos automatically?
+A: Yes. Include YouTube in Inactive Account Manager.
+
+
+## What happens to my Amazon & Kindle library when I die?
+URL: https://afterkeep.github.io/platforms/amazon-kindle/
+
+Amazon only shares account details or takes most actions for the authorised estate representative. If the account is closed, all purchased digital content goes with it, including Kindle books and notes, Audible, Prime Video and Amazon Music purchases, and Amazon Photos. Download photos and invoices before any closure request is made.
+
+Key facts:
+- Only the estate representative can act fully
+- Closure removes Kindle, Audible, Prime Video and Music purchases
+- Gift card balances are lost on closure
+- Contact: bereavement-support-cs@amazon.com
+
+Documents heirs need:
+- Death certificate
+- Proof you're the estate's legal representative (such as probate or executor documents)
+- Valid photo ID
+- The account's email or phone number, or an order number to locate it
+
+What can't be recovered:
+- Kindle books, notes and highlights, Audible and other digital purchases, once the account is closed
+- Amazon Photos content not downloaded beforehand
+- Gift card balances
+- Order history and invoices
+
+Timeline: Amazon verifies the documents, then acts; no fixed timeframe is published. Documents are deleted after validation.
+
+Sources: https://www.amazon.com/gp/help/customer/display.html?nodeId=TzcJJiVFnIi3pG2yDA, https://www.amazon.com/gp/help/customer/display.html?nodeId=GBDB29JHRPFBDVYV
+
+Q: What happens to my Amazon & Kindle library when I die?
+A: Amazon only shares account details or takes most actions for the authorised estate representative. If the account is closed, all purchased digital content goes with it, including Kindle books and notes, Audible, Prime Video and Amazon Music purchases, and Amazon Photos. Download photos and invoices before any closure request is made.
+
+Q: Can I inherit someone's Kindle books?
+A: Amazon's help pages describe no way to transfer purchased digital content, and closing the account removes it. Keep the account and its devices in mind before requesting closure.
+
+Q: What can family do without probate?
+A: With a death certificate, Amazon can terminate subscriptions, stop recurring deliveries and deactivate the account.
+
+Q: Does closing Amazon close Audible too?
+A: Yes. Amazon lists Audible, Prime Video, Amazon Music, Amazon Photos and Kindle among the services lost on closure.
+
+
+## What happens to my PayPal when I die?
+URL: https://afterkeep.github.io/platforms/paypal/
+
+PayPal only takes instructions from the authorised executor or administrator of the estate. In Australia, the executor emails PayPal a cover sheet, the account email, a death certificate, a grant of probate or letters of administration, and photo ID. Any remaining balance can be paid to the linked bank account or by wire transfer.
+
+Key facts:
+- Executor or administrator only
+- AU: grant of probate or letters of administration
+- Balance paid to linked bank or by wire
+- AU email: bereavement@paypal.com.au
+
+Documents heirs need:
+- Cover sheet stating the holder has died and the executor wants the account closed
+- The account's email address
+- Death certificate
+- Grant of Probate or Letters of Administration (or a statutory certificate if a statutory body is executor)
+- Executor's government photo ID
+
+What can't be recovered:
+- Login access: PayPal closes or locks the account rather than transferring it
+
+Timeline: PayPal reviews documents after receiving them; no fixed timeframe is published.
+
+Sources: https://www.paypal.com/au/cshelp/article/how-do-i-close-the-paypal-account-of-a-deceased-relative-help220, https://www.paypal.com/us/cshelp/article/how-do-i-close-the-paypal-account-of-a-deceased-relative-help220
+
+Q: What happens to my PayPal when I die?
+A: PayPal only takes instructions from the authorised executor or administrator of the estate. In Australia, the executor emails PayPal a cover sheet, the account email, a death certificate, a grant of probate or letters of administration, and photo ID. Any remaining balance can be paid to the linked bank account or by wire transfer.
+
+Q: Can family close a PayPal account?
+A: Only via the executor or administrator. PayPal asks others to contact the executor.
+
+Q: What happens to the money in PayPal?
+A: PayPal can pay it to the bank account linked to the PayPal account or by wire transfer.
+
+Q: Is the process the same in the US and UK?
+A: No. Each PayPal country site lists different documents and contact addresses.
+
+
+## What happens to my Steam when I die?
+URL: https://afterkeep.github.io/platforms/steam/
+
+Steam games are licences, not property you own. The Steam Subscriber Agreement says your account is strictly personal and that accounts and subscriptions can't be transferred unless Valve specifically permits it. Valve also says it doesn't recognise transfers made outside Steam, including by operation of law. Don't count on passing a Steam library to heirs.
+
+Key facts:
+- Games are licences
+- Account is 'strictly personal'
+- No transfer unless Valve permits it
+- Transfers by operation of law aren't recognised
+
+Documents heirs need:
+- Valve publishes no deceased-user process. Contact Steam Support for the account.
+
+What can't be recovered:
+- The game library itself, in most cases
+- Steam Wallet funds and items tied to the account
+
+Timeline: No published process or timeframe.
+
+Sources: https://store.steampowered.com/subscriber_agreement/english/
+
+Q: What happens to my Steam when I die?
+A: Steam games are licences, not property you own. The Steam Subscriber Agreement says your account is strictly personal and that accounts and subscriptions can't be transferred unless Valve specifically permits it. Valve also says it doesn't recognise transfers made outside Steam, including by operation of law. Don't count on passing a Steam library to heirs.
+
+Q: Can I leave my Steam games in my will?
+A: Valve's Subscriber Agreement says accounts and subscriptions can't be transferred unless Valve specifically permits it, so a will alone doesn't move them.
+
+Q: Can my kids keep playing on my account?
+A: The agreement says you may not share your password or account except as Valve authorises.
+
+Q: Is this different from physical games?
+A: Yes. Discs and cartridges are property; Steam purchases are licences.
+
+
+## Best digital legacy vaults (2026)
+URL: https://afterkeep.github.io/best/best-digital-legacy-vaults/
+
+For most people, the best digital legacy setup is a password manager with emergency access (Bitwarden or Keeper) plus a planning vault for documents and wishes (Everplans, Prisidio or GoodTrust). The free Google and Apple legacy settings belong on top of either.
+
+Key facts:
+- #1 Everplans: Organised planners who want a guided inventory of accounts, wishes and documents.
+- #2 Prisidio: US households who want one shared vault for documents, valuables and stories.
+- #3 GoodTrust: US families who want estate documents and digital-account planning in one place.
+- #4 Bitwarden: Budget-conscious people who want a proper, tested emergency-access workflow.
+- #5 Keeper: People who want emergency access alongside business-grade security features.
+
+Q: What are the best digital legacy vaults?
+A: For most people, the best digital legacy setup is a password manager with emergency access (Bitwarden or Keeper) plus a planning vault for documents and wishes (Everplans, Prisidio or GoodTrust). The free Google and Apple legacy settings belong on top of either.
+
+Q: Is Everplans a good choice?
+A: A well-structured digital vault for life admin and end-of-life plans that you can securely share with people you trust.
+
+Q: Is Prisidio a good choice?
+A: A family 'life readiness' vault with a Co-Owner and a Keyholder who can get the vault after a verified death, with identity checks via CLEAR.
+
+Q: Is GoodTrust a good choice?
+A: An all-in-one US estate planning platform: will, trust and directives (valid in all 50 states) plus a Digital Vault for your digital life.
+
+Q: Is Bitwarden a good choice?
+A: The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
+
+
+## Best crypto inheritance tools (2026)
+URL: https://afterkeep.github.io/best/best-crypto-inheritance-tools/
+
+Casa and Unchained are the strongest choices for Bitcoin inheritance using multisig. Vault12 Guard suits people with many wallets who want social-recovery seed backup. Ledger Recover is a recovery service first and an inheritance tool second.
+
+Key facts:
+- #1 Casa: Bitcoin holders who want self-custody plus a guided inheritance plan.
+- #2 Unchained: Larger Bitcoin holdings, especially in the US, where a formal inheritance process is worth paying for.
+- #3 Vault12 Guard: Self-custody users with many wallets who don't want a seed phrase stored in one place.
+- #4 Ledger Recover: Ledger owners worried about losing their seed phrase who accept ID verification.
+
+Q: What are the best crypto inheritance tools?
+A: Casa and Unchained are the strongest choices for Bitcoin inheritance using multisig. Vault12 Guard suits people with many wallets who want social-recovery seed backup. Ledger Recover is a recovery service first and an inheritance tool second.
+
+Q: Is Casa a good choice?
+A: A leading multisig self-custody service with inheritance included in every plan, covering bitcoin, ETH and stablecoins.
+
+Q: Is Unchained a good choice?
+A: Collaborative-custody Bitcoin vaults (2-of-3 multisig) with inheritance planning. Strong for larger holdings.
+
+Q: Is Vault12 Guard a good choice?
+A: Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals.
+
+Q: Is Ledger Recover a good choice?
+A: An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
+
+
+## Best password managers for emergency access (2026)
+URL: https://afterkeep.github.io/best/best-password-managers-emergency-access/
+
+Bitwarden is the best password manager for emergency access: affordable, open source and with View or Takeover access. Keeper is a strong alternative. 1Password relies on its Emergency Kit and family recovery. Dashlane no longer has an emergency contact feature.
+
+Key facts:
+- #1 Bitwarden: Budget-conscious people who want a proper, tested emergency-access workflow.
+- #2 Keeper: People who want emergency access alongside business-grade security features.
+- #3 Proton Pass (Proton Emergency Access): Proton users who want one emergency process covering Proton Mail, Pass and Drive.
+- #4 LastPass Emergency Access: Existing LastPass users who want to add emergency contacts without switching.
+- #5 1Password: Families who will store the Emergency Kit with their will and use a Families plan, where an organiser can help recover members' accounts.
+- #6 Dashlane: People who use Dashlane for day-to-day passwords and plan legacy access some other way.
+
+Q: What are the best password managers for emergency access?
+A: Bitwarden is the best password manager for emergency access: affordable, open source and with View or Takeover access. Keeper is a strong alternative. 1Password relies on its Emergency Kit and family recovery. Dashlane no longer has an emergency contact feature.
+
+Q: Is Bitwarden a good choice?
+A: The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
+
+Q: Is Keeper a good choice?
+A: A solid choice with built-in Emergency Access: name trusted contacts who can request your vault after a wait period.
+
+Q: Is Proton Pass (Proton Emergency Access) a good choice?
+A: A solid privacy-first option: on any paid Proton plan you can name up to five emergency contacts who get access automatically after a wait time you choose, unless you deny the request.
+
+Q: Is LastPass Emergency Access a good choice?
+A: It works: contacts can request vault access after a wait period. LastPass's 2022 security breaches are a good reason to look at alternatives first, though.
+
+
+## How to export your Google data with Google Takeout
+URL: https://afterkeep.github.io/guides/google-takeout-export/
+
+Google Takeout (takeout.google.com) lets you download a copy of your Gmail, Google Photos, Drive and other Google data as .zip or .tgz archives, either once or on a recurring schedule. It's free and works in any browser.
+
+Key facts:
+- 8 steps
+- Free to do
+- Based on official platform and government pages
+
+Steps:
+1. Go to takeout.google.com and sign in.
+2. Leave everything ticked, or 'Deselect all' and pick products such as Google Photos, Mail and Drive.
+3. Click 'Next step' and choose a destination: download link by email, or add to Drive, Dropbox, OneDrive or Box.
+4. Choose 'Export once' or 'Export every 2 months for 1 year'.
+5. Choose file type (.zip or .tgz) and maximum archive size (larger sizes mean fewer files).
+6. Click 'Create export'. Large libraries can take hours or days; Google emails you when it's ready.
+7. Download the archives before the links expire and store them on an external drive plus a second location.
+8. Record where the backup lives in your digital estate checklist.
+
+Q: Does Google Takeout include Google Photos?
+A: Yes. Select Google Photos; photos come with JSON metadata files alongside them.
+
+Q: Is Google Takeout free?
+A: Yes.
+
+Q: What formats does Google Takeout use?
+A: You can choose .zip or .tgz archives and a maximum archive size.
+
+Q: Where should I store a Takeout backup?
+A: On an external drive plus a second location, and note it in your digital estate checklist.
+
+Q: Why back up if I use Inactive Account Manager?
+A: Google can delete personal accounts that are inactive for 2 years, and family requests without a plan aren't guaranteed. An offline copy removes that risk.
+
+
+## How to set up Apple Legacy Contact (step by step)
+URL: https://afterkeep.github.io/guides/apple-legacy-contact-setup/
+
+An Apple Legacy Contact is someone you choose who can get your iCloud data after you die, using an access key and your death certificate. It's free, takes about 3 minutes on iPhone, and you can add more than one person. They don't need an Apple device.
+
+Key facts:
+- 7 steps
+- Free to do
+- Based on official platform and government pages
+
+Steps:
+1. Make sure your device is up to date and you're signed in with your Apple Account (two-factor authentication on).
+2. Open Settings → [your name] → Sign-In & Security → Legacy Contact.
+3. Tap 'Add Legacy Contact' and pick someone from Contacts.
+4. Choose how to share the access key: send it via Messages (if they use a compatible Apple device) or print a copy.
+5. Store a printed copy of the key with your will or estate documents.
+6. Tell your Legacy Contact what to do: visit digital-legacy.apple.com with the key and a death certificate.
+7. Remember that Keychain passwords aren't included, so also set up emergency access in your password manager.
+
+Q: How many Legacy Contacts can I have?
+A: You can add more than one. Apple's page doesn't state a fixed limit.
+
+Q: Do Legacy Contacts need an iPhone?
+A: No. They can use the printed access key at digital-legacy.apple.com.
+
+Q: What data can't a Legacy Contact get?
+A: iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions.
+
+Q: What will my Legacy Contact need?
+A: The access key you generate and your death certificate. Requirements vary by country; Japan, for example, uses a family certificate.
+
+Q: What devices do I need to set it up?
+A: An Apple device running iOS 15.2, iPadOS 15.2 or macOS Monterey 12.1 or later, with two-factor authentication on.
+
+
+## The complete digital estate checklist
+URL: https://afterkeep.github.io/guides/digital-estate-checklist/
+
+A digital estate plan has four parts: an inventory of your accounts and assets, a secure way for one trusted person to get access (password manager emergency access), the built-in legacy settings on each platform, and written wishes for each account. This checklist covers all four in about an afternoon.
+
+Key facts:
+- 13 steps
+- Free to do
+- Based on official platform and government pages
+
+Steps:
+1. Inventory: list email, social, cloud storage, banks, super/pension, crypto, subscriptions, domains and devices.
+2. Password manager: move everything into Bitwarden or Keeper and set up an emergency contact.
+3. Google: set up Inactive Account Manager.
+4. Apple: add a Legacy Contact and print the key.
+5. Facebook: choose a legacy contact or deletion.
+6. Microsoft: store your password in your password manager; Microsoft releases content only with a court order.
+7. Crypto: document every exchange and wallet; set up an inheritance method for seed phrases (never put seed phrases in your will).
+8. Photos: run a Google Takeout or iCloud export and keep an offline copy.
+9. Devices: record phone and computer passcodes in your vault, not on paper with your will.
+10. Subscriptions: note recurring payments to cancel.
+11. Wishes: write what should happen to each account (memorialise, delete, download).
+12. Legal: name a digital executor in your will. Laws vary by country and state, so ask a local estate lawyer.
+13. Review every 12 months or after big life changes.
+
+Q: What is a digital executor?
+A: Someone you nominate to deal with your online accounts. Whether this has legal force depends on where you live.
+
+Q: Should I put passwords in my will?
+A: No. Wills can become public documents. Use a password manager with emergency access instead.
+
+Q: Where should I start?
+A: Set up emergency access in a password manager, then turn on Google Inactive Account Manager and Apple Legacy Contact. Those three cover most people's essentials.
+
+Q: Is there an Australian version?
+A: Yes. See our Australian digital estate guide on wills, executors, probate and the ATO checklist.
+
+Q: How often should I update my plan?
+A: Afterkeep suggests reviewing it at least yearly and whenever you open an important account or change devices.
+
+
+## Digital estate planning in Australia: wills, executors and online accounts
+URL: https://afterkeep.github.io/guides/australian-digital-estate-guide/
+
+In Australia, your executor manages your estate, including digital assets, after you die. Many banks and platforms want a grant of probate or letters of administration from your state's Supreme Court before releasing money or data. Estates typically take 6 to 12 months. Leave an inventory, not passwords, with your will.
+
+Key facts:
+- Probate or letters of administration, if asset holders require them, is usually applied for within 6 months of death in NSW.
+- Estate administration typically takes 6 to 12 months (ATO).
+
+Steps:
+1. Make or update a valid will and name an executor; NSW's guide notes this can be family, a friend, a solicitor or NSW Trustee and Guardian.
+2. List your digital assets: email, cloud storage, socials, PayPal, crypto exchanges, wallets, domains and subscriptions.
+3. Store logins in a password manager with emergency access rather than in the will.
+4. Switch on the free platform tools: Google Inactive Account Manager, Apple Legacy Contact, a Facebook legacy contact.
+5. After a death: get the death certificate, find the will, and notify organisations. The Australian Death Notification Service can notify several at once.
+6. Phone the ATO to pause tax correspondence and decide who will manage the deceased's affairs.
+7. Ask each asset holder whether they need a grant; small or jointly held assets may not.
+8. Apply to the Supreme Court in your state for probate (with a will) or letters of administration (without one) if needed.
+9. Collect assets, pay debts and tax, then distribute. In NSW, executors usually shouldn't distribute earlier than 6 months after death.
+
+Q: Do I need probate for digital accounts in Australia?
+A: It depends on the asset holder. The Supreme Court of Victoria says to ask each holder whether it needs a grant; PayPal Australia, for example, asks for a grant of probate or letters of administration.
+
+Q: How long does an estate take in Australia?
+A: The ATO says administration typically takes 6 to 12 months but can take longer.
+
+Q: Does Apple need a court order in Australia?
+A: Apple says Australia is one of the jurisdictions where it accepts alternative documentation instead of a court order.
+
+Q: Should I put passwords in my Australian will?
+A: No. A will can be read by others after death. Keep passwords in a password manager with emergency access and keep an inventory with your will.
+
+Q: What is the difference between probate and letters of administration?
+A: Probate is granted to the executor named in a valid will. Letters of administration are issued when there's no valid will, usually to the closest next of kin.
+
+
+## How to access a deceased person's phone and online accounts
+URL: https://afterkeep.github.io/guides/access-deceased-persons-phone-and-accounts/
+
+Usually you can't simply log in. Apple can't remove an iPhone passcode without erasing the device, and Google, Microsoft, LinkedIn and others never share passwords. Your real options are a legacy feature they set up, the passcode or a password manager they shared, or a formal request with a death certificate and legal authority.
+
+Key facts:
+- Google, Apple, Dropbox and most others publish no fixed processing time.
+- Microsoft freezes Outlook.com and OneDrive after 1 year of inactivity.
+
+Steps:
+1. Check for a plan first: an Apple Legacy Contact key, a Google Inactive Account Manager email, or emergency access in a password manager.
+2. Look for a passcode or password list in their estate papers.
+3. Keep phones and computers charged and safe; synced folders (like Dropbox) and local WhatsApp chats may only exist on the device.
+4. Get several certified copies of the death certificate.
+5. Identify who has legal authority: the executor, or an administrator appointed by the court.
+6. Use each platform's official deceased-user process (see the links below). Request data before closure; Google says it can't release contents after closing an account.
+7. Expect court orders for content at Microsoft and Dropbox. Apple accepts alternative documents in Australia and some other countries.
+8. Cancel subscriptions and payments through the bank if you can't get into the account.
+
+Q: Can Apple unlock a dead person's iPhone?
+A: No. Apple says it can't remove a passcode lock without erasing the device, though it may help remove Activation Lock so the device can be reused.
+
+Q: Can I get a deceased parent's emails?
+A: Gmail: through Google's deceased-user request, reviewed case by case. Outlook.com: only with a valid subpoena or court order.
+
+Q: Is it legal to log in with their password?
+A: Many platform terms prohibit it, and laws vary. Speak to the executor or a lawyer before using someone else's credentials.
+
+Q: What documents do I usually need?
+A: A death certificate, your photo ID and, for anything beyond memorialisation, proof of legal authority such as probate or letters of administration.
+

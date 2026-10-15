@@ -3,16 +3,21 @@
 > Independent guide to digital legacy: what happens to online accounts, photos, passwords and crypto when someone dies, plus verdicts on legacy tools. General information, not legal advice.
 
 ## Platforms
-- [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google won't hand over your password. If you set up Inactive Account Manager, your chosen contacts get the data you picked after a period of
-- [What happens to my Google Photos when I die?](https://afterkeep.github.io/platforms/google-photos/): Your Google Photos library is tied to your Google Account. If you've added it to Inactive Account Manager, your contacts can download your p
-- [What happens to my Apple iCloud when I die?](https://afterkeep.github.io/platforms/apple-icloud/): If you've added a Legacy Contact, that person can use their access key and a death certificate to request your iCloud data, including photos
-- [What happens to my Facebook when I die?](https://afterkeep.github.io/platforms/facebook/): Facebook will memorialise your account (adding 'Remembering' to your profile) or permanently delete it, whichever you chose in advance. A le
-- [What happens to my Instagram when I die?](https://afterkeep.github.io/platforms/instagram/): Instagram can memorialise an account when it gets proof of death, such as an obituary. A memorialised account can't be logged into and the c
-- [What happens to my X (Twitter) when I die?](https://afterkeep.github.io/platforms/x-twitter/): X doesn't memorialise accounts or give anyone access to them. A verified immediate family member or a person authorised to act for the estat
-- [What happens to my Microsoft / Outlook when I die?](https://afterkeep.github.io/platforms/microsoft-outlook/): Microsoft generally won't release a deceased person's Outlook.com or OneDrive content to next of kin without a valid court order or subpoena
-- [What happens to my LinkedIn when I die?](https://afterkeep.github.io/platforms/linkedin/): LinkedIn lets a family member, colleague or executor ask for a deceased member's profile to be memorialised or closed. LinkedIn doesn't give
-- [What happens to my Crypto exchanges (Coinbase) when I die?](https://afterkeep.github.io/platforms/coinbase/): Crypto held on Coinbase becomes part of your estate. Your executor can claim it through Coinbase's executor process with a death certificate
-- [What happens to my Dropbox when I die?](https://afterkeep.github.io/platforms/dropbox/): Dropbox may give access to a deceased person's files, but only after reviewing documentation that includes proof of death and, typically, a 
+- [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
+- [What happens to my Google Photos when I die?](https://afterkeep.github.io/platforms/google-photos/): Google Photos lives inside your Google Account, so it follows Google's rules. Add Photos to Inactive Account Manager and your chosen contact
+- [What happens to my Apple iCloud when I die?](https://afterkeep.github.io/platforms/apple-icloud/): With a Legacy Contact, that person uses their access key and your death certificate to request your iCloud data, such as photos, messages, n
+- [What happens to my Facebook when I die?](https://afterkeep.github.io/platforms/facebook/): Facebook either memorialises your profile, adding 'Remembering' next to your name, or permanently deletes it, depending on what you chose in
+- [What happens to my Instagram when I die?](https://afterkeep.github.io/platforms/instagram/): Instagram memorialises an account when it receives proof of death, such as an obituary. Nobody can log into a memorialised account, and its 
+- [What happens to my X (Twitter) when I die?](https://afterkeep.github.io/platforms/x-twitter/): X doesn't memorialise accounts and won't give anyone access, including family. An immediate family member or a person authorised to act for 
+- [What happens to my Microsoft / Outlook when I die?](https://afterkeep.github.io/platforms/microsoft-outlook/): Microsoft won't release a deceased person's Outlook.com or OneDrive content without a valid subpoena or court order, and even then it isn't 
+- [What happens to my LinkedIn when I die?](https://afterkeep.github.io/platforms/linkedin/): LinkedIn offers two options: close the account or memorialise the profile. Anyone connected or related by last name can report a member as d
+- [What happens to my Crypto exchanges (Coinbase) when I die?](https://afterkeep.github.io/platforms/coinbase/): Crypto held on Coinbase forms part of your estate. Coinbase doesn't support beneficiary designations for individual accounts, so heirs need 
+- [What happens to my Dropbox when I die?](https://afterkeep.github.io/platforms/dropbox/): Dropbox may give access to a deceased person's files, but only after reviewing proof of death and a valid court order showing you have a leg
+- [What happens to my WhatsApp when I die?](https://afterkeep.github.io/platforms/whatsapp/): WhatsApp doesn't memorialise accounts or offer a legacy contact. Accounts are generally deleted after 365 days without connecting to WhatsAp
+- [What happens to my YouTube when I die?](https://afterkeep.github.io/platforms/youtube/): YouTube channels belong to a Google Account, so Google's rules apply. With Inactive Account Manager you can share YouTube data with up to 10
+- [What happens to my Amazon & Kindle library when I die?](https://afterkeep.github.io/platforms/amazon-kindle/): Amazon only shares account details or takes most actions for the authorised estate representative. If the account is closed, all purchased d
+- [What happens to my PayPal when I die?](https://afterkeep.github.io/platforms/paypal/): PayPal only takes instructions from the authorised executor or administrator of the estate. In Australia, the executor emails PayPal a cover
+- [What happens to my Steam when I die?](https://afterkeep.github.io/platforms/steam/): Steam games are licences, not property you own. The Steam Subscriber Agreement says your account is strictly personal and that accounts and 
 
 ## Tools
 - [Bitwarden](https://afterkeep.github.io/tools/bitwarden/): The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
@@ -30,6 +35,7 @@
 - [Unchained](https://afterkeep.github.io/tools/unchained/): Collaborative-custody Bitcoin vaults (2-of-3 multisig) with inheritance planning. Strong for larger holdings.
 - [Vault12 Guard](https://afterkeep.github.io/tools/vault12/): Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals.
 - [Ledger Recover](https://afterkeep.github.io/tools/ledger-recover/): An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
+- [Proton Pass (Proton Emergency Access)](https://afterkeep.github.io/tools/proton-pass/): A solid privacy-first option: on any paid Proton plan you can name up to five emergency contacts who get access automatically after a wait time you choose, unless you deny the request.
 
 ## Best-of
 - [Best digital legacy vaults](https://afterkeep.github.io/best/best-digital-legacy-vaults/)
@@ -40,3 +46,8 @@
 - [How to export your Google data with Google Takeout](https://afterkeep.github.io/guides/google-takeout-export/)
 - [How to set up Apple Legacy Contact (step by step)](https://afterkeep.github.io/guides/apple-legacy-contact-setup/)
 - [The complete digital estate checklist](https://afterkeep.github.io/guides/digital-estate-checklist/)
+- [Digital estate planning in Australia: wills, executors and online accounts](https://afterkeep.github.io/guides/australian-digital-estate-guide/)
+- [How to access a deceased person's phone and online accounts](https://afterkeep.github.io/guides/access-deceased-persons-phone-and-accounts/)
+
+## Full text
+- [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text

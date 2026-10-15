@@ -127,7 +127,7 @@ PLATFORMS = [
   steps=["Download your archive now: Settings → Your account → Download an archive of your data.","Note the account in your digital estate plan with your wishes.","After a death, family submit X's deceased-user request with ID and a death certificate."],
   faqs=[("Will X give my family my DMs?","No. X won't provide account access to anyone, including family.")]),
  dict(slug="microsoft-outlook", name="Microsoft / Outlook", cat="platforms", url="https://support.microsoft.com/en-us/accounts-billing/manage/accessing-outlook-com-onedrive-and-other-microsoft-services-when-someone-has-died",
-  answer="Microsoft generally won't release a deceased person's Outlook.com or OneDrive content to next of kin without a valid court order or subpoena. Microsoft accounts can also be closed after long periods of inactivity. If you set up OneDrive's digital legacy feature, a trusted contact can request read-only access.",
+  answer="Microsoft won't release a deceased person's Outlook.com or OneDrive content without a valid subpoena or court order.",
   steps=["Check Microsoft's 'Preserve your digital legacy with OneDrive' page and set up a trusted contact if it's available to you.","Store your Microsoft password in a password manager with emergency access.","Export important email and files periodically.","After a death, follow Microsoft's official guidance; expect to need legal documents."],
   faqs=[("Can I get into my late parent's Outlook account?","Usually only with a court order, unless a legacy feature or password was planned in advance.")]),
  dict(slug="linkedin", name="LinkedIn", cat="memorial", url="https://www.linkedin.com/help/linkedin/answer/a1338230",
@@ -149,6 +149,6 @@ BEST = [
   answer="For most people, the best digital legacy setup is a password manager with emergency access (Bitwarden or Keeper) plus a planning vault for documents and wishes (Everplans, Prisidio or GoodTrust). The free Google and Apple legacy settings belong on top of either."),
  dict(slug="best-crypto-inheritance-tools", title="Best crypto inheritance tools", tools=["casa","unchained","vault12","ledger-recover"],
   answer="Casa and Unchained are the strongest choices for Bitcoin inheritance using multisig. Vault12 Guard suits people with many wallets who want social-recovery seed backup. Ledger Recover is a recovery service first and an inheritance tool second."),
- dict(slug="best-password-managers-emergency-access", title="Best password managers for emergency access", tools=["bitwarden","keeper","lastpass-emergency-access","1password","dashlane"],
+ dict(slug="best-password-managers-emergency-access", title="Best password managers for emergency access", tools=["bitwarden","keeper","proton-pass","lastpass-emergency-access","1password","dashlane"],
   answer="Bitwarden is the best password manager for emergency access: affordable, open source and with View or Takeover access. Keeper is a strong alternative. 1Password relies on its Emergency Kit and family recovery. Dashlane no longer has an emergency contact feature."),
 ]
