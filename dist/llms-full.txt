@@ -1454,3 +1454,105 @@ A: Neither shares your password. Apple excludes iCloud Keychain, and Google neve
 Q: What happens if I don't set them up?
 A: Google can delete personal accounts inactive for 2 years, and Apple generally needs a court order or local equivalent.
 
+
+## Vaults & password managers
+URL: https://afterkeep.github.io/tools/vaults/
+
+Password managers and vaults with emergency or legacy access. We list 6 tools in this category. Our top pick is Bitwarden. Each fact in the table links to the official source we checked.
+
+Q: Which vaults & password managers tool is best?
+A: Our top pick is Bitwarden. See each tool's verdict for who it suits and who should skip it.
+
+Q: Are there free vaults & password managers options?
+A: Yes: Bitwarden, LastPass Emergency Access have a free option. Check the official pricing page before you buy.
+
+Q: Which of these work outside the US?
+A: Bitwarden, Keeper, Proton Pass (Proton Emergency Access), 1Password, LastPass Emergency Access, Dashlane are available globally. 
+
+Q: Does Afterkeep store my information?
+A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+
+
+## Crypto inheritance
+URL: https://afterkeep.github.io/tools/crypto/
+
+Pass on self-custodied crypto without exposing your keys. We list 4 tools in this category. Our top pick is Casa. Each fact in the table links to the official source we checked.
+
+Q: Which crypto inheritance tool is best?
+A: Our top pick is Casa. See each tool's verdict for who it suits and who should skip it.
+
+Q: Are there free crypto inheritance options?
+A: None of the tools in this category is free; all need a paid plan. Check the official pricing page before you buy.
+
+Q: Which of these work outside the US?
+A: Casa, Vault12 Guard, Ledger Recover are available globally. Unchained are US-focused.
+
+Q: Does Afterkeep store my information?
+A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+
+
+## Estate & document tools
+URL: https://afterkeep.github.io/tools/estate/
+
+Wills, document vaults and end-of-life planning. We list 4 tools in this category. Each fact in the table links to the official source we checked.
+
+Q: Which estate & document tools tool is best?
+A: It depends on your needs; Everplans, GoodTrust rate highest in our review. See each tool's verdict for who it suits and who should skip it.
+
+Q: Are there free estate & document tools options?
+A: Yes: Everplans have a free option. Check the official pricing page before you buy.
+
+Q: Which of these work outside the US?
+A: Everplans, GoodTrust, Prisidio, Trust & Will are US-focused.
+
+Q: Does Afterkeep store my information?
+A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+
+
+## Platform legacy settings
+URL: https://afterkeep.github.io/tools/platform-settings/
+
+Built-in legacy features and death policies from big tech. We list 2 tools in this category. Our top picks are Apple Legacy Contact, Google Inactive Account Manager. Each fact in the table links to the official source we checked.
+
+Q: Which platform legacy settings tool is best?
+A: Our top picks are Apple Legacy Contact, Google Inactive Account Manager. See each tool's verdict for who it suits and who should skip it.
+
+Q: Are there free platform legacy settings options?
+A: Yes: Apple Legacy Contact, Google Inactive Account Manager have a free option. Check the official pricing page before you buy.
+
+Q: Which of these work outside the US?
+A: Apple Legacy Contact, Google Inactive Account Manager are available globally. 
+
+Q: Does Afterkeep store my information?
+A: No. Afterkeep is a comparison and guide directory only. We don't store passwords, documents or personal data.
+
+
+## Memorial & memory-keeping
+URL: https://afterkeep.github.io/tools/memorial/
+
+Memorialised profiles and ways to preserve stories. This page covers Facebook, Instagram, X (Twitter), LinkedIn, WhatsApp: what each platform does when someone dies and how family can memorialise or remove an account.
+
+Q: Can I memorialise a loved one's social media account?
+A: Facebook and Instagram offer memorialisation. Other platforms mainly offer account removal. See each platform guide for the official steps.
+
+Q: What do I need to memorialise or close an account?
+A: Usually proof of death, such as a death certificate or obituary, and a link to the profile. Each platform's guide lists exactly what it asks for.
+
+Q: Does Afterkeep store my information?
+A: No. Afterkeep is a comparison and guide directory only.
+
+
+## Free digital legacy tools
+URL: https://afterkeep.github.io/tools/free/
+
+These 5 tools have a free option for passing on access: Apple Legacy Contact, Bitwarden, Google Inactive Account Manager, Everplans, LastPass Emergency Access. Free plans often have limits, so check what the paid tier adds.
+
+Q: What is the best free digital legacy tool?
+A: Start with the free built-in settings: Apple Legacy Contact, Google Inactive Account Manager. For passwords, Bitwarden has a free plan; check whether emergency access needs a paid plan.
+
+Q: Are free plans enough?
+A: For platform settings, yes. For password managers and vaults, emergency access may need a paid plan. Each tool page shows the plan required.
+
+Q: Does Afterkeep store my information?
+A: No. Afterkeep is a comparison and guide directory only.
+
