@@ -37,4 +37,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://afterkeep.example/sitemap.xml
+Sitemap: https://afterkeep.github.io/sitemap.xml
