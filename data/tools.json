@@ -75,7 +75,8 @@
      "Free plan; Premium US$19.80/yr",
      "https://bitwarden.com/pricing/"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "keeper": {
    "label": "Good",
@@ -117,7 +118,8 @@
      "Paid, 30-day free trial",
      "https://www.keepersecurity.com/pricing/personal-and-family.html"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "proton-pass": {
    "label": "Good",
@@ -159,7 +161,8 @@
      "Paid (Pass Plus or other paid plan)",
      "https://proton.me/support/proton-pass-plans-explained"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "lastpass-emergency-access": {
    "label": "Use with caution",
@@ -201,7 +204,8 @@
      "Free plan; paid Premium/Families",
      "https://www.lastpass.com/pricing"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "1password": {
    "label": "Use with caution",
@@ -243,7 +247,8 @@
      "Check official pricing",
      null
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "dashlane": {
    "label": "Not recommended",
@@ -285,7 +290,8 @@
      "Check official pricing",
      null
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "google-inactive-account-manager": {
    "label": "Top pick",
@@ -319,7 +325,8 @@
      "✓ Yes, optional",
      "https://support.google.com/accounts/answer/3036546"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "apple-legacy-contact": {
    "label": "Top pick",
@@ -353,7 +360,8 @@
      "✓ Contacts can delete it",
      "https://support.apple.com/en-us/102631"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "casa": {
    "label": "Top pick",
@@ -383,7 +391,8 @@
      "From US$250/yr; inheritance included",
      "https://casa.io/inheritance"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "unchained": {
    "label": "Good",
@@ -413,7 +422,8 @@
      "Check official pricing",
      null
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "vault12": {
    "label": "Good",
@@ -443,7 +453,8 @@
      "Check official pricing",
      null
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "ledger-recover": {
    "label": "Use with caution",
@@ -473,7 +484,8 @@
      "Subscription",
      "https://www.ledger.com/ledger-recover"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "trust-and-will": {
    "label": "Good",
@@ -503,7 +515,8 @@
      "Will from US$199; Trust from US$499; membership US$49/yr",
      "https://trustandwill.com/pricing"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "goodtrust": {
    "label": "Good",
@@ -533,7 +546,8 @@
      "US$149 Estate+ (one price)",
      "https://mygoodtrust.com/pricing"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "everplans": {
    "label": "Good",
@@ -563,7 +577,8 @@
      "Free up to 3 items; Premium US$99.99/yr",
      "https://www.everplans.com/pricing"
     ]
-   }
+   },
+   "affiliate_url": ""
   },
   "prisidio": {
    "label": "Good",
@@ -593,7 +608,8 @@
      "Check official pricing",
      null
     ]
-   }
+   },
+   "affiliate_url": ""
   }
  }
 }

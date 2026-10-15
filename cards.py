@@ -1,4 +1,6 @@
+import json
 import json, html, re
+from logos import AFF
 E=html.escape
 D=json.load(open("data/tools.json"))
 LABEL_CLS={"Top pick":"l-top","Good":"l-good","Use with caution":"l-warn","Not recommended":"l-no"}
@@ -15,7 +17,7 @@ def card(t,CATS,logo,OFFICIAL,rel_for,compare_box=False):
      f'<div class="ch">{logo(t)}<div><h3><a class="stretch" href="/tools/{t["slug"]}/">{E(t["name"])}</a></h3><span class="badge">{E(CATS[t["cat"]][0])}</span></div></div>'
      f'<p class="pills">{pill(t["label"])}{sp}</p><p class="ol">{E(t["one_liner"])}</p>'
      f'<dl class="kf"><dt>Price</dt><dd>{E(t["price_band"])}</dd><dt>How it works</dt><dd>{E(t["mechanism"])}</dd><dt>Trigger</dt><dd>{E(t["trigger"])}</dd><dt>Region</dt><dd>{E(t["region"])}</dd></dl>'
-     f'<p class="meta cardlinks"><a class="btn sm" href="/tools/{t["slug"]}/">Read verdict</a> <a href="{OFFICIAL[t["slug"]]}" rel="{rel_for(t)}" target="_blank">Official site ↗</a>{cb}</p></div>')
+     f'<p class="meta cardlinks"><a class="btn sm" href="/tools/{t["slug"]}/">Read verdict</a> <a href="{OFFICIAL[t["slug"]]}" rel="{rel_for(t)}" target="_blank">Official site ↗</a>{AFF(t)}{cb}</p></div>')
 def cell(v,src):
     s=f' <a class="src" href="{src}" rel="nofollow noopener" target="_blank" aria-label="Source"><sup>src</sup></a>' if src else ""
     cls=' class="y"' if v.startswith("✓") else (' class="n"' if v.startswith("✗") else "")
@@ -36,3 +38,4 @@ CSS+=".cnt{font-weight:400;color:#6b7477;margin-left:.4rem}.cnt:not(:empty)::bef
 CSS+=".vbox{background:#fff;border:2px solid #0a8ea2;border-radius:14px;padding:1rem 1.2rem;margin:1rem 0}.vbox h3{margin:.2rem 0;font-size:.95rem;color:#0e4c6b}.vg{display:grid;grid-template-columns:1fr 1fr;gap:1rem}@media(max-width:640px){.vg{grid-template-columns:1fr}}"
 CSS+=".chooser{background:#fff;border:1px solid #dfe6e8;border-radius:14px;padding:1rem 1.2rem;margin:1.2rem 0}.chooser fieldset{border:0;padding:0;margin:0 0 .7rem;display:flex;flex-wrap:wrap;gap:.4rem}.chooser legend{font-weight:700;margin-bottom:.3rem;width:100%}.chooser label{background:#eef6f7;border-radius:999px;padding:.25rem .75rem;cursor:pointer}.chooser label:has(input:checked){background:#0e4c6b;color:#fff}#chr p:first-child{font-weight:700;font-size:1.1rem;margin:.8rem 0 .2rem}.qp{background:#eef6f7;border-radius:12px;padding:.6rem 1.2rem;margin:1rem 0}.qp h2{margin:.4rem 0;font-size:1.15rem}.toc{font-size:.95rem;margin:.6rem 0}"
 CSS+=".tray{position:sticky;bottom:1rem;float:right;z-index:5;box-shadow:0 4px 14px rgba(0,0,0,.2)}.cmpb input:disabled+*,.cmpb:has(input:disabled){opacity:.45}"
+CSS+=".affl{font-size:.72rem;background:#fff4c2;color:#5c4a00;border-radius:99px;padding:.05rem .5rem;text-decoration:none;margin-left:.3rem}.affn{font-size:.85rem;color:#5c4a00;background:#fffbe6;border-radius:8px;padding:.35rem .7rem}"
