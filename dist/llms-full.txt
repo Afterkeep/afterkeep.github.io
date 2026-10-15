@@ -1455,6 +1455,21 @@ Q: What happens if I don't set them up?
 A: Google can delete personal accounts inactive for 2 years, and Apple generally needs a court order or local equivalent.
 
 
+## How we rate
+URL: https://afterkeep.github.io/how-we-rate/
+
+Every listing gets one of four verdict labels decided from cited official sources; sponsors can't buy a score.
+
+Q: How does Afterkeep rate tools?
+A: We assign one of four verdict labels from category-specific criteria, using only official sources that we cite on each page.
+
+Q: Can a company pay for a better rating?
+A: No. Sponsored placements are labelled and never change a verdict, a fact or a ranking.
+
+Q: Why are there no star scores?
+A: We only publish what we can back with a cited source, so we use clear labels instead of invented numbers.
+
+
 ## Vaults & password managers
 URL: https://afterkeep.github.io/tools/vaults/
 
