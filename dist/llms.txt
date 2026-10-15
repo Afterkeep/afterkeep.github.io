@@ -37,6 +37,11 @@
 - [Ledger Recover](https://afterkeep.github.io/tools/ledger-recover/): An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
 - [Proton Pass (Proton Emergency Access)](https://afterkeep.github.io/tools/proton-pass/): A solid privacy-first option: on any paid Proton plan you can name up to five emergency contacts who get access automatically after a wait time you choose, unless you deny the request.
 
+## Comparisons
+- [Bitwarden vs 1Password for emergency access](https://afterkeep.github.io/compare/bitwarden-vs-1password-emergency-access/): Choose Bitwarden if you want a tested, automatic emergency-access process. Choose 1Password only if you'll store the Emergency Kit safely (with your account password written in) and use a Families plan with two organisers.
+- [GoodTrust vs Everplans](https://afterkeep.github.io/compare/goodtrust-vs-everplans/): Pick GoodTrust to make a US will or trust and record digital assets in one place. Pick Everplans to organise documents, accounts and wishes and share them with family. Australians should get legal documents locally either way.
+- [Google Inactive Account Manager vs Apple Legacy Contact](https://afterkeep.github.io/compare/google-inactive-account-manager-vs-apple-legacy-contact/): Not either-or: set up both. Google's is automatic and flexible but triggers on inactivity, not death. Apple's is triggered by verified death and gives broader account data, but excludes Keychain passwords and purchased media.
+
 ## Best-of
 - [Best digital legacy vaults](https://afterkeep.github.io/best/best-digital-legacy-vaults/)
 - [Best crypto inheritance tools](https://afterkeep.github.io/best/best-crypto-inheritance-tools/)

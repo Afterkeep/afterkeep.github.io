@@ -1349,3 +1349,108 @@ A: Many platform terms prohibit it, and laws vary. Speak to the executor or a la
 Q: What documents do I usually need?
 A: A death certificate, your photo ID and, for anything beyond memorialisation, proof of legal authority such as probate or letters of administration.
 
+
+## Bitwarden vs 1Password for emergency access
+URL: https://afterkeep.github.io/compare/bitwarden-vs-1password-emergency-access/
+
+For emergency access, Bitwarden wins. Its built-in Emergency Access lets trusted contacts request View or Takeover access, granted when you approve or after a wait time you set. 1Password has no equivalent; you rely on a printed Emergency Kit and, on family plans, an organiser who can recover a member's account.
+
+Key facts:
+- Verdict: Choose Bitwarden if you want a tested, automatic emergency-access process.
+- Bitwarden: Free plan available; Emergency Access requires Premium or a paid Families/Teams/Enterprise plan. Check current pricing.
+- 1Password: Paid plans only (free trial). Check current pricing.
+
+Verdict: Choose Bitwarden if you want a tested, automatic emergency-access process. Choose 1Password only if you'll store the Emergency Kit safely (with your account password written in) and use a Families plan with two organisers.
+- Built-in emergency access: Bitwarden: Yes: trusted contacts request access | 1Password: No
+- How a trusted person gets in: Bitwarden: Request approved by you, or automatically after your wait time | 1Password: Using your Emergency Kit (sign-in address, email, Secret Key, password)
+- Access levels: Bitwarden: View or Takeover (new master password) | 1Password: Full account access via the Kit
+- Who can be a contact: Bitwarden: Any free or premium Bitwarden user on the same server | 1Password: Anyone you give the Kit to
+- Number of contacts: Bitwarden: No limit | 1Password: N/A
+- Plan needed: Bitwarden: Premium or a paid Families/Teams/Enterprise plan | 1Password: Any account; family recovery needs a Families or business plan
+- Family recovery: Bitwarden: Organisation account recovery (admins) | 1Password: Family organisers can recover members' accounts
+
+Q: Bitwarden vs 1Password for emergency access: which is better?
+A: For emergency access, Bitwarden wins. Its built-in Emergency Access lets trusted contacts request View or Takeover access, granted when you approve or after a wait time you set. 1Password has no equivalent; you rely on a printed Emergency Kit and, on family plans, an organiser who can recover a member's account.
+
+Q: Does 1Password have emergency access?
+A: Not as an automatic feature. 1Password's Emergency Kit is a PDF with your sign-in details and a space for your password, which you can give to someone you trust. Family organisers can also recover family members' accounts.
+
+Q: How does Bitwarden emergency access work?
+A: You invite a trusted contact and choose View or Takeover access. When they request access, you can approve or reject it; otherwise access is granted after the wait time you set.
+
+Q: Is Bitwarden emergency access free?
+A: Adding trusted contacts needs Premium or a paid organisation plan, but the contact only needs a free Bitwarden account on the same server.
+
+Q: Can a 1Password family organiser get into my vault after I die?
+A: An organiser can begin recovery, but you must confirm by email and create a new password, so on its own it's not a death-planning tool. Pair it with a stored Emergency Kit.
+
+
+## GoodTrust vs Everplans
+URL: https://afterkeep.github.io/compare/goodtrust-vs-everplans/
+
+GoodTrust is the better pick if you need US legal documents: its US$149 Estate+ plan includes a will, trust and directives valid in all 50 US states, plus a Digital Vault. Everplans is a better organiser and sharing vault, free for up to 3 items or US$99.99 a year for Premium, but it doesn't create legal documents.
+
+Key facts:
+- Verdict: Pick GoodTrust to make a US will or trust and record digital assets in one place.
+- GoodTrust: Estate+ plan advertised at $149 (US). Check current pricing.
+- Everplans: Free base app; Everplans Premium is paid. Check current pricing.
+
+Verdict: Pick GoodTrust to make a US will or trust and record digital assets in one place. Pick Everplans to organise documents, accounts and wishes and share them with family. Australians should get legal documents locally either way.
+- Main purpose: GoodTrust: US estate planning documents plus a Digital Vault | Everplans: Organising and securely sharing documents, accounts and wishes
+- Creates a will or trust: GoodTrust: Yes, will, trust and directives valid in all 50 US states | Everplans: No
+- Digital assets vault: GoodTrust: Smart Digital Vault | Everplans: Yes (accounts, documents, wishes)
+- Sharing with family: GoodTrust: You choose who gets access and when | Everplans: Secure sharing (Premium)
+- Free option: GoodTrust: Not listed on the pricing page | Everplans: Free: up to 3 items
+- Paid price (USD): GoodTrust: US$149 Estate+ (one price, one year of unlimited updates) | Everplans: US$99.99/year Premium
+- Family members: GoodTrust: Each adult can create their own plan at no extra cost | Everplans: Per account
+
+Q: GoodTrust vs Everplans: which is better?
+A: GoodTrust is the better pick if you need US legal documents: its US$149 Estate+ plan includes a will, trust and directives valid in all 50 US states, plus a Digital Vault. Everplans is a better organiser and sharing vault, free for up to 3 items or US$99.99 a year for Premium, but it doesn't create legal documents.
+
+Q: Is GoodTrust or Everplans better for wills?
+A: GoodTrust. It creates US wills and trusts; Everplans doesn't create legal documents.
+
+Q: How much do GoodTrust and Everplans cost?
+A: GoodTrust's Estate+ plan is listed at US$149. Everplans is free for up to 3 items, and Premium is US$99.99 a year. Prices are from each company's pricing page and may change.
+
+Q: Do they work in Australia?
+A: GoodTrust's documents are for the 50 US states. Everplans can organise information anywhere, but its guidance is US-oriented. Australians should make their will under local law.
+
+Q: Do I still need a password manager?
+A: Yes. Neither replaces a password manager with emergency access for day-to-day logins.
+
+
+## Google Inactive Account Manager vs Apple Legacy Contact
+URL: https://afterkeep.github.io/compare/google-inactive-account-manager-vs-apple-legacy-contact/
+
+They solve the same problem for different ecosystems, and both are free, so use both if you have Google and Apple accounts. Google's Inactive Account Manager acts automatically after a period of inactivity and can share data with up to 10 people. Apple Legacy Contact needs an access key plus a death certificate.
+
+Key facts:
+- Verdict: Not either-or: set up both.
+- Google Inactive Account Manager: Free.
+- Apple Legacy Contact: Free (requires an Apple Account and a supported OS version).
+
+Verdict: Not either-or: set up both. Google's is automatic and flexible but triggers on inactivity, not death. Apple's is triggered by verified death and gives broader account data, but excludes Keychain passwords and purchased media.
+- Cost: Google Inactive Account Manager: Free | Apple Legacy Contact: Free
+- Trigger: Google Inactive Account Manager: Account inactive for a period you choose | Apple Legacy Contact: Contact submits access key + death certificate
+- Number of people: Google Inactive Account Manager: Up to 10 | Apple Legacy Contact: One or more
+- What they get: Google Inactive Account Manager: The data types you choose (e.g. Mail, Drive, YouTube) via download link | Apple Legacy Contact: Photos, messages, notes, files, device backups and more
+- Excluded: Google Inactive Account Manager: Some information can't be shared | Apple Legacy Contact: iCloud Keychain (passwords, passkeys, payment info), purchased media
+- Can delete account: Google Inactive Account Manager: Yes, optional | Apple Legacy Contact: Contact can choose to delete
+- Setup: Google Inactive Account Manager: Inactive Account Manager page in your Google Account | Apple Legacy Contact: Settings → [name] → Sign-In & Security → Legacy Contact
+
+Q: Google Inactive Account Manager vs Apple Legacy Contact: which is better?
+A: They solve the same problem for different ecosystems, and both are free, so use both if you have Google and Apple accounts. Google's Inactive Account Manager acts automatically after a period of inactivity and can share data with up to 10 people. Apple Legacy Contact needs an access key plus a death certificate.
+
+Q: Should I use both?
+A: Yes, if you use Google and Apple services. They cover different accounts and both are free.
+
+Q: Does Google need a death certificate?
+A: Not for Inactive Account Manager. It triggers after the inactivity period you set. Without a plan, Google's deceased-user requests do require documentation.
+
+Q: Does either share passwords?
+A: Neither shares your password. Apple excludes iCloud Keychain, and Google never provides login details.
+
+Q: What happens if I don't set them up?
+A: Google can delete personal accounts inactive for 2 years, and Apple generally needs a court order or local equivalent.
+
