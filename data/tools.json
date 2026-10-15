@@ -306,8 +306,8 @@
      "https://support.google.com/accounts/answer/3036546"
     ],
     "Trigger": [
-     "Inactivity period you choose",
-     "https://support.google.com/accounts/answer/3036546"
+     "Inactivity period you choose, between 3 and 18 months",
+     "https://blog.google/products-and-platforms/products/workspace/storage-policy-update/"
     ],
     "Number of contacts": [
      "Up to 10",
@@ -349,7 +349,7 @@
      "https://support.apple.com/en-us/102631"
     ],
     "What contacts get": [
-     "Photos, messages, notes, files, backups and more",
+     "Photos, messages, notes, files, backups and more, for 3 years from approval",
      "https://support.apple.com/en-us/102631"
     ],
     "Excluded": [
@@ -607,6 +607,285 @@
     "Price model": [
      "Check official pricing",
      null
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "bitkey": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Beneficiary claim + 6-month delay",
+   "trigger": "Claim + 6-month delay",
+   "region": "Not stated",
+   "skip": "you hold coins other than bitcoin, or your heir won't use a Bitkey device",
+   "facts": {
+    "Custody model": [
+     "2-of-3 multisig self-custody (you hold 2 keys)",
+     "https://bitkey.world/"
+    ],
+    "How heirs get access": [
+     "Beneficiary with their own Bitkey starts a claim in the app",
+     "https://support.bitkey.world/hc/en-us/articles/32141067207444-What-is-Inheritance-and-how-does-it-work"
+    ],
+    "Waiting / verification period": [
+     "6 months; owner gets alerts and can cancel",
+     "https://support.bitkey.world/hc/en-us/articles/32141067207444-What-is-Inheritance-and-how-does-it-work"
+    ],
+    "Supported assets": [
+     "Bitcoin only",
+     "https://bitkey.world/"
+    ],
+    "Price": [
+     "$250 hardware (listed on bitkey.world)",
+     "https://bitkey.world/"
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "nunchuk": {
+   "label": "Good",
+   "price_band": "Free + paid",
+   "mechanism": "Timelock inheritance plan",
+   "trigger": "Timelock date you set",
+   "region": "Not stated",
+   "skip": "you want a fully free inheritance plan",
+   "facts": {
+    "Custody model": [
+     "Assisted multisig; Nunchuk holds one key and can't move funds alone",
+     "https://nunchuk.io/inheritance"
+    ],
+    "How heirs get access": [
+     "Beneficiary claims after the timelock; can also claim without Nunchuk",
+     "https://nunchuk.io/inheritance"
+    ],
+    "Waiting / verification period": [
+     "Unlocks on the date you set (on-chain or off-chain timelock)",
+     "https://nunchuk.io/inheritance"
+    ],
+    "Supported assets": [
+     "Bitcoin",
+     "https://nunchuk.io/inheritance"
+    ],
+    "Price": [
+     "Free DIY wallets; inheritance plan (Honey Badger) 480/year",
+     "https://nunchuk.io/pricing"
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "liana": {
+   "label": "Good",
+   "price_band": "Free + paid",
+   "mechanism": "Time-based recovery path",
+   "trigger": "Timelock you set",
+   "region": "Global",
+   "skip": "you want someone else to set it up and guide your heirs",
+   "facts": {
+    "Custody model": [
+     "Self-custody; no third party holds your keys",
+     "https://wizardsardine.com/liana/"
+    ],
+    "How heirs get access": [
+     "Time-based recovery path to a family member or trusted contact",
+     "https://wizardsardine.com/liana/wallet"
+    ],
+    "Waiting / verification period": [
+     "Timelock you configure",
+     "https://wizardsardine.com/liana/wallet"
+    ],
+    "Supported assets": [
+     "Bitcoin",
+     "https://wizardsardine.com/liana/"
+    ],
+    "Price": [
+     "Liana Wallet free and open source; Liana Business paid",
+     "https://wizardsardine.com/liana/"
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "anchorwatch": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Inheritance Protocol + documentation",
+   "trigger": "Beneficiary contacts AnchorWatch",
+   "region": "Global",
+   "skip": "you want a DIY, no-company setup",
+   "facts": {
+    "Custody model": [
+     "You hold keys alongside AnchorWatch, or multi-institution custody",
+     "https://www.anchorwatch.com/"
+    ],
+    "How heirs get access": [
+     "Recovery when the beneficiary contacts AnchorWatch; docs for your attorney",
+     "https://www.anchorwatch.com/inheritance"
+    ],
+    "Waiting / verification period": [
+     "Not stated",
+     null
+    ],
+    "Supported assets": [
+     "Bitcoin",
+     "https://www.anchorwatch.com/"
+    ],
+    "Price": [
+     "Check official pricing",
+     null
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "trustworthy": {
+   "label": "Good",
+   "price_band": "Free + paid",
+   "mechanism": "Family document organiser",
+   "trigger": "Sharing you set up",
+   "region": "Not stated",
+   "skip": "you need a will written",
+   "facts": {
+    "Creates a will or trust": [
+     "Not stated",
+     null
+    ],
+    "Countries supported": [
+     "Not stated",
+     null
+    ],
+    "Digital asset inventory": [
+     "Organises family documents and information",
+     "https://www.trustworthy.com/"
+    ],
+    "Document vault / sharing": [
+     "✓ Encrypted vault; legacy access in plan comparison",
+     "https://www.trustworthy.com/pricing"
+    ],
+    "Price model": [
+     "Free; Silver $10/mo, Gold $20/mo, Platinum $40/mo (paid annually)",
+     "https://www.trustworthy.com/pricing"
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "mywishes": {
+   "label": "Good",
+   "price_band": "Free",
+   "mechanism": "Free wishes and will documents",
+   "trigger": "Documents you share",
+   "region": "Not stated",
+   "skip": "you want a lawyer-reviewed will",
+   "facts": {
+    "Creates a will or trust": [
+     "✓ Free Last Will & Testament to download, print and sign",
+     "https://mywishes.co.uk/"
+    ],
+    "Countries supported": [
+     "Not stated (UK-based site)",
+     null
+    ],
+    "Digital asset inventory": [
+     "✓ 'Digital & Social Media Will'",
+     "https://mywishes.co.uk/"
+    ],
+    "Document vault / sharing": [
+     "Download, print and share completed documents",
+     "https://mywishes.co.uk/"
+    ],
+    "Price model": [
+     "Free",
+     "https://mywishes.co.uk/"
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "securesafe": {
+   "label": "Use with caution",
+   "price_band": "Paid",
+   "mechanism": "Activator code + blocking period",
+   "trigger": "Activator code",
+   "region": "Global",
+   "skip": "you're on the new SecureSafe app, which lacks data inheritance",
+   "facts": {
+    "Creates a will or trust": [
+     "Not stated",
+     null
+    ],
+    "Countries supported": [
+     "Not stated (Swiss-hosted)",
+     null
+    ],
+    "Digital asset inventory": [
+     "Passwords and files assigned to beneficiaries",
+     "https://help.securesafe.com/securesafe-settings-data-inheritance"
+    ],
+    "Document vault / sharing": [
+     "Data inheritance in SecureSafe Classic only; not in the new app",
+     "https://help.securesafe.com/securesafe-file-old-vs-new-version"
+    ],
+    "Price model": [
+     "Check official pricing",
+     null
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "life-ledger": {
+   "label": "Good",
+   "price_band": "Free",
+   "mechanism": "Death notification service",
+   "trigger": "After a death",
+   "region": "UK",
+   "skip": "the estate isn't in the UK",
+   "facts": {
+    "Creates a will or trust": [
+     "Not stated",
+     null
+    ],
+    "Countries supported": [
+     "UK (1,000+ UK companies)",
+     "https://lifeledger.com/"
+    ],
+    "Digital asset inventory": [
+     "Not stated",
+     null
+    ],
+    "Document vault / sharing": [
+     "Upload documents and track notifications in one place",
+     "https://lifeledger.com/"
+    ],
+    "Price model": [
+     "Free, unlimited notifications",
+     "https://lifeledger.com/"
+    ]
+   },
+   "affiliate_url": ""
+  },
+  "settld": {
+   "label": "Good",
+   "price_band": "Free",
+   "mechanism": "Bereavement admin service",
+   "trigger": "After a death",
+   "region": "UK",
+   "skip": "the estate isn't in the UK",
+   "facts": {
+    "Creates a will or trust": [
+     "Not stated",
+     null
+    ],
+    "Countries supported": [
+     "UK (works alongside Tell Us Once)",
+     "https://settld.care/"
+    ],
+    "Digital asset inventory": [
+     "Not stated",
+     null
+    ],
+    "Document vault / sharing": [
+     "Track updates in one secure space",
+     "https://settld.care/"
+    ],
+    "Price model": [
+     "Free to use",
+     "https://settld.care/"
     ]
    },
    "affiliate_url": ""

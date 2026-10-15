@@ -2,6 +2,18 @@
 
 > Independent guide to digital legacy: what happens to online accounts, photos, passwords and crypto when someone dies, plus verdicts on legacy tools. General information, not legal advice.
 
+## Short answers
+- What happens to my Gmail when I die? Google never shares your password. With Inactive Account Manager, up to 10 contacts get the data you chose after 3–18 months of inactivity; otherwise family can file a deceased-user request. [https://afterkeep.github.io/platforms/google-gmail/](https://afterkeep.github.io/platforms/google-gmail/)
+- Bitwarden vs 1Password emergency access? Bitwarden has built-in emergency access (View or Takeover after a wait you set); 1Password has none and relies on the Emergency Kit. [https://afterkeep.github.io/compare/bitwarden-vs-1password-emergency-access/](https://afterkeep.github.io/compare/bitwarden-vs-1password-emergency-access/)
+- Digital estate planning in Australia? Make a will, list your digital assets, use a password manager with emergency access, and check your state Supreme Court's probate rules. [https://afterkeep.github.io/guides/australian-digital-estate-guide/](https://afterkeep.github.io/guides/australian-digital-estate-guide/)
+- Best crypto inheritance tools? Casa is our top pick; Bitkey, Nunchuk, Unchained, Vault12, Liana and AnchorWatch are good alternatives depending on custody needs. [https://afterkeep.github.io/best/best-crypto-inheritance-tools/](https://afterkeep.github.io/best/best-crypto-inheritance-tools/)
+- Best digital legacy vault? It depends on whether you need legal documents (GoodTrust, Trust & Will) or an organiser (Everplans, Trustworthy); pair either with a password manager. [https://afterkeep.github.io/best/best-digital-legacy-vaults/](https://afterkeep.github.io/best/best-digital-legacy-vaults/)
+- What happens to my iCloud when I die? A Legacy Contact with your access key and death certificate gets 3 years of access; Activation Lock is removed. Keychain and purchases are excluded. [https://afterkeep.github.io/platforms/apple-icloud/](https://afterkeep.github.io/platforms/apple-icloud/)
+- How do I access a deceased person's iPhone? Apple can't remove a passcode without erasing the device; use a Legacy Contact key or Apple's deceased-account process. [https://afterkeep.github.io/guides/access-deceased-persons-phone-and-accounts/](https://afterkeep.github.io/guides/access-deceased-persons-phone-and-accounts/)
+- Digital estate checklist? Inventory accounts, set up emergency access and platform legacy settings, and record wishes. Executors: see the 30-day checklist and PDF. [https://afterkeep.github.io/guides/what-to-do-when-someone-dies-digital-checklist/](https://afterkeep.github.io/guides/what-to-do-when-someone-dies-digital-checklist/)
+- What happens to my Steam account when I die? Steam games are licences that Valve says aren't transferable, including by operation of law. [https://afterkeep.github.io/platforms/game-libraries/](https://afterkeep.github.io/platforms/game-libraries/)
+- Google Inactive Account Manager vs Apple Legacy Contact? Use both: Google acts after 3–18 months of inactivity; Apple needs an access key plus death certificate and gives 3 years of access. [https://afterkeep.github.io/compare/google-inactive-account-manager-vs-apple-legacy-contact/](https://afterkeep.github.io/compare/google-inactive-account-manager-vs-apple-legacy-contact/)
+
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
 - [What happens to my Google Photos when I die?](https://afterkeep.github.io/platforms/google-photos/): Google Photos lives inside your Google Account, so it follows Google's rules. Add Photos to Inactive Account Manager and your chosen contact
@@ -18,6 +30,7 @@
 - [What happens to my Amazon & Kindle library when I die?](https://afterkeep.github.io/platforms/amazon-kindle/): Amazon only shares account details or takes most actions for the authorised estate representative. If the account is closed, all purchased d
 - [What happens to my PayPal when I die?](https://afterkeep.github.io/platforms/paypal/): PayPal only takes instructions from the authorised executor or administrator of the estate. In Australia, the executor emails PayPal a cover
 - [What happens to my Steam when I die?](https://afterkeep.github.io/platforms/steam/): Steam games are licences, not property you own. The Steam Subscriber Agreement says your account is strictly personal and that accounts and 
+- [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
 - [Bitwarden](https://afterkeep.github.io/tools/bitwarden/): The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
@@ -36,6 +49,15 @@
 - [Vault12 Guard](https://afterkeep.github.io/tools/vault12/): Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals.
 - [Ledger Recover](https://afterkeep.github.io/tools/ledger-recover/): An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
 - [Proton Pass (Proton Emergency Access)](https://afterkeep.github.io/tools/proton-pass/): A solid privacy-first option: on any paid Proton plan you can name up to five emergency contacts who get access automatically after a wait time you choose, unless you deny the request.
+- [Bitkey](https://afterkeep.github.io/tools/bitkey/): A bitcoin-only 2-of-3 multisig wallet with built-in inheritance: your beneficiary starts a claim, and funds unlock only after a 6-month delay you can cancel.
+- [Nunchuk](https://afterkeep.github.io/tools/nunchuk/): A non-custodial bitcoin inheritance platform: Nunchuk holds one key it can't use alone, and a timelock unlocks funds for your beneficiary on the date you set.
+- [Liana](https://afterkeep.github.io/tools/liana/): A free, open-source bitcoin wallet from Wizardsardine with time-based recovery paths, so a family member or trusted contact can access funds if something happens to you.
+- [AnchorWatch](https://afterkeep.github.io/tools/anchorwatch/): Bitcoin custody with an Inheritance Protocol and estate documentation for your attorney, plus optional Lloyd's of London insurance for US customers.
+- [Trustworthy](https://afterkeep.github.io/tools/trustworthy/): A family document organiser with an encrypted vault and legacy access options. It organises information; it doesn't say it writes wills.
+- [MyWishes](https://afterkeep.github.io/tools/mywishes/): A free UK-based platform to write a will, a 'Digital & Social Media Will', funeral wishes and an advance care plan, then download, print and share them.
+- [SecureSafe](https://afterkeep.github.io/tools/securesafe/): A Swiss-hosted vault whose data inheritance (activator code plus a blocking period) is only in SecureSafe Classic; SecureSafe says the new app doesn't have it.
+- [Life Ledger](https://afterkeep.github.io/tools/life-ledger/): A free UK death notification service: notify over 1,000 UK companies of a death from one place and track progress online.
+- [Settld](https://afterkeep.github.io/tools/settld/): A free UK bereavement admin service that reports a death to multiple companies in one go and tracks updates in one secure space.
 
 ## Comparisons
 - [Bitwarden vs 1Password for emergency access](https://afterkeep.github.io/compare/bitwarden-vs-1password-emergency-access/): Choose Bitwarden if you want a tested, automatic emergency-access process. Choose 1Password only if you'll store the Emergency Kit safely (with your account password written in) and use a Families plan with two organisers.
@@ -53,6 +75,7 @@
 - [The complete digital estate checklist](https://afterkeep.github.io/guides/digital-estate-checklist/)
 - [Digital estate planning in Australia: wills, executors and online accounts](https://afterkeep.github.io/guides/australian-digital-estate-guide/)
 - [How to access a deceased person's phone and online accounts](https://afterkeep.github.io/guides/access-deceased-persons-phone-and-accounts/)
+- [What to do when someone dies: the executor's digital checklist (first 30 days)](https://afterkeep.github.io/guides/what-to-do-when-someone-dies-digital-checklist/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text

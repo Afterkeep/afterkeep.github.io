@@ -48,12 +48,14 @@ GUIDES=[]
 # ---- enrichment & shared helpers
 import enrich
 from enrich import CHECKED
+import growth; growth.pre(enrich)
 for p in PLATFORMS:
     e=enrich.P.get(p["slug"],{}); p.update(e)
     if p["slug"]=="microsoft-outlook":
         p["steps"]=["Store your Microsoft password in a password manager with emergency access, so someone you trust can close the account.","Export important email and OneDrive files periodically.","After a death: if you have the password you can close the account yourself; Microsoft says you don't need to report the death.","Without access: cancel Microsoft subscriptions through the bank, and get legal advice if you need the content (a subpoena or court order is required)."]
 PLATFORMS+=enrich.NEWP
 TOOLS+=enrich.TOOL_NEW
+growth.post(PLATFORMS,TOOLS,BEST,OFFICIAL)
 import cards as CD; CD.merge(TOOLS)
 for _t in TOOLS:
     if _t.get("affiliate_url"): OFFICIAL[_t["slug"]]=_t["affiliate_url"]
@@ -64,6 +66,7 @@ for p in PLATFORMS: TITLES[f"/platforms/{p['slug']}/"]=f"What happens to my {p['
 for x in BEST: TITLES[f"/best/{x['slug']}/"]=x["title"]
 TITLES["/platforms/"]="All platform guides"; TITLES["/compare/"]="All comparisons"
 from compare import CMP
+growth.cmp(CMP)
 for c in CMP: TITLES[f"/compare/{c['slug']}/"]=c["title"]
 def cmp_for(slug): return [f"/compare/{c['slug']}/" for c in CMP if slug in (c["a"],c["b"]) or slug in c.get("best",[])]
 G=[("google-takeout-export","How to export your Google data with Google Takeout","Google Takeout (takeout.google.com) lets you download a copy of your Gmail, Google Photos, Drive and other Google data as .zip or .tgz archives, either once or on a recurring schedule. It's free and works in any browser.",
@@ -167,7 +170,7 @@ for slug,title,ans,steps,faqs,src,srcs,tl,rel in G:
     facts=tl or [f"{len(steps)} steps","Free to do","Based on official platform and government pages"]
     ch,cld=crumbs([("Guides","/guides/"),(title,None)])
     stp="".join(f"<li>{E(s)}</li>" for s in steps)
-    b=f'{ch}<h1>{E(title)}</h1><p class="lead">{E(ans)}</p>{facts_html(facts)}<h2>What are the steps?</h2><ol>{stp}</ol>'+(f'<p><a class="btn" href="{src}" target="_blank" rel="noopener">Official source {ARROW}</a></p>' if src else "")+faq_html(faqs)+src_html(srcs)+rel_html(rel+["/platforms/","/best/best-password-managers-emergency-access/"])+'<p class="meta">General information, not legal advice. Laws vary by country and Australian state.</p>'
+    b=f'{ch}<h1>{E(title)}</h1><p class="lead">{E(ans)}</p>{facts_html(facts)}<h2>What are the steps?</h2><ol>{stp}</ol>'+growth.EXTRA.get(slug,"")+(f'<p><a class="btn" href="{src}" target="_blank" rel="noopener">Official source {ARROW}</a></p>' if src else "")+faq_html(faqs)+src_html(srcs)+rel_html(rel+["/platforms/","/best/best-password-managers-emergency-access/"])+'<p class="meta">General information, not legal advice. Laws vary by country and Australian state.</p>'
     howto={"@context":"https://schema.org","@type":"HowTo","name":title,"step":[{"@type":"HowToStep","text":s} for s in steps]}
     page(f"/guides/{slug}/",title,ans[:155],b,[faq_ld(faqs),howto,cld],"Article"); GUIDES.append((slug,title,ans))
     full(f"/guides/{slug}/",title,ans,facts,faqs,"Steps:\n"+"".join(f"{i+1}. {x}\n" for i,x in enumerate(steps))+"\n")
@@ -182,11 +185,19 @@ for c in CMP:
     page(f"/compare/{c['slug']}/",c["title"]+" (2026)",c["answer"][:155],b,[faq_ld(faqs),cld],"Article")
     full(f"/compare/{c['slug']}/",c["title"],c["answer"],facts,faqs,"Verdict: "+c["verdict"]+"\n"+"".join(f"- {r[0]}: {A['name']}: {r[1]} | {Bt['name']}: {r[2]}\n" for r in c["rows"])+"\n")
 ch,cld=crumbs([("Compare",None)])
+# 3-way compare
+_tt=[T["bitwarden"],T["1password"],T["keeper"]]
+_ch,_cld=crumbs([("Compare","/compare/"),(growth.TRI_TITLE,None)])
+_heirs="".join(f"<h3 class='ih'>{logo(T[k],28)}{E(n)}</h3><ol>"+"".join(f"<li>{E(x)}</li>" for x in st)+f"</ol><p><a href='{OFFICIAL[k]}' rel='{rel_for(T[k])}' target='_blank'>Official site ↗</a>{AFF(T[k])}</p>" for (n,st),k in zip(growth.TRI_HEIRS,["bitwarden","keeper","1password"]))
+_b=f"{_ch}<h1>{E(growth.TRI_TITLE)} (2026)</h1><p class='lead'><strong>Short answer:</strong> {E(growth.TRI_ANS)}</p>"+facts_html(["Bitwarden: built-in emergency access; Premium US$19.80/yr (checked 15 Oct 2026)","Keeper: built-in emergency access; up to 5 contacts; optional delay up to 3 months","1Password: no built-in emergency access; Emergency Kit"])+"<h2>How do they compare side by side?</h2>"+CD.ftable(_tt,"vaults",logo,growth.TRI_TITLE)+"<h2>What do heirs actually do, step by step?</h2>"+_heirs+faq_html(growth.TRI_FAQ)+src_html([("Bitwarden Help: Emergency access","https://bitwarden.com/help/emergency-access/"),("Bitwarden: Pricing","https://bitwarden.com/pricing/"),("Keeper Docs: Emergency access","https://docs.keeper.io/en/user-guides/emergency-access"),("1Password Support: Emergency Kit","https://support.1password.com/emergency-kit/"),("1Password Support: Recovery","https://support.1password.com/recovery/")])+rel_html(["/compare/bitwarden-vs-1password-emergency-access/","/best/best-password-managers-emergency-access/"])
+TITLES[f"/compare/{growth.TRI_SLUG}/"]=growth.TRI_TITLE
+page(f"/compare/{growth.TRI_SLUG}/",growth.TRI_TITLE+" (2026)",growth.TRI_ANS[:155],_b,[faq_ld(growth.TRI_FAQ),_cld],"Article")
+full(f"/compare/{growth.TRI_SLUG}/",growth.TRI_TITLE,growth.TRI_ANS,[],growth.TRI_FAQ,"")
 import json as _j
 _TJ={"rows":CD.D["rows"],"cmp":{"-".join(sorted([c["a"],c["b"]])):c["slug"] for c in CMP if "a" in c},"t":{t["slug"]:{"n":t["name"],"c":t["cat"],"l":t["label"],"f":{k:v[0] for k,v in t.get("facts",{}).items()}} for t in TOOLS}}
 os.makedirs(OUT,exist_ok=True); open(OUT+"/tools.json","w").write(_j.dumps(_TJ,separators=(",",":")))
 page("/compare/","Digital legacy tool comparisons","Side-by-side comparisons of digital legacy tools: Bitwarden vs 1Password, GoodTrust vs Everplans, Google Inactive Account Manager vs Apple Legacy Contact.",
-"<div id='cmpdyn'></div>"+ f"{ch}<h1 class='ih'>{icon('compare',36)}Digital legacy comparisons</h1><p class='lead'>Head-to-head comparisons of the tools people most often choose between, each with a feature table, a clear verdict and official sources.</p><div class='grid'>"+"".join(f"<a class='card' href='/compare/{c['slug']}/'><div class='ch'>{icon('compare',26,'ico ci')}</div><h3>{E(c['title'])}</h3><p class='meta'>{E(c['verdict'][:130])}…</p></a>" for c in CMP)+"</div>",[cld,{"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":i+1,"name":c["title"],"url":SITE+f"/compare/{c['slug']}/"} for i,c in enumerate(CMP)]}])
+"<div id='cmpdyn'></div>"+f"<p><a class='btn' href='/compare/{growth.TRI_SLUG}/'>New: {E(growth.TRI_TITLE)}</a></p>"+ f"{ch}<h1 class='ih'>{icon('compare',36)}Digital legacy comparisons</h1><p class='lead'>Head-to-head comparisons of the tools people most often choose between, each with a feature table, a clear verdict and official sources.</p><div class='grid'>"+"".join(f"<a class='card' href='/compare/{c['slug']}/'><div class='ch'>{icon('compare',26,'ico ci')}</div><h3>{E(c['title'])}</h3><p class='meta'>{E(c['verdict'][:130])}…</p></a>" for c in CMP)+"</div>",[cld,{"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":i+1,"name":c["title"],"url":SITE+f"/compare/{c['slug']}/"} for i,c in enumerate(CMP)]}])
 # index pages
 FB="<form class='fbar' id='fbar' hidden aria-label='Filter tools'><fieldset><legend>Category</legend>"+"".join(f"<label><input type='checkbox' name='cat' value='{k}'> {E(v[0])}</label>" for k,v in CATS.items() if k in('vaults','platforms','crypto','estate'))+"</fieldset><fieldset><legend>Price</legend><label><input type='checkbox' name='price' value='free'> Has a free option</label><label><input type='checkbox' name='rec' value='1'> Recommended only</label></fieldset><fieldset><legend>Region</legend><label><input type='checkbox' name='region' value='Global'> Global</label><label><input type='checkbox' name='region' value='US'> US</label></fieldset><label>Sort <select name='sort'><option value=''>By category</option><option value='name'>A–Z</option><option value='verdict'>Verdict</option></select></label><p><span id='fcount' aria-live='polite'></span> <button type='reset' class='btn2'>Clear filters</button></p></form>"
 CATLINKS="<p class='catl'>Browse: "+" · ".join(f"<a href='{u}'>{n}</a>" for u,n in [("/tools/vaults/","Vaults"),("/tools/crypto/","Crypto"),("/tools/estate/","Estate"),("/tools/platform-settings/","Platform settings"),("/tools/memorial/","Memorial"),("/tools/free/","Free tools")])+"</p>"
@@ -251,7 +262,7 @@ open(OUT+"/sitemap.xml","w").write('<?xml version="1.0" encoding="UTF-8"?><urlse
 bots=["GPTBot","ChatGPT-User","OAI-SearchBot","ClaudeBot","Claude-Web","anthropic-ai","PerplexityBot","Google-Extended","Applebot-Extended","CCBot","Bingbot","Googlebot"]
 open(OUT+"/robots.txt","w").write("".join(f"User-agent: {b}\nAllow: /\n\n" for b in bots)+f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
 llms="# Afterkeep\n\n> Independent guide to digital legacy: what happens to online accounts, photos, passwords and crypto when someone dies, plus verdicts on legacy tools. General information, not legal advice.\n\n"
-llms+="## Platforms\n"+"".join(f"- [What happens to my {p['name']} when I die?]({SITE}/platforms/{p['slug']}/): {p['answer'][:140]}\n" for p in PLATFORMS)
+llms+="## Short answers\n"+"".join(f"- {q} {a} [{SITE}{u}]({SITE}{u})\n" for q,a,u in growth.SHORT)+"\n## Platforms\n"+"".join(f"- [What happens to my {p['name']} when I die?]({SITE}/platforms/{p['slug']}/): {p['answer'][:140]}\n" for p in PLATFORMS)
 llms+="\n## Tools\n"+"".join(f"- [{t['name']}]({SITE}/tools/{t['slug']}/): {t['verdict']}\n" for t in TOOLS)
 llms+="\n## Comparisons\n"+"".join(f"- [{c['title']}]({SITE}/compare/{c['slug']}/): {c['verdict']}\n" for c in CMP)
 llms+="\n## Best-of\n"+"".join(f"- [{b['title']}]({SITE}/best/{b['slug']}/)\n" for b in BEST)+"\n## Guides\n"+"".join(f"- [{t}]({SITE}/guides/{s}/)\n" for s,t,a in GUIDES)
