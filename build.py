@@ -52,6 +52,7 @@ for p in PLATFORMS:
         p["steps"]=["Store your Microsoft password in a password manager with emergency access, so someone you trust can close the account.","Export important email and OneDrive files periodically.","After a death: if you have the password you can close the account yourself; Microsoft says you don't need to report the death.","Without access: cancel Microsoft subscriptions through the bank, and get legal advice if you need the content (a subpoena or court order is required)."]
 PLATFORMS+=enrich.NEWP
 TOOLS+=enrich.TOOL_NEW
+import cards as CD; CD.merge(TOOLS)
 T={t["slug"]:t for t in TOOLS}
 TITLES={}
 for t in TOOLS: TITLES[f"/tools/{t['slug']}/"]=f"{t['name']} review"
@@ -90,7 +91,7 @@ def lst(h2,items): return f"<h2>{E(h2)}</h2><ul>"+"".join(f"<li>{E(x)}</li>" for
 def faq_html(faqs): return "<h2>Frequently asked questions</h2>"+"".join(f"<h3>{E(q)}</h3><p>{E(a)}</p>" for q,a in faqs)
 def full(path,title,ans,facts,faqs,extra=""):
     FULL.append(f"## {title}\nURL: {SITE}{path}\n\n{ans}\n\n"+("Key facts:\n"+"".join(f"- {x}\n" for x in facts)+"\n" if facts else "")+extra+"".join(f"Q: {q}\nA: {a}\n\n" for q,a in faqs))
-def tcard(t): return f'<div class="card"><div class="ch">{logo(t)}<span class="badge">{E(CATS[t["cat"]][0])}</span></div><h3><a class="stretch" href="/tools/{t["slug"]}/">{E(t["name"])}</a></h3><p>{E(t["verdict"])}</p><p class="meta cardlinks"><a href="/tools/{t["slug"]}/">Read verdict</a> · <a href="{OFFICIAL[t["slug"]]}" rel="{rel_for(t)}" target="_blank">Official site ↗</a></p></div>'
+def tcard(t,cb=False): return CD.card(t,CATS,logo,OFFICIAL,rel_for,cb)
 def pcard(p): return f'<a class="card" href="/platforms/{p["slug"]}/"><div class="ch">{mono(p["name"])}</div><h3>What happens to my {E(p["name"])} when I die?</h3><p class="meta">{E(p["answer"][:120])}…</p></a>'
 GUIDES=[]
 ARROW="↗"
@@ -130,14 +131,15 @@ for p in PLATFORMS:
 for bp in BEST:
     items=[T[s] for s in bp["tools"]]
     rows="".join(f'<h3 class="ih">{logo(t,32)}{i+1}. <a href="/tools/{t["slug"]}/">{E(t["name"])}</a> <a class="meta" href="{OFFICIAL[t["slug"]]}" rel="{rel_for(t)}" target="_blank">Official site ↗</a></h3><p><strong>Best for:</strong> {E(t["best"])}</p><p>{E(t["verdict"])}</p><p class="meta">Pricing: {E(t["pricing"])}</p>' for i,t in enumerate(items))
-    tbl="<table style='width:100%;border-collapse:collapse;background:#fff'><tr><th align=left>Tool</th><th align=left>Best for</th></tr>"+"".join(f"<tr><td style='border-top:1px solid #eee;padding:.4rem'><span class='ih'>{logo(t,32)}<a href='/tools/{t['slug']}/'>{E(t['name'])}</a></span></td><td style='border-top:1px solid #eee;padding:.4rem'>{E(t['best'])}</td></tr>" for t in items)+"</table>"
+    cats_in=[t["cat"] for t in items]; mc=max(set(cats_in),key=cats_in.count)
+    tbl=CD.ftable([t for t in items if t["cat"]==mc],mc,logo,f"{bp['title']}: key features compared","")
     il={"@context":"https://schema.org","@type":"ItemList","name":bp["title"],"itemListElement":[{"@type":"ListItem","position":i+1,"name":t["name"],"url":SITE+f"/tools/{t['slug']}/"} for i,t in enumerate(items)]}
     title=f"{bp['title']} (2026)"
     faqs=[(f"What are the {bp['title'].lower()}?",bp["answer"])]+[(f"Is {t['name']} a good choice?",t["verdict"]) for t in items[:4]]
     facts=[f"#{i+1} {t['name']}: {t['best']}" for i,t in enumerate(items)]
     ch,cld=crumbs([("Best of","/best/"),(bp["title"],None)])
     srcs=[(f"{t['name']}: official docs",t["url"]) for t in items]
-    page(f"/best/{bp['slug']}/",title,bp["answer"][:155],f'{ch}<h1>{E(title)}</h1><p class="lead">{E(bp["answer"])}</p>{facts_html(facts)}<h2>How do these tools compare?</h2><div style="overflow-x:auto">{tbl}</div><h2>Which should you choose?</h2>{rows}{faq_html(faqs)}{src_html(srcs)}{rel_html([f"/compare/{c['slug']}/" for c in CMP if c["a"] in bp["tools"] or c["b"] in bp["tools"]]+["/compare/","/guides/digital-estate-checklist/","/guides/australian-digital-estate-guide/"])}',[il,faq_ld(faqs),cld],"Article")
+    page(f"/best/{bp['slug']}/",title,bp["answer"][:155],f'{ch}<h1>{E(title)}</h1><p class="lead">{E(bp["answer"])}</p>{facts_html(facts)}<h2>How do these tools compare?</h2>{tbl}<h2>Which should you choose?</h2>{rows}{faq_html(faqs)}{src_html(srcs)}{rel_html([f"/compare/{c['slug']}/" for c in CMP if c["a"] in bp["tools"] or c["b"] in bp["tools"]]+["/compare/","/guides/digital-estate-checklist/","/guides/australian-digital-estate-guide/"])}',[il,faq_ld(faqs),cld],"Article")
     full(f"/best/{bp['slug']}/",title,bp["answer"],facts,faqs)
 # guides
 GX={"google-takeout-export":[("What formats does Google Takeout use?","You can choose .zip or .tgz archives and a maximum archive size."),("Where should I store a Takeout backup?","On an external drive plus a second location, and note it in your digital estate checklist."),("Why back up if I use Inactive Account Manager?","Google can delete personal accounts that are inactive for 2 years, and family requests without a plan aren't guaranteed. An offline copy removes that risk.")],
@@ -157,11 +159,11 @@ for slug,title,ans,steps,faqs,src,srcs,tl,rel in G:
 # compare
 for c in CMP:
     A,Bt=T[c["a"]],T[c["b"]]
-    tbl="<table style='width:100%;border-collapse:collapse;background:#fff'><tr><th align=left>Feature</th><th align=left><span class='ih'>"+logo(A,32)+"<a href='/tools/"+A["slug"]+"/'>"+E(A["name"])+"</a></span></th><th align=left><span class='ih'>"+logo(Bt,32)+"<a href='/tools/"+Bt["slug"]+"/'>"+E(Bt["name"])+"</a></span></th></tr>"+"".join(f"<tr><td style='border-top:1px solid #eee;padding:.5rem'><strong>{E(r[0])}</strong></td><td style='border-top:1px solid #eee;padding:.5rem'>{E(r[1])}</td><td style='border-top:1px solid #eee;padding:.5rem'>{E(r[2])}</td></tr>" for r in c["rows"])+"</table>"
+    tbl=CD.ftable([A,Bt],A["cat"],logo,c["title"]+": side by side") if A["cat"]==Bt["cat"] else ""
     faqs=[(c["title"]+": which is better?",c["answer"])]+c["faqs"]
     facts=[f"Verdict: {c['verdict'].split('.')[0]}.",f"{A['name']}: {A['pricing']}",f"{Bt['name']}: {Bt['pricing']}"]
     ch,cld=crumbs([("Compare","/compare/"),(c["title"],None)])
-    b=f'{ch}<h1>{E(c["title"])} (2026)</h1><p class="lead"><strong>Short answer:</strong> {E(c["answer"])}</p>{facts_html(facts)}<h2>How do they compare side by side?</h2><div style="overflow-x:auto">{tbl}</div><h2>Which should you choose?</h2><p class="box"><strong>Verdict:</strong> {E(c["verdict"])}</p><h3 class="ih">{logo(A,32)}{E(A["name"])}</h3><p>{E(A["verdict"])} <a href="{OFFICIAL[A["slug"]]}" rel="{rel_for(A)}" target="_blank">Official site ↗</a></p><h3 class="ih">{logo(Bt,32)}{E(Bt["name"])}</h3><p>{E(Bt["verdict"])} <a href="{OFFICIAL[Bt["slug"]]}" rel="{rel_for(Bt)}" target="_blank">Official site ↗</a></p>{faq_html(faqs)}{src_html(c["sources"])}{rel_html(c["related"]+["/compare/"])}<p class="meta">Afterkeep is independent. Sponsorship never changes comparisons or verdicts.</p>'
+    b=f'{ch}<h1>{E(c["title"])} (2026)</h1><p class="lead"><strong>Short answer:</strong> {E(c["answer"])}</p>{facts_html(facts)}<h2>How do they compare side by side?</h2>{tbl}<h2>Which should you choose?</h2><p class="box"><strong>Verdict:</strong> {E(c["verdict"])}</p><h3 class="ih">{logo(A,32)}{E(A["name"])}</h3><p>{E(A["verdict"])} <a href="{OFFICIAL[A["slug"]]}" rel="{rel_for(A)}" target="_blank">Official site ↗</a></p><h3 class="ih">{logo(Bt,32)}{E(Bt["name"])}</h3><p>{E(Bt["verdict"])} <a href="{OFFICIAL[Bt["slug"]]}" rel="{rel_for(Bt)}" target="_blank">Official site ↗</a></p>{faq_html(faqs)}{src_html(c["sources"])}{rel_html(c["related"]+["/compare/"])}<p class="meta">Afterkeep is independent. Sponsorship never changes comparisons or verdicts.</p>'
     page(f"/compare/{c['slug']}/",c["title"]+" (2026)",c["answer"][:155],b,[faq_ld(faqs),cld],"Article")
     full(f"/compare/{c['slug']}/",c["title"],c["answer"],facts,faqs,"Verdict: "+c["verdict"]+"\n"+"".join(f"- {r[0]}: {A['name']}: {r[1]} | {Bt['name']}: {r[2]}\n" for r in c["rows"])+"\n")
 ch,cld=crumbs([("Compare",None)])
@@ -206,7 +208,7 @@ faqs=[("What happens to my online accounts when I die?","Most platforms won't sh
 page("/","Afterkeep: what happens to your digital life when you die","Afterkeep explains what happens to your Google, Apple, Facebook, crypto and other accounts when you die, and ranks the tools that help your family get access.",
  f"<div class='herow'><div><h1>Your digital life, handed on properly.</h1><p class='lead'>Afterkeep is a free guide to what happens to your accounts, photos, passwords and crypto when you die or can't manage them, and to the tools that make sure the right person can get to them. Start with the checklist below.</p></div>{HERO}</div><input type='search' id='q' placeholder='Search e.g. Instagram, crypto, Bitwarden…' aria-label='Search'><div id='results'></div><h2>Start here: 7-step checklist</h2><ol class='box'>{''.join('<li>'+c+'</li>' for c in check)}</ol><h2>Browse by category</h2><div class='grid'>{cats}</div><h2>Popular questions</h2><div class='grid'>{''.join(pcard(p) for p in PLATFORMS[:6])}</div><p><a href='/platforms/'>All platform guides →</a></p><h2>Best-of comparisons</h2><div class='grid'>{bestlinks}</div>{faq_html(faqs)}{SEARCHJS}",
  [faq_ld(faqs),{"@context":"https://schema.org","@type":"WebSite","name":"Afterkeep","url":SITE+"/"}])
-open(OUT+"/style.css","w").write(CSS)
+open(OUT+"/style.css","w").write(CSS+CD.CSS)
 import og; og.make(OUT+"/og")
 shutil.copytree("assets",OUT+"/assets",dirs_exist_ok=True); shutil.copy("assets/brand/favicon.ico",OUT+"/favicon.ico"); shutil.copy("assets/brand/apple-touch-icon.png",OUT+"/apple-touch-icon.png")
 json.dump(search,open(OUT+"/search.json","w"))

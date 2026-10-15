@@ -1,0 +1,599 @@
+{
+ "reviewed_on": "2026-10-15",
+ "rows": {
+  "vaults": [
+   "Built-in emergency access",
+   "How a contact gets in",
+   "Wait time",
+   "Access levels",
+   "Contact needs an account?",
+   "Max contacts",
+   "Plan required",
+   "Price band"
+  ],
+  "platforms": [
+   "Cost",
+   "Trigger",
+   "Number of contacts",
+   "What contacts get",
+   "Excluded",
+   "Option to delete account"
+  ],
+  "crypto": [
+   "Custody model",
+   "How heirs get access",
+   "Waiting / verification period",
+   "Supported assets",
+   "Price"
+  ],
+  "estate": [
+   "Creates a will or trust",
+   "Countries supported",
+   "Digital asset inventory",
+   "Document vault / sharing",
+   "Price model"
+  ]
+ },
+ "tools": {
+  "bitwarden": {
+   "label": "Top pick",
+   "price_band": "Free + paid",
+   "mechanism": "Trusted contact + wait time",
+   "trigger": "Manual request",
+   "region": "Global",
+   "skip": "you need emergency contacts on a different Bitwarden server region",
+   "facts": {
+    "Built-in emergency access": [
+     "✓ Yes",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "How a contact gets in": [
+     "Requests access; granted when you approve or the wait time lapses",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "Wait time": [
+     "Set by you",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "Access levels": [
+     "View or Takeover",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "Contact needs an account?": [
+     "Yes, free or premium, same server",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "Max contacts": [
+     "No limit",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "Plan required": [
+     "Premium or paid Families/Teams/Enterprise",
+     "https://bitwarden.com/help/emergency-access/"
+    ],
+    "Price band": [
+     "Free plan; Premium US$19.80/yr",
+     "https://bitwarden.com/pricing/"
+    ]
+   }
+  },
+  "keeper": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Trusted contact + delay",
+   "trigger": "Manual request",
+   "region": "Global",
+   "skip": "you're on a Keeper business account (Emergency Access is consumer-only)",
+   "facts": {
+    "Built-in emergency access": [
+     "✓ Yes",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "How a contact gets in": [
+     "Logs in after the access delay you set",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "Wait time": [
+     "Optional delay, up to 3 months",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "Access levels": [
+     "Account access",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "Contact needs an account?": [
+     "Yes, a Keeper account",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "Max contacts": [
+     "Up to 5",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "Plan required": [
+     "Consumer accounts only",
+     "https://docs.keeper.io/en/user-guides/emergency-access"
+    ],
+    "Price band": [
+     "Paid, 30-day free trial",
+     "https://www.keepersecurity.com/pricing/personal-and-family.html"
+    ]
+   }
+  },
+  "proton-pass": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Trusted contact + wait time",
+   "trigger": "Manual request",
+   "region": "Global",
+   "skip": "your trusted person won't use a Proton Mail address",
+   "facts": {
+    "Built-in emergency access": [
+     "✓ Yes",
+     "https://proton.me/support/emergency-access"
+    ],
+    "How a contact gets in": [
+     "Request auto-granted after wait time unless you deny",
+     "https://proton.me/support/emergency-access"
+    ],
+    "Wait time": [
+     "1, 2, 3, 7, 14 or 30 days",
+     "https://proton.me/support/emergency-access"
+    ],
+    "Access levels": [
+     "Whole Proton Account",
+     "https://proton.me/support/emergency-access"
+    ],
+    "Contact needs an account?": [
+     "Yes, a Proton Mail address",
+     "https://proton.me/support/emergency-access"
+    ],
+    "Max contacts": [
+     "Up to 5",
+     "https://proton.me/support/emergency-access"
+    ],
+    "Plan required": [
+     "Any paid Proton plan",
+     "https://proton.me/support/emergency-access"
+    ],
+    "Price band": [
+     "Paid (Pass Plus or other paid plan)",
+     "https://proton.me/support/proton-pass-plans-explained"
+    ]
+   }
+  },
+  "lastpass-emergency-access": {
+   "label": "Use with caution",
+   "price_band": "Free + paid",
+   "mechanism": "Trusted contact + wait time",
+   "trigger": "Manual request",
+   "region": "Global",
+   "skip": "the 2022 security incidents worry you",
+   "facts": {
+    "Built-in emergency access": [
+     "✓ Yes",
+     "https://www.lastpass.com/features/emergency-access"
+    ],
+    "How a contact gets in": [
+     "Request granted if not denied within the wait time",
+     "https://www.lastpass.com/features/emergency-access"
+    ],
+    "Wait time": [
+     "Set by you (or immediate)",
+     "https://www.lastpass.com/features/emergency-access"
+    ],
+    "Access levels": [
+     "Passwords, accounts and secure notes",
+     "https://www.lastpass.com/features/emergency-access"
+    ],
+    "Contact needs an account?": [
+     "Yes, a LastPass account",
+     "https://www.lastpass.com/features/emergency-access"
+    ],
+    "Max contacts": [
+     "Not stated",
+     null
+    ],
+    "Plan required": [
+     "Check plan features",
+     "https://www.lastpass.com/pricing"
+    ],
+    "Price band": [
+     "Free plan; paid Premium/Families",
+     "https://www.lastpass.com/pricing"
+    ]
+   }
+  },
+  "1password": {
+   "label": "Use with caution",
+   "price_band": "Paid",
+   "mechanism": "Emergency Kit + family recovery",
+   "trigger": "Manual (Kit)",
+   "region": "Global",
+   "skip": "you want an automatic emergency-access request",
+   "facts": {
+    "Built-in emergency access": [
+     "✗ No",
+     "https://support.1password.com/emergency-kit/"
+    ],
+    "How a contact gets in": [
+     "Uses your Emergency Kit (sign-in details, Secret Key, password)",
+     "https://support.1password.com/emergency-kit/"
+    ],
+    "Wait time": [
+     "✗ None",
+     "https://support.1password.com/emergency-kit/"
+    ],
+    "Access levels": [
+     "Full account via the Kit",
+     "https://support.1password.com/emergency-kit/"
+    ],
+    "Contact needs an account?": [
+     "No (uses the Kit)",
+     "https://support.1password.com/emergency-kit/"
+    ],
+    "Max contacts": [
+     "Anyone you give the Kit to",
+     "https://support.1password.com/emergency-kit/"
+    ],
+    "Plan required": [
+     "Family recovery: Families or business plan",
+     "https://support.1password.com/recovery/"
+    ],
+    "Price band": [
+     "Check official pricing",
+     null
+    ]
+   }
+  },
+  "dashlane": {
+   "label": "Not recommended",
+   "price_band": "Paid",
+   "mechanism": "Share an exported vault",
+   "trigger": "Manual",
+   "region": "Global",
+   "skip": "you want any built-in legacy access",
+   "facts": {
+    "Built-in emergency access": [
+     "✗ No (feature removed)",
+     "https://support.dashlane.com/hc/en-us/articles/4407179219986-Share-your-data-with-a-trusted-person"
+    ],
+    "How a contact gets in": [
+     "Share an exported vault file",
+     "https://support.dashlane.com/hc/en-us/articles/4407179219986-Share-your-data-with-a-trusted-person"
+    ],
+    "Wait time": [
+     "✗ None",
+     "https://support.dashlane.com/hc/en-us/articles/4407179219986-Share-your-data-with-a-trusted-person"
+    ],
+    "Access levels": [
+     "Whatever the export contains",
+     "https://support.dashlane.com/hc/en-us/articles/4407179219986-Share-your-data-with-a-trusted-person"
+    ],
+    "Contact needs an account?": [
+     "Not stated",
+     null
+    ],
+    "Max contacts": [
+     "Not stated",
+     null
+    ],
+    "Plan required": [
+     "Not stated",
+     null
+    ],
+    "Price band": [
+     "Check official pricing",
+     null
+    ]
+   }
+  },
+  "google-inactive-account-manager": {
+   "label": "Top pick",
+   "price_band": "Free",
+   "mechanism": "Inactivity timer",
+   "trigger": "Inactivity",
+   "region": "Global",
+   "skip": "you don't use Google services",
+   "facts": {
+    "Cost": [
+     "Free",
+     "https://support.google.com/accounts/answer/3036546"
+    ],
+    "Trigger": [
+     "Inactivity period you choose",
+     "https://support.google.com/accounts/answer/3036546"
+    ],
+    "Number of contacts": [
+     "Up to 10",
+     "https://support.google.com/accounts/answer/3036546"
+    ],
+    "What contacts get": [
+     "The data types you pick, via a download link",
+     "https://support.google.com/accounts/answer/3036546"
+    ],
+    "Excluded": [
+     "Some information can't be shared",
+     "https://support.google.com/accounts/answer/3036546"
+    ],
+    "Option to delete account": [
+     "✓ Yes, optional",
+     "https://support.google.com/accounts/answer/3036546"
+    ]
+   }
+  },
+  "apple-legacy-contact": {
+   "label": "Top pick",
+   "price_band": "Free",
+   "mechanism": "Access key + death certificate",
+   "trigger": "Death certificate",
+   "region": "Global",
+   "skip": "you don't use iCloud",
+   "facts": {
+    "Cost": [
+     "Free",
+     "https://support.apple.com/en-us/102631"
+    ],
+    "Trigger": [
+     "Access key + death certificate",
+     "https://support.apple.com/en-us/102631"
+    ],
+    "Number of contacts": [
+     "One or more",
+     "https://support.apple.com/en-us/102631"
+    ],
+    "What contacts get": [
+     "Photos, messages, notes, files, backups and more",
+     "https://support.apple.com/en-us/102631"
+    ],
+    "Excluded": [
+     "iCloud Keychain, purchased media",
+     "https://support.apple.com/en-us/102631"
+    ],
+    "Option to delete account": [
+     "✓ Contacts can delete it",
+     "https://support.apple.com/en-us/102631"
+    ]
+   }
+  },
+  "casa": {
+   "label": "Top pick",
+   "price_band": "Paid",
+   "mechanism": "Multisig key for heir",
+   "trigger": "Claim + 6-month check",
+   "region": "Global",
+   "skip": "you don't want an annual membership",
+   "facts": {
+    "Custody model": [
+     "Multisig self-custody (3- to 6-key vaults)",
+     "https://casa.io/pricing"
+    ],
+    "How heirs get access": [
+     "Recipient claims in app; gets assigned key",
+     "https://casa.io/inheritance"
+    ],
+    "Waiting / verification period": [
+     "6-month inactivity check",
+     "https://casa.io/inheritance"
+    ],
+    "Supported assets": [
+     "Bitcoin, ETH and stablecoins",
+     "https://casa.io/inheritance"
+    ],
+    "Price": [
+     "From US$250/yr; inheritance included",
+     "https://casa.io/inheritance"
+    ]
+   }
+  },
+  "unchained": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Inheritance Protocol + collaborative custody",
+   "trigger": "Executor process",
+   "region": "US",
+   "skip": "you hold assets other than bitcoin",
+   "facts": {
+    "Custody model": [
+     "Collaborative-custody bitcoin vaults",
+     "https://www.unchained.com/inheritance"
+    ],
+    "How heirs get access": [
+     "Executor follows the Inheritance Protocol documents",
+     "https://www.unchained.com/inheritance"
+    ],
+    "Waiting / verification period": [
+     "Not stated",
+     null
+    ],
+    "Supported assets": [
+     "Bitcoin",
+     "https://www.unchained.com/inheritance"
+    ],
+    "Price": [
+     "Check official pricing",
+     null
+    ]
+   }
+  },
+  "vault12": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Guardians + legacy contact",
+   "trigger": "Legacy contact request",
+   "region": "Global",
+   "skip": "you want a custodian or multisig wallet",
+   "facts": {
+    "Custody model": [
+     "Non-custodial seed-phrase backup",
+     "https://vault12.com/product/inheritance/"
+    ],
+    "How heirs get access": [
+     "Legacy contact gets your stored seed phrases and keys",
+     "https://vault12.com/product/inheritance/"
+    ],
+    "Waiting / verification period": [
+     "Not stated on this page",
+     null
+    ],
+    "Supported assets": [
+     "Seed phrases and private keys for any wallet",
+     "https://vault12.com/product/inheritance/"
+    ],
+    "Price": [
+     "Check official pricing",
+     null
+    ]
+   }
+  },
+  "ledger-recover": {
+   "label": "Use with caution",
+   "price_band": "Paid",
+   "mechanism": "Identity-based recovery",
+   "trigger": "Owner recovery",
+   "region": "Global",
+   "skip": "you need an inheritance process rather than owner recovery",
+   "facts": {
+    "Custody model": [
+     "Backup of a Ledger wallet's recovery phrase",
+     "https://www.ledger.com/ledger-recover"
+    ],
+    "How heirs get access": [
+     "Built for owner recovery via identity",
+     "https://www.ledger.com/ledger-recover"
+    ],
+    "Waiting / verification period": [
+     "Not stated",
+     null
+    ],
+    "Supported assets": [
+     "Ledger wallets",
+     "https://www.ledger.com/ledger-recover"
+    ],
+    "Price": [
+     "Subscription",
+     "https://www.ledger.com/ledger-recover"
+    ]
+   }
+  },
+  "trust-and-will": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Online will/trust",
+   "trigger": "Legal process",
+   "region": "US",
+   "skip": "you live outside the US",
+   "facts": {
+    "Creates a will or trust": [
+     "✓ Will and trust",
+     "https://trustandwill.com/pricing"
+    ],
+    "Countries supported": [
+     "United States",
+     "https://trustandwill.com/pricing"
+    ],
+    "Digital asset inventory": [
+     "Not stated",
+     null
+    ],
+    "Document vault / sharing": [
+     "Digital Vault with membership",
+     "https://trustandwill.com/pricing"
+    ],
+    "Price model": [
+     "Will from US$199; Trust from US$499; membership US$49/yr",
+     "https://trustandwill.com/pricing"
+    ]
+   }
+  },
+  "goodtrust": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Will/trust + digital vault",
+   "trigger": "Legal process",
+   "region": "US",
+   "skip": "you live outside the US",
+   "facts": {
+    "Creates a will or trust": [
+     "✓ Will, trust and directives",
+     "https://mygoodtrust.com/pricing"
+    ],
+    "Countries supported": [
+     "All 50 US states",
+     "https://mygoodtrust.com/pricing"
+    ],
+    "Digital asset inventory": [
+     "✓ Smart Digital Vault",
+     "https://mygoodtrust.com/pricing"
+    ],
+    "Document vault / sharing": [
+     "✓ You choose who gets access",
+     "https://mygoodtrust.com/pricing"
+    ],
+    "Price model": [
+     "US$149 Estate+ (one price)",
+     "https://mygoodtrust.com/pricing"
+    ]
+   }
+  },
+  "everplans": {
+   "label": "Good",
+   "price_band": "Free + paid",
+   "mechanism": "Shared planning vault",
+   "trigger": "Sharing you set up",
+   "region": "US",
+   "skip": "you need legal documents created",
+   "facts": {
+    "Creates a will or trust": [
+     "✗ No",
+     "https://www.everplans.com"
+    ],
+    "Countries supported": [
+     "Not stated (US-oriented content)",
+     null
+    ],
+    "Digital asset inventory": [
+     "✓ Online accounts and digital documents",
+     "https://www.everplans.com"
+    ],
+    "Document vault / sharing": [
+     "✓ Secure sharing (Premium)",
+     "https://www.everplans.com/pricing"
+    ],
+    "Price model": [
+     "Free up to 3 items; Premium US$99.99/yr",
+     "https://www.everplans.com/pricing"
+    ]
+   }
+  },
+  "prisidio": {
+   "label": "Good",
+   "price_band": "Paid",
+   "mechanism": "Shared vault + trusted people",
+   "trigger": "Sharing you set up",
+   "region": "US",
+   "skip": "you're outside the US",
+   "facts": {
+    "Creates a will or trust": [
+     "✗ No",
+     "https://www.prisidio.com"
+    ],
+    "Countries supported": [
+     "Not stated (US focus)",
+     null
+    ],
+    "Digital asset inventory": [
+     "✓ Documents, valuables, information",
+     "https://www.prisidio.com"
+    ],
+    "Document vault / sharing": [
+     "✓ Share with family, advisors or executors",
+     "https://www.prisidio.com"
+    ],
+    "Price model": [
+     "Check official pricing",
+     null
+    ]
+   }
+  }
+ }
+}
