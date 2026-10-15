@@ -23,10 +23,10 @@
 - [Google Inactive Account Manager](https://afterkeep.github.io/tools/google-inactive-account-manager/): Free and essential if you use Google. Set it up today: after a period of inactivity you choose, Google notifies up to 10 people and can share selected data with them.
 - [Apple Legacy Contact](https://afterkeep.github.io/tools/apple-legacy-contact/): Free and essential for iPhone users. Without it, even close family can find it very hard to get into iCloud photos and data.
 - [Trust & Will](https://afterkeep.github.io/tools/trust-and-will/): Popular online tool for US wills and trusts with guided questions. Not built for Australian or most non-US jurisdictions.
-- [GoodTrust](https://afterkeep.github.io/tools/goodtrust/): A broad digital-legacy platform that combines wills, a digital vault and help closing accounts after a death.
-- [Everplans](https://afterkeep.github.io/tools/everplans/): A well-structured digital vault for life admin and end-of-life plans, with 'Deputies' who can get your information.
+- [GoodTrust](https://afterkeep.github.io/tools/goodtrust/): An all-in-one US estate planning platform: will, trust and directives (valid in all 50 states) plus a Digital Vault for your digital life.
+- [Everplans](https://afterkeep.github.io/tools/everplans/): A well-structured digital vault for life admin and end-of-life plans that you can securely share with people you trust.
 - [Prisidio](https://afterkeep.github.io/tools/prisidio/): A family 'life readiness' vault with a Co-Owner and a Keyholder who can get the vault after a verified death, with identity checks via CLEAR.
-- [Casa](https://afterkeep.github.io/tools/casa/): A leading multisig self-custody service with a dedicated inheritance feature for Bitcoin and other supported assets.
+- [Casa](https://afterkeep.github.io/tools/casa/): A leading multisig self-custody service with inheritance included in every plan, covering bitcoin, ETH and stablecoins.
 - [Unchained](https://afterkeep.github.io/tools/unchained/): Collaborative-custody Bitcoin vaults (2-of-3 multisig) with inheritance planning. Strong for larger holdings.
 - [Vault12 Guard](https://afterkeep.github.io/tools/vault12/): Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals.
 - [Ledger Recover](https://afterkeep.github.io/tools/ledger-recover/): An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
