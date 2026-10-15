@@ -23,14 +23,24 @@ def motif(d,kind):
     else:  # shield + check
         d.polygon([(1000,225),(1085,258),(1085,330),(1000,430),(915,330),(915,258)],fill=s)
         d.line([(960,325),(990,355),(1045,295)],fill=(255,255,255),width=16,joint="curve")
-def render(out,kicker,title,sub,kind):
+def plogo(im,d,path,x,y,s=170):
+    d.rounded_rectangle([x,y,x+s,y+s],28,fill=(255,255,255),outline=(209,234,238),width=4)
+    try:
+        lg=Image.open(path).convert("RGBA"); lg.thumbnail((s-44,s-44),Image.LANCZOS); im.paste(lg,(x+(s-lg.width)//2,y+(s-lg.height)//2),lg)
+    except Exception: pass
+def render(out,kicker,title,sub,kind,logos=None):
     im=Image.new("RGB",(1200,630),(247,248,247)); d=ImageDraw.Draw(im)
-    motif(d,kind)
+    if logos and len(logos)>=2:
+        cx,cy=1000,330
+        for r,a in [(250,(227,242,244)),(185,(209,234,238))]: d.ellipse([cx-r,cy-r,cx+r,cy+r],fill=a)
+        plogo(im,d,logos[0],815,245); plogo(im,d,logos[1],1015,245)
+        d.ellipse([975,300,1025,350],fill=NAVY); d.text((1000,325),"vs",font=ImageFont.truetype(B,22),fill=(255,255,255),anchor="mm")
+    else: motif(d,kind)
     lg=Image.open("assets/brand/afterkeep-logo-full.png"); lg=lg.resize((round(lg.width*70/lg.height),70),Image.LANCZOS); im.paste(lg,(70,62),lg)
     d.text((72,180),kicker.upper(),font=ImageFont.truetype(B,24),fill=TEAL)
     size=64 if len(title)<28 else (52 if len(title)<50 else 44)
     f=ImageFont.truetype(B,size); y=222
-    for line in textwrap.wrap(title,width=int(1500/size)):
+    for line in textwrap.wrap(title,width=int((1150 if kind=="compare" else 1500)/size)):
         d.text((72,y),line,font=f,fill=INK); y+=int(size*1.22)
     fs=ImageFont.truetype(R,30)
     sub=sub.split(". ")[0].rstrip(".")+"."; ls=textwrap.wrap(sub,width=42)

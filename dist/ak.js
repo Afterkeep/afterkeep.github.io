@@ -15,4 +15,9 @@ d.getElementById('fcount').textContent='Showing '+n+' of '+cards.length+' listin
 var h=[];['cat','region','price','rec'].forEach(function(k){var v=vals(k);if(v.length)h.push(k+'='+v.join(','))});if(so)h.push('sort='+so);history.replaceState(null,'',h.length?'#'+h.join('&'):location.pathname)}
 function load(){var m={};location.hash.slice(1).split('&').forEach(function(p){var a=p.split('=');if(a[1])m[a[0]]=a[1].split(',')});if(!m.cat&&/^#(vaults|platforms|crypto|estate)$/.test(location.hash))m.cat=[location.hash.slice(1)];q('input',f).forEach(function(i){i.checked=!!(m[i.name]&&m[i.name].indexOf(i.value)>=0)});f.sort.value=(m.sort||[''])[0]}
 f.addEventListener('change',run);f.addEventListener('reset',function(){setTimeout(run,0)});load();run()}
+
+/* home search */
+var Q=d.getElementById('q');if(Q){var I;fetch('/search.json').then(function(r){return r.json()}).then(function(x){I=x});Q.addEventListener('input',function(){var v=Q.value.toLowerCase().trim(),R=d.getElementById('results');R.textContent='';if(!v||!I)return;var m=I.filter(function(x){return(x.t+' '+x.d).toLowerCase().indexOf(v)>=0}).slice(0,8);if(!m.length){R.innerHTML='<p class=meta>No matches</p>';return}m.forEach(function(x){var a=d.createElement('a');a.href=x.u;a.textContent=x.t;R.appendChild(a)})})}
+/* P7: start-here chooser */
+var z=d.getElementById('chz');if(z){var M=JSON.parse(z.dataset.map);z.addEventListener('submit',function(e){e.preventDefault();var w=z.what.value,b=z.budget.value,g=z.where.value,o=M[w]||{},p=o[g]||o.other&&g!='US'&&o.other||o.any||o.US,r=d.getElementById('chr');r.innerHTML='';if(!p)return;var h=d.createElement('p'),a=d.createElement('a');a.href=p[1];a.textContent=p[0];h.appendChild(d.createTextNode('Our pick: '));h.appendChild(a);var n=d.createElement('p');n.textContent=p[2]+(b=='free'&&/Paid only|pricing/.test(p[2])?' Tip: see free tools at /tools/free/.':'');r.appendChild(h);r.appendChild(n)})}
 })();
