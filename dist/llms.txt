@@ -1,0 +1,42 @@
+# Afterkeep
+
+> Independent guide to digital legacy: what happens to online accounts, photos, passwords and crypto when someone dies, plus verdicts on legacy tools. General information, not legal advice.
+
+## Platforms
+- [What happens to my Google / Gmail when I die?](https://afterkeep.example/platforms/google-gmail/): Google won't hand over your password. If you set up Inactive Account Manager, your chosen contacts get the data you picked after a period of
+- [What happens to my Google Photos when I die?](https://afterkeep.example/platforms/google-photos/): Your Google Photos library is tied to your Google Account. If you've added it to Inactive Account Manager, your contacts can download your p
+- [What happens to my Apple iCloud when I die?](https://afterkeep.example/platforms/apple-icloud/): If you've added a Legacy Contact, that person can use their access key and a death certificate to request your iCloud data, including photos
+- [What happens to my Facebook when I die?](https://afterkeep.example/platforms/facebook/): Facebook will memorialise your account (adding 'Remembering' to your profile) or permanently delete it, whichever you chose in advance. A le
+- [What happens to my Instagram when I die?](https://afterkeep.example/platforms/instagram/): Instagram can memorialise an account when it gets proof of death, such as an obituary. A memorialised account can't be logged into and the c
+- [What happens to my X (Twitter) when I die?](https://afterkeep.example/platforms/x-twitter/): X doesn't memorialise accounts or give anyone access to them. A verified immediate family member or a person authorised to act for the estat
+- [What happens to my Microsoft / Outlook when I die?](https://afterkeep.example/platforms/microsoft-outlook/): Microsoft generally won't release a deceased person's Outlook.com or OneDrive content to next of kin without a valid court order or subpoena
+- [What happens to my LinkedIn when I die?](https://afterkeep.example/platforms/linkedin/): LinkedIn lets a family member, colleague or executor ask for a deceased member's profile to be memorialised or closed. LinkedIn doesn't give
+- [What happens to my Crypto exchanges (Coinbase) when I die?](https://afterkeep.example/platforms/coinbase/): Crypto held on Coinbase becomes part of your estate. Your executor can claim it through Coinbase's executor process with a death certificate
+- [What happens to my Dropbox when I die?](https://afterkeep.example/platforms/dropbox/): Dropbox may give access to a deceased person's files, but only after reviewing documentation that includes proof of death and, typically, a 
+
+## Tools
+- [Bitwarden](https://afterkeep.example/tools/bitwarden/): The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
+- [1Password](https://afterkeep.example/tools/1password/): Excellent password manager, but it has no automatic emergency-access feature. Legacy planning relies on the Emergency Kit and family account recovery.
+- [Keeper](https://afterkeep.example/tools/keeper/): A solid choice with built-in Emergency Access: name trusted contacts who can request your vault after a wait period.
+- [LastPass Emergency Access](https://afterkeep.example/tools/lastpass-emergency-access/): It works: contacts can request vault access after a wait period. LastPass's 2022 security breaches are a good reason to look at alternatives first, though.
+- [Dashlane](https://afterkeep.example/tools/dashlane/): Not recommended for legacy access. Dashlane removed its Emergency Contact feature and now suggests sharing an exported vault file with a trusted person.
+- [Google Inactive Account Manager](https://afterkeep.example/tools/google-inactive-account-manager/): Free and essential if you use Google. Set it up today: after a period of inactivity you choose, Google notifies up to 10 people and can share selected data with them.
+- [Apple Legacy Contact](https://afterkeep.example/tools/apple-legacy-contact/): Free and essential for iPhone users. Without it, even close family can find it very hard to get into iCloud photos and data.
+- [Trust & Will](https://afterkeep.example/tools/trust-and-will/): Popular online tool for US wills and trusts with guided questions. Not built for Australian or most non-US jurisdictions.
+- [GoodTrust](https://afterkeep.example/tools/goodtrust/): A broad digital-legacy platform that combines wills, a digital vault and help closing accounts after a death.
+- [Everplans](https://afterkeep.example/tools/everplans/): A well-structured digital vault for life admin and end-of-life plans, with 'Deputies' who can get your information.
+- [Prisidio](https://afterkeep.example/tools/prisidio/): A family 'life readiness' vault with a Co-Owner and a Keyholder who can get the vault after a verified death, with identity checks via CLEAR.
+- [Casa](https://afterkeep.example/tools/casa/): A leading multisig self-custody service with a dedicated inheritance feature for Bitcoin and other supported assets.
+- [Unchained](https://afterkeep.example/tools/unchained/): Collaborative-custody Bitcoin vaults (2-of-3 multisig) with inheritance planning. Strong for larger holdings.
+- [Vault12 Guard](https://afterkeep.example/tools/vault12/): Backs up seed phrases using trusted 'Guardians' and lets you name a beneficiary who can inherit after a 48-hour owner veto window and Guardian approvals.
+- [Ledger Recover](https://afterkeep.example/tools/ledger-recover/): An optional, ID-based seed backup for Ledger hardware wallets. Handy for recovery, but it's a trust trade-off and isn't primarily an inheritance tool.
+
+## Best-of
+- [Best digital legacy vaults](https://afterkeep.example/best/best-digital-legacy-vaults/)
+- [Best crypto inheritance tools](https://afterkeep.example/best/best-crypto-inheritance-tools/)
+- [Best password managers for emergency access](https://afterkeep.example/best/best-password-managers-emergency-access/)
+
+## Guides
+- [How to export your Google data with Google Takeout](https://afterkeep.example/guides/google-takeout-export/)
+- [How to set up Apple Legacy Contact (step by step)](https://afterkeep.example/guides/apple-legacy-contact-setup/)
+- [The complete digital estate checklist](https://afterkeep.example/guides/digital-estate-checklist/)

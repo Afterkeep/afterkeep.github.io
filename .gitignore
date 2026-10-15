@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tgz
+shot.png
+node_modules/
+.wrangler/
+.env
