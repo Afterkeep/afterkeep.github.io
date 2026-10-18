@@ -1384,6 +1384,48 @@ Q: Is this different from physical games?
 A: Yes. Discs and cartridges are property; Steam purchases are licences.
 
 
+## What happens to my Snapchat when I die?
+URL: https://afterkeep.github.io/platforms/snapchat/
+
+Snapchat won't give anyone access to a deceased person's account, and its help page for people who have died describes no memorialisation option. Snapchat says it only accepts requests from a verified email address linked to the account. Deleting it needs a login at accounts.snapchat.com: the account is deactivated for 30 days, then permanently deleted after 30 more.
+
+Key facts:
+- No account access for anyone, including family
+- No memorialisation option described by Snapchat
+- Requests accepted only from the account's verified email
+- Deletion: 30 days deactivated, then permanently deleted after 30 more days
+
+Documents heirs need:
+- Access to the account's login, or to the verified email address linked to the account
+- Snapchat publishes no document list for deceased users. Have the death certificate and your ID ready in case Support asks
+
+What can't be recovered:
+- Anything inside the account that wasn't exported, because Snapchat doesn't grant account access
+- All account data after permanent deletion, apart from what Snapchat keeps for legal, security and business needs (such as purchase records)
+
+Timeline: Data exports: Snapchat aims to deliver within 7 days; large downloads take longer. Deletion: the account is deactivated for 30 days (it can be reactivated in that time) and permanently deleted after 30 more days. Data that isn't downloaded in the first 30 days is permanently deleted after 60 days.
+
+Sources: https://help.snapchat.com/hc/en-us/articles/27504454933908-I-d-like-to-report-an-account-of-a-person-who-passed-away, https://help.snapchat.com/hc/en-us/articles/7012328360596-How-do-I-deactivate-or-delete-my-Snapchat-account, https://help.snapchat.com/hc/en-us/articles/7012305371156-How-do-I-download-my-data-from-Snapchat
+
+Q: What happens to my Snapchat when I die?
+A: Snapchat won't give anyone access to a deceased person's account, and its help page for people who have died describes no memorialisation option. Snapchat says it only accepts requests from a verified email address linked to the account. Deleting it needs a login at accounts.snapchat.com: the account is deactivated for 30 days, then permanently deleted after 30 more.
+
+Q: Can family get into a dead person's Snapchat?
+A: No. Snapchat says its privacy policies don't allow it to grant access to the account.
+
+Q: Does Snapchat memorialise accounts?
+A: Snapchat's help page for a person who passed away doesn't describe a memorialisation option. It covers requesting data by authenticated people and deleting the account.
+
+Q: How do I save Snapchat Memories?
+A: Log in at accounts.snapchat.com, open My Data, turn on 'Export your Memories', pick a date range and submit. Snapchat emails a link; unzip the file and open index.html to download your Memories.
+
+Q: How long until a deleted Snapchat account is gone?
+A: It's deactivated for 30 days, when it can still be reactivated, then permanently deleted after 30 more days. Snapchat says the second period is 180 days in India.
+
+Q: Who can ask Snapchat to act on an account?
+A: Snapchat says it only accepts requests from a verified email address associated with the account, so access to that email matters.
+
+
 ## What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?
 URL: https://afterkeep.github.io/platforms/game-libraries/
 
@@ -1642,10 +1684,11 @@ Steps:
 3. Store logins in a password manager with emergency access rather than in the will.
 4. Switch on the free platform tools: Google Inactive Account Manager, Apple Legacy Contact, a Facebook legacy contact.
 5. After a death: get the death certificate, find the will, and notify organisations. The Australian Death Notification Service can notify several at once.
-6. Phone the ATO to pause tax correspondence and decide who will manage the deceased's affairs.
-7. Ask each asset holder whether they need a grant; small or jointly held assets may not.
-8. Apply to the Supreme Court in your state for probate (with a will) or letters of administration (without one) if needed.
-9. Collect assets, pay debts and tax, then distribute. In NSW, executors usually shouldn't distribute earlier than 6 months after death.
+6. Tell Services Australia within 28 days (Advice of death form SA116, phone or a service centre) so it can update Medicare, Centrelink and Child Support records. You don't need to close their myGov account.
+7. Phone the ATO to pause tax correspondence, then officially notify it with a death certificate or grant (online with an Australia Post interview, or by paper form). The ATO says records take up to 28 days to update.
+8. Ask each asset holder whether they need a grant; small or jointly held assets may not.
+9. Apply to the Supreme Court in your state for probate (with a will) or letters of administration (without one) if needed.
+10. Collect assets, pay debts and tax, then distribute. In NSW, executors usually shouldn't distribute earlier than 6 months after death.
 
 Q: Do I need probate for digital accounts in Australia?
 A: It depends on the asset holder. The Supreme Court of Victoria says to ask each holder whether it needs a grant; PayPal Australia, for example, asks for a grant of probate or letters of administration.
@@ -1737,6 +1780,127 @@ A: It depends on the asset holder. Many banks and platforms ask for a grant of p
 
 Q: Is there a printable version?
 A: Yes. Download the free PDF checklist from this page.
+
+
+## myGov, Centrelink, Medicare and the ATO after a death (Australia)
+URL: https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/
+
+Tell Services Australia within 28 days by phone, with the Advice of death form (SA116) or at a service centre; it uses the form to update Medicare, Centrelink and Child Support records. You don't need to close the person's myGov account, because myGov closes unused accounts. Notify the ATO separately with a death certificate or grant of probate.
+
+Key facts:
+- Services Australia: tell it within 28 days
+- SA116 updates Medicare, Centrelink and Child Support records
+- myGov: no need to close; unused accounts close automatically
+- ATO: up to 28 days to update records after notification
+
+Steps:
+1. Get the death certificate from your state or territory's Births, Deaths and Marriages registry. A funeral director may register the death for you.
+2. Within 28 days, tell Services Australia: call, send the Advice of death form (SA116a for an adult, SA116b for a child), or visit a service centre. Services Australia uses the form to update Medicare, Centrelink and Child Support records.
+3. Don't sign in to their myGov. The myGov terms of use say you're not allowed to access another person's myGov account, and myGov says you don't need to close it.
+4. If you don't have documents yet, phone the ATO to say the person has died. It will pause their tax correspondence.
+5. Officially notify the ATO with its Notification of a deceased person form: online, followed by an interview at a participating Australia Post outlet, or on paper with certified copies.
+6. Executors who plan to apply for probate or letters of administration: the ATO suggests waiting for the grant before notifying it, to avoid delays. With a grant, it records you as the authorised legal personal representative (LPR).
+7. To get the person's details from Services Australia for the estate, each executor or administrator completes an Executor/Administrator Request for information form and gives proof of authority.
+8. Check whether you can get a bereavement payment or other support from Services Australia.
+9. Use the free Australian Death Notification Service to tell participating organisations at once (Telstra and Vodafone, for example, accept it).
+
+Q: Do I need to close a deceased person's myGov account?
+A: No. myGov says you don't need to close it because it closes automatically after not being used. Its terms say accounts may be closed after 24 months without a sign-in, or 6 months if no services are linked.
+
+Q: How long do I have to tell Services Australia about a death?
+A: Services Australia asks to be told within 28 days. You can call, send the Advice of death form (SA116) or visit a service centre.
+
+Q: Can I log in to my late parent's myGov?
+A: No. The myGov terms of use say you're not allowed to access another person's myGov account. Use the official notification forms instead.
+
+Q: What do I need to notify the ATO of a death?
+A: One of: a death certificate, a grant of probate or letters of administration, or a certified copy of the will (only if you're not applying for a grant). The ATO says it takes up to 28 days to update the person's records.
+
+Q: Who can get the deceased's tax and super information from the ATO?
+A: The authorised legal personal representative. Without a grant of probate or letters of administration, the ATO can't record you as the authorised LPR, which limits what it can release.
+
+Q: Do I tell the ATO and Services Australia separately?
+A: Yes. myGov's checklist lists them as separate agencies to tell. The free Australian Death Notification Service can tell participating private organisations at once.
+
+
+## What happens to your super when you die? (Australia)
+URL: https://afterkeep.github.io/guides/superannuation-after-death-australia/
+
+Your super doesn't automatically form part of your estate. In most cases the fund pays your balance, plus any insurance held in super, as a death benefit to your nominated beneficiary. A valid binding nomination means the fund must follow your choice; without one, the trustee decides. Check your nomination in your fund's app or website.
+
+Key facts:
+- Super isn't automatically part of your estate
+- Lapsing binding nominations expire after 3 years
+- Non-dependants can only receive a lump sum
+- The death benefit can include insurance held in super
+
+Steps:
+1. Log in to each super fund (website or app) and check whether you have a nomination, what type it is and whether it expires.
+2. Ask your fund which nomination types it offers. Not every fund offers every type.
+3. Choose eligible people: a spouse or partner, children of any age, someone in an interdependency relationship with you, someone financially dependent on you, or your legal personal representative (your estate).
+4. Want someone who isn't a dependant to benefit? The ATO suggests asking your fund about a binding nomination to your legal personal representative, so the money is distributed under your will. Keep your will up to date.
+5. Follow the form's signing and witnessing instructions exactly. Moneysmart warns that mistakes can make a nomination invalid.
+6. If it's a lapsing binding nomination, set a reminder. These expire after 3 years unless you renew them.
+7. List each fund, member number and any insurance in your estate inventory. Leave passwords out.
+8. After a death: the beneficiary or executor contacts each fund to report the death and ask about releasing the super, and checks whether the person had ATO-held super.
+
+Q: Does super go through my will?
+A: Not automatically. Moneysmart says super doesn't automatically form part of your estate. It's distributed under your will only if it's paid to your legal personal representative (your estate).
+
+Q: What is a binding death benefit nomination?
+A: An instruction your fund must follow to pay your super to the eligible people you name. Lapsing ones must be renewed every 3 years; non-lapsing ones don't expire. Not every fund offers them.
+
+Q: What happens if I don't nominate anyone?
+A: The ATO says the fund trustee may use its discretion to decide which dependants receive it, or pay it to your legal personal representative to be distributed under your will.
+
+Q: Who can I nominate for my super?
+A: Your spouse or partner, your children of any age, someone in an interdependency relationship with you, anyone financially dependent on you, or your legal personal representative.
+
+Q: Can a non-dependant receive super as an income stream?
+A: No. The ATO says a death benefit paid to someone who isn't a dependant must be paid as a lump sum.
+
+Q: How do I find a deceased person's super?
+A: Contact the funds you know about and check whether the person had ATO-held super. The ATO can give super fund details to the authorised legal personal representative.
+
+
+## Telstra, Optus and Vodafone after a death: keep or cancel the mobile number? (Australia)
+URL: https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/
+
+Telstra, Optus and Vodafone all let an authorised person, such as the executor or next of kin, cancel a deceased customer's services or transfer the mobile number into their own name. All three also offer a copy of the voicemail greeting (Vodafone: where available). Ask for it before you cancel or transfer, and consider keeping the number until the person's accounts are sorted.
+
+Key facts:
+- Telstra, Optus and Vodafone: cancel or transfer
+- Voicemail greeting copy available on request
+- Transfers: credit check (Optus, Vodafone)
+- Response within 10 business days
+
+Steps:
+1. Check you can act. Telstra, Optus and Vodafone accept the executor, administrator or trustee, the lawyer handling the will, next of kin, or an authorised representative on the account. Optus and Vodafone also accept a power of attorney.
+2. Gather documents. Telstra and Vodafone ask for the will or a grant of representation (probate or letters of administration); next of kin may show a birth certificate instead. Administrators show the letters of administration.
+3. List each service (mobile, home internet, email) and decide whether to cancel or transfer it.
+4. Ask for a copy of the voicemail greeting first. Telstra warns it may already be deleted once a transfer or closure has been requested.
+5. Notify the telco. Telstra and Vodafone accept notifications through the Australian Death Notification Service. Directly: Telstra online form, email, post, store or 1800 775 932; Optus Bereavement Care form by email or post; Vodafone on 1555 or 1300 650 410.
+6. Transferring the number? Expect a credit check. Optus asks for at least 100 points of ID and Vodafone says you'll need to meet its credit requirements.
+7. Keep the deceased's Telstra email? Telstra says you need to transfer it to a new account using its Bereavement Support form.
+8. Telstra sends the final bill in the name of 'The Estate of the deceased' to the address the notifier nominates.
+
+Q: Can I keep my late partner's mobile number?
+A: Usually, by transferring it into your name. Telstra, Optus and Vodafone all offer transfers through their bereavement processes. Optus and Vodafone say a credit check or their credit requirements apply.
+
+Q: Can I get a copy of their voicemail greeting?
+A: Yes. Telstra, Optus and Vodafone all offer a digital copy (Vodafone says where available). Ask before you cancel or transfer: Telstra says the greeting may already be deleted after a transfer or closure request, and Optus says custom greetings reset on transfer.
+
+Q: Why not cancel the number straight away?
+A: Many banks, email providers and government services send sign-in or recovery codes by SMS. Keeping the number while accounts are closed through official processes can make that admin easier. Check with the executor before using codes to get into any account.
+
+Q: Does the Australian Death Notification Service notify Telstra and Vodafone?
+A: Yes. Telstra and Vodafone both accept ADNS notifications and say they'll contact you within 10 business days. Optus's bereavement form is returned by email or post.
+
+Q: How long does it take?
+A: Telstra and Optus say their specialist team will contact you within 10 business days, and Vodafone says the same for ADNS notifications. None publishes a fixed completion time.
+
+Q: Who can close a deceased person's phone account?
+A: The executor, administrator or trustee, the lawyer handling the will, next of kin, or an authorised representative on the account. Optus and Vodafone also accept a power of attorney.
 
 
 ## Bitwarden vs 1Password for emergency access
@@ -1958,7 +2122,7 @@ A: No. Afterkeep is a comparison and guide directory only. We never collect your
 ## Memorial & memory-keeping
 URL: https://afterkeep.github.io/tools/memorial/
 
-Memorialised profiles and ways to preserve stories. This page covers Facebook, Instagram, X (Twitter), LinkedIn, WhatsApp: what each platform does when someone dies and how family can memorialise or remove an account.
+Memorialised profiles and ways to preserve stories. This page covers Facebook, Instagram, X (Twitter), LinkedIn, WhatsApp, Snapchat: what each platform does when someone dies and how family can memorialise or remove an account.
 
 Q: Can I memorialise a loved one's social media account?
 A: Facebook and Instagram offer memorialisation. Other platforms mainly offer account removal. See each platform guide for the official steps.

@@ -13,6 +13,10 @@
 - Digital estate checklist? Inventory accounts, set up emergency access and platform legacy settings, and record wishes. Executors: see the 30-day checklist and PDF. [https://afterkeep.github.io/guides/what-to-do-when-someone-dies-digital-checklist/](https://afterkeep.github.io/guides/what-to-do-when-someone-dies-digital-checklist/)
 - What happens to my Steam account when I die? Steam games are licences that Valve says aren't transferable, including by operation of law. [https://afterkeep.github.io/platforms/game-libraries/](https://afterkeep.github.io/platforms/game-libraries/)
 - Google Inactive Account Manager vs Apple Legacy Contact? Use both: Google acts after 3–18 months of inactivity; Apple needs an access key plus death certificate and gives 3 years of access. [https://afterkeep.github.io/compare/google-inactive-account-manager-vs-apple-legacy-contact/](https://afterkeep.github.io/compare/google-inactive-account-manager-vs-apple-legacy-contact/)
+- What happens to my Snapchat when I die? Snapchat gives no one access and describes no memorialisation; deletion needs the login (30 days deactivated, then deleted after 30 more). [https://afterkeep.github.io/platforms/snapchat/](https://afterkeep.github.io/platforms/snapchat/)
+- Do I need to close a deceased person's myGov account? No. myGov closes unused accounts. Tell Services Australia within 28 days (SA116) and notify the ATO separately. [https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/](https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/)
+- What happens to my super when I die (Australia)? It isn't automatically part of your estate; the fund pays a death benefit, following a valid binding nomination if you made one. [https://afterkeep.github.io/guides/superannuation-after-death-australia/](https://afterkeep.github.io/guides/superannuation-after-death-australia/)
+- Can I keep a deceased person's mobile number (Telstra, Optus, Vodafone)? Usually yes, by transfer through the telco's bereavement process; ask for the voicemail greeting copy first. [https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/](https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/)
 
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
@@ -30,6 +34,7 @@
 - [What happens to my Amazon & Kindle library when I die?](https://afterkeep.github.io/platforms/amazon-kindle/): Amazon only shares account details or takes most actions for the authorised estate representative. If the account is closed, all purchased d
 - [What happens to my PayPal when I die?](https://afterkeep.github.io/platforms/paypal/): PayPal only takes instructions from the authorised executor or administrator of the estate. In Australia, the executor emails PayPal a cover
 - [What happens to my Steam when I die?](https://afterkeep.github.io/platforms/steam/): Steam games are licences, not property you own. The Steam Subscriber Agreement says your account is strictly personal and that accounts and 
+- [What happens to my Snapchat when I die?](https://afterkeep.github.io/platforms/snapchat/): Snapchat won't give anyone access to a deceased person's account, and its help page for people who have died describes no memorialisation op
 - [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
@@ -76,6 +81,9 @@
 - [Digital estate planning in Australia: wills, executors and online accounts](https://afterkeep.github.io/guides/australian-digital-estate-guide/)
 - [How to access a deceased person's phone and online accounts](https://afterkeep.github.io/guides/access-deceased-persons-phone-and-accounts/)
 - [What to do when someone dies: the executor's digital checklist (first 30 days)](https://afterkeep.github.io/guides/what-to-do-when-someone-dies-digital-checklist/)
+- [myGov, Centrelink, Medicare and the ATO after a death (Australia)](https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/)
+- [What happens to your super when you die? (Australia)](https://afterkeep.github.io/guides/superannuation-after-death-australia/)
+- [Telstra, Optus and Vodafone after a death: keep or cancel the mobile number? (Australia)](https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text
