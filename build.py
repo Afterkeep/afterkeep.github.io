@@ -24,7 +24,7 @@ def section(path):
     return "home"
 GA='<script async src="https://www.googletagmanager.com/gtag/js?id=G-3XNK76EX11"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-3XNK76EX11",{anonymize_ip:true});</script>'
 def page(path,title,desc,body,ld=None,kind="WebPage",noindex=False):
-    upd=pack2.LASTMOD.get(path,UPDATED); rev=pack2.CHK if path in pack2.LASTMOD else REVIEWED; LM[path]=upd
+    upd=pack2.LASTMOD.get(path,UPDATED); rev=pack2.REV.get(path,pack2.CHK) if path in pack2.LASTMOD else REVIEWED; LM[path]=upd
     url=SITE+path; sec=section(path); img=f"{SITE}/og/og-{sec}.png"
     if sec in ("platforms","compare","best","guides","tools") and path.count("/")==3:
         os.makedirs(OUT+"/og/p",exist_ok=True); fn=path.strip("/").replace("/","-")+".png"
@@ -51,7 +51,8 @@ GUIDES=[]
 import enrich
 from enrich import CHECKED
 import growth; growth.pre(enrich)
-import pack2; pack2.pre(enrich,growth)
+import pack2; pack2.REV={}; pack2.pre(enrich,growth)
+import pack3; pack3.pre(enrich,growth,pack2)
 for p in PLATFORMS:
     e=enrich.P.get(p["slug"],{}); p.update(e)
     if p["slug"]=="microsoft-outlook":

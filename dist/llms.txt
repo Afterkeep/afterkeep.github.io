@@ -17,6 +17,10 @@
 - Do I need to close a deceased person's myGov account? No. myGov closes unused accounts. Tell Services Australia within 28 days (SA116) and notify the ATO separately. [https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/](https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/)
 - What happens to my super when I die (Australia)? It isn't automatically part of your estate; the fund pays a death benefit, following a valid binding nomination if you made one. [https://afterkeep.github.io/guides/superannuation-after-death-australia/](https://afterkeep.github.io/guides/superannuation-after-death-australia/)
 - Can I keep a deceased person's mobile number (Telstra, Optus, Vodafone)? Usually yes, by transfer through the telco's bereavement process; ask for the voicemail greeting copy first. [https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/](https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/)
+- What happens to my Discord account when I die? Discord gives no access or data and has no memorialisation; family can request deletion with documents, and accounts unused 2+ years may be deleted. [https://afterkeep.github.io/platforms/discord/](https://afterkeep.github.io/platforms/discord/)
+- What happens to my Yahoo Mail when I die? Yahoo releases no passwords and accounts are non-transferable; US accounts can be closed with a US death certificate, content needs a US court order. [https://afterkeep.github.io/platforms/yahoo-mail/](https://afterkeep.github.io/platforms/yahoo-mail/)
+- How do I cancel a deceased person's Spotify? Cancel Premium and close the account with the login (7-day reactivation window), or contact Spotify Support; partner-billed plans are cancelled with the partner. [https://afterkeep.github.io/platforms/spotify/](https://afterkeep.github.io/platforms/spotify/)
+- What happens to bank accounts when someone dies in Australia? Sole accounts are secured once the bank is told, joint accounts usually continue, and banks act on valid estate instructions within 14 business days. [https://afterkeep.github.io/guides/bank-accounts-after-death-australia/](https://afterkeep.github.io/guides/bank-accounts-after-death-australia/)
 
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
@@ -35,6 +39,9 @@
 - [What happens to my PayPal when I die?](https://afterkeep.github.io/platforms/paypal/): PayPal only takes instructions from the authorised executor or administrator of the estate. In Australia, the executor emails PayPal a cover
 - [What happens to my Steam when I die?](https://afterkeep.github.io/platforms/steam/): Steam games are licences, not property you own. The Steam Subscriber Agreement says your account is strictly personal and that accounts and 
 - [What happens to my Snapchat when I die?](https://afterkeep.github.io/platforms/snapchat/): Snapchat won't give anyone access to a deceased person's account, and its help page for people who have died describes no memorialisation op
+- [What happens to my Discord when I die?](https://afterkeep.github.io/platforms/discord/): Discord won't give anyone access to a deceased person's account or share its data, and it has no memorialise or transfer option. Family can 
+- [What happens to my Yahoo Mail when I die?](https://afterkeep.github.io/platforms/yahoo-mail/): Yahoo won't hand over a password, and accounts can't be transferred, even after death. For US accounts, family can ask Yahoo to close the ac
+- [What happens to my Spotify when I die?](https://afterkeep.github.io/platforms/spotify/): Spotify doesn't publish a dedicated process for deceased users. With the login, family can cancel Premium (it runs to the next billing date,
 - [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
@@ -84,6 +91,7 @@
 - [myGov, Centrelink, Medicare and the ATO after a death (Australia)](https://afterkeep.github.io/guides/mygov-centrelink-medicare-ato-after-death/)
 - [What happens to your super when you die? (Australia)](https://afterkeep.github.io/guides/superannuation-after-death-australia/)
 - [Telstra, Optus and Vodafone after a death: keep or cancel the mobile number? (Australia)](https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/)
+- [What happens to bank accounts when someone dies? (Australia)](https://afterkeep.github.io/guides/bank-accounts-after-death-australia/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text

@@ -252,7 +252,7 @@ Live thread replies should come from @Afterkeep only after Benno approves, and m
    - **Draft:** "Agree with the password-manager advice. Just check yours still has emergency access (Dashlane removed it). Comparison: https://afterkeep.github.io/best/best-password-managers-emergency-access/"
 6. **Hacker News Show HN** (the old threads 37042427, 33863940 and 16531492 are archived, 2018-2023, and show demand).
    - **Pitch title:** "Show HN: Afterkeep – what every big platform actually does with your account when you die"
-   - **Body:** "Static site, no accounts or tracking of your data. Each page cites the official policy. Feedback welcome on accuracy." Post at about 11pm AEST (US morning).
+   - **Body:** "Static site, no sign-ups or accounts (just basic Google Analytics). Each page cites the official policy. Feedback welcome on accuracy." Post at about 11pm AEST (US morning).
 7. **Digital Legacy Association resources page:** https://digitallegacyassociation.org/resources-2/
    - **Pitch email:** "Subject: Free, independent platform-by-platform guide for your resources page. Hi DLA team, Afterkeep (afterkeep.github.io) is a free, independent guide that summarises each major platform's death policy and the documents families need, with official sources on every page. No sign-up, no sales. It may be useful alongside your leaflets for families and hospice staff. Happy to correct anything your team spots. Benno"
 8. **The Digital Beyond (James Norris, @Digitalbeyond):** https://www.thedigitalbeyond.com/

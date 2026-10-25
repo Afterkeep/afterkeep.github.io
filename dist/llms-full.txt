@@ -1426,6 +1426,125 @@ Q: Who can ask Snapchat to act on an account?
 A: Snapchat says it only accepts requests from a verified email address associated with the account, so access to that email matters.
 
 
+## What happens to my Discord when I die?
+URL: https://afterkeep.github.io/platforms/discord/
+
+Discord won't give anyone access to a deceased person's account or share its data, and it has no memorialise or transfer option. Family can ask Discord Support to delete the account: write from the account's own email, or send proof of death, proof of relationship and photo ID. Accounts unused for 2 years or more may be deleted automatically.
+
+Key facts:
+- No account access or data for family
+- No memorialise or transfer option
+- Deletion on request with documents
+- Unused for 2+ years: may be deleted automatically
+
+Documents heirs need:
+- The account's email address and Discord username
+- From another email: death certificate or coroner's report
+- Proof of relationship: marriage licence, birth certificate, will, estate letter or power of attorney
+- Your valid photo ID or passport (scans or photocopies; you can black out birthdays and addresses but keep names visible)
+
+What can't be recovered:
+- Messages and data in the account, because Discord doesn't release them to family
+- Everything in the account once it's deleted
+
+Timeline: Discord publishes no processing time for deletion requests. Accounts not used for 2 years or more may be scheduled for deletion, and the deletion proceeds automatically as long as no one logs in.
+
+Sources: https://support.discord.com/hc/en-us/articles/19872987802263--Deceased-or-Incapacitated-Users
+
+Q: What happens to my Discord when I die?
+A: Discord won't give anyone access to a deceased person's account or share its data, and it has no memorialise or transfer option. Family can ask Discord Support to delete the account: write from the account's own email, or send proof of death, proof of relationship and photo ID. Accounts unused for 2 years or more may be deleted automatically.
+
+Q: Can family get into a dead person's Discord account?
+A: Discord says it can't provide access, share data or make changes. Whoever has the account's email can reset the password, but check with the executor before using it.
+
+Q: Does Discord memorialise accounts?
+A: No. Discord says it doesn't currently have a feature to memorialise or transfer accounts.
+
+Q: How do I delete a deceased person's Discord account?
+A: Delete it from User Settings if you can sign in, or contact Discord Support. From another email, include the account email and username, a death certificate, proof of relationship, your photo ID and an explicit deletion statement.
+
+Q: Do inactive Discord accounts get deleted?
+A: Discord says accounts unused for 2 years or more may be scheduled for deletion, with a warning sent to the account's email or phone first.
+
+
+## What happens to my Yahoo Mail when I die?
+URL: https://afterkeep.github.io/platforms/yahoo-mail/
+
+Yahoo won't hand over a password, and accounts can't be transferred, even after death. For US accounts, family can ask Yahoo to close the account or stop billing with a US death certificate. Getting the content needs a US court order. Yahoo's help page says it applies to US accounts only and it won't respond to non-US requests.
+
+Key facts:
+- No passwords or login details released
+- Accounts are non-transferable
+- US accounts: closure needs a US death certificate
+- Content: US court order required
+
+Documents heirs need:
+- To close or stop billing: the person's full name, Yahoo email, date of death and a US-issued death certificate
+- For content: also your government ID and a US court order
+
+What can't be recovered:
+- Email content, unless a court order succeeds
+- Everything in the account once it's closed
+
+Timeline: Yahoo publishes no processing time. It reviews each request and contacts you if it needs more information.
+
+Sources: https://help.yahoo.com/kb/account/sln2021.html
+
+Q: What happens to my Yahoo Mail when I die?
+A: Yahoo won't hand over a password, and accounts can't be transferred, even after death. For US accounts, family can ask Yahoo to close the account or stop billing with a US death certificate. Getting the content needs a US court order. Yahoo's help page says it applies to US accounts only and it won't respond to non-US requests.
+
+Q: Can I get into a dead person's Yahoo Mail?
+A: Yahoo says it can't provide passwords or login details, and accounts are non-transferable. Content requests need a US court order.
+
+Q: How do I close a deceased person's Yahoo account?
+A: For US accounts, submit Yahoo's closure form with the person's name, Yahoo email, date of death and a US-issued death certificate.
+
+Q: What if the person lived outside the US?
+A: Yahoo's page says it applies to US accounts only and won't respond to non-US requests. Check Yahoo Help for your region, and stop charges through the bank.
+
+Q: How do I stop Yahoo charging a dead person's card?
+A: For US accounts, use Yahoo's form to suspend or cancel billing and premium services. Without a death certificate, Yahoo says to call Yahoo Customer Service on 866-265-4025.
+
+
+## What happens to my Spotify when I die?
+URL: https://afterkeep.github.io/platforms/spotify/
+
+Spotify doesn't publish a dedicated process for deceased users. With the login, family can cancel Premium (it runs to the next billing date, then switches to free) and close the account; after a 7-day reactivation window, Spotify starts deleting the data. Without the login, contact Spotify Support. If Premium is billed through a phone or internet provider, cancel with that provider.
+
+Key facts:
+- No dedicated deceased-user process published
+- Cancelled Premium runs to the next billing date
+- Closure: 7-day reactivation window, then deletion
+- Partner-billed plans are cancelled with the partner
+
+Documents heirs need:
+- With the login: nothing else
+- Without it: the account's email; Spotify publishes no document list, so have the death certificate ready
+
+What can't be recovered:
+- Purchased audiobooks and future live tickets, when the account is closed
+- Playlists and saved music, once the data is deleted
+
+Timeline: Cancelled Premium lasts until the next billing date. After closing, the account can be reactivated for 7 days; then deletion begins. The same email can be used for a new account 14 days after closing.
+
+Sources: https://support.spotify.com/au/article/how-can-i-close-my-spotify-account/, https://support.spotify.com/au/article/cancel-premium/
+
+Q: What happens to my Spotify when I die?
+A: Spotify doesn't publish a dedicated process for deceased users. With the login, family can cancel Premium (it runs to the next billing date, then switches to free) and close the account; after a 7-day reactivation window, Spotify starts deleting the data. Without the login, contact Spotify Support. If Premium is billed through a phone or internet provider, cancel with that provider.
+
+Q: How do I cancel a dead person's Spotify Premium?
+A: With the login, go to Manage your plan and select Cancel subscription. Without it, contact Spotify Support and stop the payment through the bank.
+
+Q: Does closing a Spotify account delete everything?
+A: Yes, after 7 days. Spotify emails a reactivation link that works for 7 days, then starts deleting the data. Purchased audiobooks and future live tickets are lost.
+
+Q: What about a Spotify Family plan?
+A: If the plan manager dies, cancelling moves any managed accounts to the free plan. Members keep their own accounts and playlists.
+
+Q: Why can't I cancel on the account page?
+A: Spotify says that means the plan is with a partner company, like a mobile or internet provider. Find their contact link under Payment.
+
+
 ## What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?
 URL: https://afterkeep.github.io/platforms/game-libraries/
 
@@ -1901,6 +2020,46 @@ A: Telstra and Optus say their specialist team will contact you within 10 busine
 
 Q: Who can close a deceased person's phone account?
 A: The executor, administrator or trustee, the lawyer handling the will, next of kin, or an authorised representative on the account. Optus and Vodafone also accept a power of attorney.
+
+
+## What happens to bank accounts when someone dies? (Australia)
+URL: https://afterkeep.github.io/guides/bank-accounts-after-death-australia/
+
+Once you tell an Australian bank about a death, it secures accounts in the person's sole name: online banking is switched off and debits are restricted. Joint account holders can usually keep using joint accounts. Under the Banking Code of Practice, banks act on a valid executor or next-of-kin instruction within 14 business days and can release money for funeral costs before probate.
+
+Key facts:
+- Sole accounts secured once the bank is told
+- Joint accounts usually continue
+- Instructions actioned within 14 business days
+- Funeral costs payable before probate
+
+Steps:
+1. Tell each bank as soon as practicable: online, by phone, in a branch, or through the Australian Death Notification Service once a death certificate exists.
+2. Expect sole-name accounts to be secured. Internet and app banking logins are removed, cards are cancelled and debits are restricted. Direct credits can still arrive.
+3. Find recurring payments. CommBank says it can give the estate representative a list of regular payments on the deceased's debit card and copies of statements; ask your bank for the same. Cancel subscriptions with each provider.
+4. Prove you can act. Banks usually want your ID plus a verified copy of the will (executor) or the death certificate naming you as next of kin.
+5. Need money for the funeral? Before probate, a representative can ask the bank to pay or reimburse funeral costs or probate filing fees, with an invoice or receipt.
+6. Ask whether a grant is needed. Each bank decides; NAB lists a $100,000 total-in-credit threshold among the cases where it needs a Grant of Representation.
+7. With the bank's documents in hand, sign its forms to close accounts and release funds. You can open a deceased estate account if the bank offers one.
+8. Planning ahead: list your banks and accounts (not passwords) in your estate inventory, and tell your executor where it is.
+
+Q: Can I use a joint account after my partner dies?
+A: Usually yes. The Banking Code says a joint account holder may keep operating the account under its terms, and CommBank and NAB say joint accounts in credit continue.
+
+Q: How long do banks take to act?
+A: Under the Banking Code, once verified documents are received, banks act on a valid estate representative's instruction within 14 business days. Finalising an estate can take weeks to months; CommBank says a couple of weeks to a few months.
+
+Q: Can the bank pay for the funeral before probate?
+A: Yes. The Banking Code lets a representative ask for funds to pay or reimburse funeral expenses or probate filing fees, with proof of the invoice or receipt. NAB covers these up to $15,000.
+
+Q: Will direct debits keep coming out?
+A: Banks restrict debits on sole accounts once notified, but some card payments may still go through. Check statements and cancel each subscription with the provider.
+
+Q: Can I use their online banking to pay bills?
+A: No. Banks remove the deceased's internet and app banking logins after notification. Pay bills through the estate process instead.
+
+Q: Do I need probate to close a bank account?
+A: Not always. The bank tells you if it needs a Grant of Probate or Letters of Administration; if not, it explains how to finalise the estate.
 
 
 ## Bitwarden vs 1Password for emergency access
