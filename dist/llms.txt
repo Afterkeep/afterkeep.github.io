@@ -21,6 +21,11 @@
 - What happens to my Yahoo Mail when I die? Yahoo releases no passwords and accounts are non-transferable; US accounts can be closed with a US death certificate, content needs a US court order. [https://afterkeep.github.io/platforms/yahoo-mail/](https://afterkeep.github.io/platforms/yahoo-mail/)
 - How do I cancel a deceased person's Spotify? Cancel Premium and close the account with the login (7-day reactivation window), or contact Spotify Support; partner-billed plans are cancelled with the partner. [https://afterkeep.github.io/platforms/spotify/](https://afterkeep.github.io/platforms/spotify/)
 - What happens to bank accounts when someone dies in Australia? Sole accounts are secured once the bank is told, joint accounts usually continue, and banks act on valid estate instructions within 14 business days. [https://afterkeep.github.io/guides/bank-accounts-after-death-australia/](https://afterkeep.github.io/guides/bank-accounts-after-death-australia/)
+- What happens to my Reddit account when I die? Reddit has no deceased-user process and admins can't delete accounts on your behalf; deletion needs the password and doesn't remove posts or comments. [https://afterkeep.github.io/platforms/reddit/](https://afterkeep.github.io/platforms/reddit/)
+- What happens to my Pinterest when I die? Pinterest deletes a deceased family member's account on request with an obituary or death certificate; no memorialisation and no login details released. [https://afterkeep.github.io/platforms/pinterest/](https://afterkeep.github.io/platforms/pinterest/)
+- What happens to my Telegram account when I die? No deceased-user process; inactive accounts self-destruct after the set period (18 months by default) with all cloud data. Export with Telegram Desktop first. [https://afterkeep.github.io/platforms/telegram/](https://afterkeep.github.io/platforms/telegram/)
+- How do I redirect a deceased person's mail in Australia? Australia Post gives executors/administrators up to 12 months free redirection; apply in person with the form, your ID and proof of entitlement (probate, will or statutory declaration). [https://afterkeep.github.io/guides/redirect-mail-after-death-australia/](https://afterkeep.github.io/guides/redirect-mail-after-death-australia/)
+- How do I cancel electricity and gas after a death in Australia? Call each retailer on the bills to transfer, keep as "Estate of", or close with a final bill to the estate; the Australian Death Notification Service can notify many providers at once. [https://afterkeep.github.io/guides/cancel-utilities-after-death-australia/](https://afterkeep.github.io/guides/cancel-utilities-after-death-australia/)
 
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
@@ -42,6 +47,9 @@
 - [What happens to my Discord when I die?](https://afterkeep.github.io/platforms/discord/): Discord won't give anyone access to a deceased person's account or share its data, and it has no memorialise or transfer option. Family can 
 - [What happens to my Yahoo Mail when I die?](https://afterkeep.github.io/platforms/yahoo-mail/): Yahoo won't hand over a password, and accounts can't be transferred, even after death. For US accounts, family can ask Yahoo to close the ac
 - [What happens to my Spotify when I die?](https://afterkeep.github.io/platforms/spotify/): Spotify doesn't publish a dedicated process for deceased users. With the login, family can cancel Premium (it runs to the next billing date,
+- [What happens to my Reddit when I die?](https://afterkeep.github.io/platforms/reddit/): Reddit doesn't publish any process for deceased users, offers no memorialisation, and its help centre says Reddit administrators can't delet
+- [What happens to my Pinterest when I die?](https://afterkeep.github.io/platforms/pinterest/): Pinterest will delete a deceased family member's account if you contact Pinterest and provide verification, such as an obituary or death cer
+- [What happens to my Telegram when I die?](https://afterkeep.github.io/platforms/telegram/): Telegram has no deceased-user process or legacy contact. Instead, accounts self-destruct: if an account doesn't come online for the period s
 - [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
@@ -92,6 +100,8 @@
 - [What happens to your super when you die? (Australia)](https://afterkeep.github.io/guides/superannuation-after-death-australia/)
 - [Telstra, Optus and Vodafone after a death: keep or cancel the mobile number? (Australia)](https://afterkeep.github.io/guides/mobile-phone-number-after-death-australia/)
 - [What happens to bank accounts when someone dies? (Australia)](https://afterkeep.github.io/guides/bank-accounts-after-death-australia/)
+- [How to redirect a deceased person's mail (Australia Post)](https://afterkeep.github.io/guides/redirect-mail-after-death-australia/)
+- [How to cancel or transfer electricity, gas and other services after a death (Australia)](https://afterkeep.github.io/guides/cancel-utilities-after-death-australia/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text
