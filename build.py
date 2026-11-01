@@ -53,6 +53,7 @@ from enrich import CHECKED
 import growth; growth.pre(enrich)
 import pack2; pack2.REV={}; pack2.pre(enrich,growth)
 import pack3; pack3.pre(enrich,growth,pack2)
+import pack4; pack4.pre(enrich,growth,pack2,TOOLS)
 for p in PLATFORMS:
     e=enrich.P.get(p["slug"],{}); p.update(e)
     if p["slug"]=="microsoft-outlook":
@@ -117,8 +118,9 @@ for t in TOOLS:
     ch,cld=crumbs([("Tools","/tools/"),(CATS[t["cat"]][0],CATURL.get(t["cat"],"/tools/")),(t["name"],None)])
     pros="".join(f"<li>{E(x)}</li>" for x in t["pros"]); cons="".join(f"<li>{E(x)}</li>" for x in t["cons"])
     relb="/best/best-password-managers-emergency-access/" if t["cat"]=="vaults" else ("/best/best-crypto-inheritance-tools/" if t["cat"]=="crypto" else "/best/best-digital-legacy-vaults/")
+    _rv=pack2.REV.get(f"/tools/{t['slug']}/",REVIEWED)
     lc={"Top pick":"l-top","Good":"l-good","Use with caution":"l-warn","Not recommended":"l-no"}[t["label"]]
-    vbox=(f'<aside class="vbox" aria-label="Our verdict"><p><span class="vl {lc}">{E(t["label"])}</span>'+(' <span class="vl l-sp">Sponsored</span>' if t.get("sponsored") or t.get("featured") else "")+f'</p><div class="vg"><div><h3>Best for</h3><p>{E(t["best"])}</p></div><div><h3>Skip if</h3><p>{E(t["skip"])}</p></div></div><div class="pc"><div><h3>Pros</h3><ul>{"".join(f"<li>{E(x)}</li>" for x in t["pros"][:3])}</ul></div><div><h3>Cons</h3><ul>{"".join(f"<li>{E(x)}</li>" for x in t["cons"][:3])}</ul></div></div><p class="meta">Reviewed on {REVIEWED} · Facts last verified {REVIEWED} · <a href="/how-we-rate/">How we rate</a></p></aside>')
+    vbox=(f'<aside class="vbox" aria-label="Our verdict"><p><span class="vl {lc}">{E(t["label"])}</span>'+(' <span class="vl l-sp">Sponsored</span>' if t.get("sponsored") or t.get("featured") else "")+f'</p><div class="vg"><div><h3>Best for</h3><p>{E(t["best"])}</p></div><div><h3>Skip if</h3><p>{E(t["skip"])}</p></div></div><div class="pc"><div><h3>Pros</h3><ul>{"".join(f"<li>{E(x)}</li>" for x in t["pros"][:3])}</ul></div><div><h3>Cons</h3><ul>{"".join(f"<li>{E(x)}</li>" for x in t["cons"][:3])}</ul></div></div><p class="meta">Reviewed on {_rv} · Facts last verified {_rv} · <a href="/how-we-rate/">How we rate</a></p></aside>')
     b=(f'{ch}<h1 class="ih">{logo(t,44)}{E(t["name"])} review: digital legacy verdict</h1><p class="lead"><strong>Verdict:</strong> {E(ans)}</p>'+vbox+f'{facts_html(facts)}'
        f'<p><a class="btn" href="{OFFICIAL[t["slug"]]}" rel="{rel_for(t)}" target="_blank">Official site {ARROW}</a>{AFF(t)} <a href="{t["url"]}" rel="{rel_for(t)}" target="_blank">Legacy feature docs {ARROW}</a></p>'
        f'<h2>What are all the pros and cons of {E(t["name"])}?</h2><div class="pc"><div><h3>Pros</h3><ul>{pros}</ul></div><div><h3>Cons</h3><ul>{cons}</ul></div></div>'
@@ -193,7 +195,7 @@ ch,cld=crumbs([("Compare",None)])
 _tt=[T["bitwarden"],T["1password"],T["keeper"]]
 _ch,_cld=crumbs([("Compare","/compare/"),(growth.TRI_TITLE,None)])
 _heirs="".join(f"<h3 class='ih'>{logo(T[k],28)}{E(n)}</h3><ol>"+"".join(f"<li>{E(x)}</li>" for x in st)+f"</ol><p><a href='{OFFICIAL[k]}' rel='{rel_for(T[k])}' target='_blank'>Official site ↗</a>{AFF(T[k])}</p>" for (n,st),k in zip(growth.TRI_HEIRS,["bitwarden","keeper","1password"]))
-_b=f"{_ch}<h1>{E(growth.TRI_TITLE)} (2026)</h1><p class='lead'><strong>Short answer:</strong> {E(growth.TRI_ANS)}</p>"+facts_html(["Bitwarden: built-in emergency access; Premium US$19.80/yr (checked 15 Oct 2026)","Keeper: built-in emergency access; up to 5 contacts; optional delay up to 3 months","1Password: no built-in emergency access; Emergency Kit"])+"<h2>How do they compare side by side?</h2>"+CD.ftable(_tt,"vaults",logo,growth.TRI_TITLE)+"<h2>What do heirs actually do, step by step?</h2>"+_heirs+faq_html(growth.TRI_FAQ)+src_html([("Bitwarden Help: Emergency access","https://bitwarden.com/help/emergency-access/"),("Bitwarden: Pricing","https://bitwarden.com/pricing/"),("Keeper Docs: Emergency access","https://docs.keeper.io/en/user-guides/emergency-access"),("1Password Support: Emergency Kit","https://support.1password.com/emergency-kit/"),("1Password Support: Recovery","https://support.1password.com/recovery/")])+rel_html(["/compare/bitwarden-vs-1password-emergency-access/","/best/best-password-managers-emergency-access/"])
+_b=f"{_ch}<h1>{E(growth.TRI_TITLE)} (2026)</h1><p class='lead'><strong>Short answer:</strong> {E(growth.TRI_ANS)}</p>"+facts_html(["Bitwarden: built-in emergency access; Premium US$19.80/yr (checked 1 Nov 2026)","Keeper: built-in emergency access; up to 5 contacts; optional delay up to 3 months","1Password: no built-in emergency access; Emergency Kit"])+"<h2>How do they compare side by side?</h2>"+CD.ftable(_tt,"vaults",logo,growth.TRI_TITLE)+"<h2>What do heirs actually do, step by step?</h2>"+_heirs+faq_html(growth.TRI_FAQ)+src_html([("Bitwarden Help: Emergency access","https://bitwarden.com/help/emergency-access/"),("Bitwarden: Pricing","https://bitwarden.com/pricing/"),("Keeper Docs: Emergency access","https://docs.keeper.io/en/user-guides/emergency-access"),("1Password Support: Emergency Kit","https://support.1password.com/emergency-kit/"),("1Password Support: Recovery","https://support.1password.com/recovery/")])+rel_html(["/compare/bitwarden-vs-1password-emergency-access/","/best/best-password-managers-emergency-access/"])
 TITLES[f"/compare/{growth.TRI_SLUG}/"]=growth.TRI_TITLE
 page(f"/compare/{growth.TRI_SLUG}/",growth.TRI_TITLE+" (2026)",growth.TRI_ANS[:155],_b,[faq_ld(growth.TRI_FAQ),_cld],"Article")
 full(f"/compare/{growth.TRI_SLUG}/",growth.TRI_TITLE,growth.TRI_ANS,[],growth.TRI_FAQ,"")
@@ -274,6 +276,6 @@ llms+="\n## Comparisons\n"+"".join(f"- [{c['title']}]({SITE}/compare/{c['slug']}
 llms+="\n## Best-of\n"+"".join(f"- [{b['title']}]({SITE}/best/{b['slug']}/)\n" for b in BEST)+"\n## Guides\n"+"".join(f"- [{t}]({SITE}/guides/{s}/)\n" for s,t,a in GUIDES)
 llms+="\n## Full text\n- [llms-full.txt]("+SITE+"/llms-full.txt): every answer, key fact and FAQ in plain text\n"
 open(OUT+"/llms.txt","w").write(llms)
-open(OUT+"/llms-full.txt","w").write("# Afterkeep: full content\n\n> General information, not legal advice. Facts checked against official sources on "+CHECKED+".\n\n"+"\n".join(FULL))
+open(OUT+"/llms-full.txt","w").write("# Afterkeep: full content\n\n> General information, not legal advice. Facts last re-checked against official sources on "+pack4.CHK+" (each page shows its own review date).\n\n"+"\n".join(FULL))
 open(OUT+"/404.html","w").write(open(OUT+"/index.html").read())
 print(len(pages),"pages")

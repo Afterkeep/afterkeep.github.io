@@ -1,6 +1,6 @@
 # Afterkeep: full content
 
-> General information, not legal advice. Facts checked against official sources on 15 Oct 2026.
+> General information, not legal advice. Facts last re-checked against official sources on 1 Nov 2026 (each page shows its own review date).
 
 ## Bitwarden (tool review)
 URL: https://afterkeep.github.io/tools/bitwarden/
@@ -16,7 +16,7 @@ Key facts:
 - Pros: Emergency contacts only need a free Bitwarden account; Choose View-only or Takeover access with a custom wait time; Open-source and independently audited; No limit on the number of emergency contacts
 - Cons: Contact must be on the same Bitwarden server region (US/EU); Can't add or edit contacts if Premium lapses (existing ones still work); Interface is functional rather than polished
 
-Sources: https://bitwarden.com/help/emergency-access/
+Sources: https://bitwarden.com/help/emergency-access/, https://bitwarden.com/help/add-and-manage-trusted-emergency-contacts/, https://bitwarden.com/pricing/
 
 Q: Is Bitwarden good for digital legacy planning?
 A: The best-value password manager with real emergency access: trusted contacts can request View or Takeover access after a wait time you set.
@@ -206,9 +206,9 @@ Key facts:
 - Free, built into Settings
 - You can add more than one Legacy Contact, and they don't need an Apple device
 - Pros: Free, built into Settings; You can add more than one Legacy Contact, and they don't need an Apple device; Contacts get an access key; Apple verifies the death certificate
-- Cons: Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions; Access is time-limited after approval (check Apple's page for details)
+- Cons: Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions; Access lasts 3 years from the first approved request, then Apple permanently deletes the legacy account
 
-Sources: https://support.apple.com/en-us/102631
+Sources: https://support.apple.com/en-us/102631, https://support.apple.com/en-us/102678, https://support.apple.com/en-us/102431
 
 Q: Is Apple Legacy Contact good for digital legacy planning?
 A: Free and essential for iPhone users. Without it, even close family can find it very hard to get into iCloud photos and data.
@@ -220,7 +220,7 @@ Q: How much does Apple Legacy Contact cost?
 A: Free (requires an Apple Account and a supported OS version).
 
 Q: What are the downsides of Apple Legacy Contact?
-A: Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions; Access is time-limited after approval (check Apple's page for details).
+A: Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions; Access lasts 3 years from the first approved request, then Apple permanently deletes the legacy account.
 
 Q: What are alternatives to Apple Legacy Contact?
 A: Alternatives in the same category include Google Inactive Account Manager.
@@ -521,7 +521,7 @@ A bitcoin-only 2-of-3 multisig wallet with built-in inheritance: your beneficiar
 
 Key facts:
 - Category: Crypto inheritance
-- Pricing: Hardware listed at $250 on bitkey.world. Check current pricing.
+- Pricing: Hardware listed at A$400 on bitkey.world for Australia (checked 1 Nov 2026). Check current pricing.
 - Best for: Bitcoin holders who want simple self-custody with inheritance built in.
 - Built-in inheritance with a 6-month security delay
 - You get alerts and can cancel a claim
@@ -537,7 +537,7 @@ Q: Who is Bitkey best for?
 A: Bitcoin holders who want simple self-custody with inheritance built in.
 
 Q: How much does Bitkey cost?
-A: Hardware listed at $250 on bitkey.world. Check current pricing.
+A: Hardware listed at A$400 on bitkey.world for Australia (checked 1 Nov 2026). Check current pricing.
 
 Q: What are the downsides of Bitkey?
 A: Bitcoin only; Beneficiary needs their own Bitkey device; Bitkey says a beneficiary isn't automatically the legal owner; your will may take precedence.
@@ -914,7 +914,7 @@ What can't be recovered:
 
 Timeline: Apple reviews and verifies documentation before acting and doesn't publish a fixed processing time.
 
-Sources: https://support.apple.com/en-us/102631, https://support.apple.com/en-us/102431
+Sources: https://support.apple.com/en-us/102631, https://support.apple.com/en-us/102431, https://support.apple.com/en-us/102678
 
 Q: What happens to my Apple iCloud when I die?
 A: With a Legacy Contact, that person uses their access key and your death certificate to request your iCloud data, such as photos, messages, notes, files and backups. Without one, Apple requires legal documentation, often a court order; Apple says Australia and some other countries accept alternative documents. Keychain passwords and purchased media are never included.
@@ -1203,11 +1203,11 @@ A: No. Requests go through a support ticket with legal documents.
 ## What happens to my WhatsApp when I die?
 URL: https://afterkeep.github.io/platforms/whatsapp/
 
-WhatsApp doesn't memorialise accounts or offer a legacy contact. Accounts are generally deleted after 365 days without connecting to WhatsApp. Chats and media saved on the person's phone stay there until the app is removed, so the phone itself is usually the only way family can keep messages. Recipients keep their own copies of messages.
+WhatsApp doesn't memorialise accounts or offer a legacy contact. WhatsApp says inactive accounts are generally deleted after 120 days without connecting (365 days in the US). Chats and media saved on the person's phone stay there until the app is removed, so the phone itself is usually the only way family can keep messages. Recipients keep their own copies of messages.
 
 Key facts:
 - No memorialisation or legacy contact
-- Inactive accounts deleted after 365 days
+- Inactive accounts generally deleted after 120 days (365 days in the US)
 - Local chats stay on the device until WhatsApp is removed
 - Deletion can't be undone or restored
 
@@ -1218,18 +1218,18 @@ What can't be recovered:
 - Chats, media and backups from a deleted account: WhatsApp says it can't restore or transfer them
 - Contacts saved to the WhatsApp account are deleted with it
 
-Timeline: Generally 365 days of inactivity before automatic deletion. A deliberate account deletion can take up to 90 days to complete.
+Timeline: Generally 120 days of inactivity (365 days in the US) before automatic deletion; deactivated accounts are deleted 30 days after deactivation. A deliberate account deletion can take up to 90 days to complete.
 
 Sources: https://faq.whatsapp.com/828406668498455, https://faq.whatsapp.com/2138577903196467
 
 Q: What happens to my WhatsApp when I die?
-A: WhatsApp doesn't memorialise accounts or offer a legacy contact. Accounts are generally deleted after 365 days without connecting to WhatsApp. Chats and media saved on the person's phone stay there until the app is removed, so the phone itself is usually the only way family can keep messages. Recipients keep their own copies of messages.
+A: WhatsApp doesn't memorialise accounts or offer a legacy contact. WhatsApp says inactive accounts are generally deleted after 120 days without connecting (365 days in the US). Chats and media saved on the person's phone stay there until the app is removed, so the phone itself is usually the only way family can keep messages. Recipients keep their own copies of messages.
 
 Q: Can family read a dead person's WhatsApp messages?
 A: Only from the person's own unlocked phone or a backup they can open. WhatsApp doesn't provide access.
 
 Q: Does a WhatsApp account delete itself?
-A: Generally yes, after 365 days of inactivity.
+A: Generally yes. WhatsApp says inactive accounts are generally deleted after 120 days of inactivity (365 days for US accounts).
 
 Q: Do other people keep my messages?
 A: Yes. Deleting an account doesn't remove other users' copies of messages you sent them.
@@ -2176,13 +2176,13 @@ A: Google can delete personal accounts inactive for 2 years, and Apple generally
 ## Bitwarden vs 1Password vs Keeper for emergency access
 URL: https://afterkeep.github.io/compare/bitwarden-vs-1password-vs-keeper-emergency-access/
 
-Bitwarden and Keeper both have built-in emergency access; 1Password doesn't. Bitwarden lets trusted contacts request View or Takeover access after a wait time you set, with Premium listed at US$19.80 a year (checked 15 Oct 2026). Keeper allows up to 5 contacts with an optional delay of up to 3 months. 1Password relies on a printed Emergency Kit.
+Bitwarden and Keeper both have built-in emergency access; 1Password doesn't. Bitwarden lets trusted contacts request View or Takeover access after a wait time you set, with Premium listed at US$19.80 a year (checked 1 Nov 2026). Keeper allows up to 5 contacts with an optional delay of up to 3 months. 1Password relies on a printed Emergency Kit.
 
 Q: Which has the best emergency access: Bitwarden, 1Password or Keeper?
 A: Bitwarden, for most people: built-in requests, View or Takeover access, and a wait time you control. Keeper is a strong alternative. 1Password has no built-in emergency access.
 
 Q: How much does Bitwarden Premium cost?
-A: Bitwarden's pricing page lists Premium at US$19.80 a year (checked 15 Oct 2026).
+A: Bitwarden's pricing page lists Premium at US$19.80 a year (checked 1 Nov 2026).
 
 Q: How many emergency contacts can I have?
 A: Bitwarden: no limit stated. Keeper: up to 5. 1Password: anyone you give your Emergency Kit to.

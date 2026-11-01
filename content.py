@@ -40,7 +40,7 @@ TOOLS = [
   pricing="Free (requires an Apple Account and a supported OS version).",
   best="Anyone storing photos, messages or files in iCloud.",
   pros=["Free, built into Settings","You can add more than one Legacy Contact, and they don't need an Apple device","Contacts get an access key; Apple verifies the death certificate"],
-  cons=["Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions","Access is time-limited after approval (check Apple's page for details)"]),
+  cons=["Excludes iCloud Keychain (passwords, passkeys, payment info) and purchased movies, music, books and subscriptions","Access lasts 3 years from the first approved request, then Apple permanently deletes the legacy account"]),
  dict(slug="trust-and-will", name="Trust & Will", cat="estate", url="https://www.trustandwill.com",
   verdict="Popular online tool for US wills and trusts with guided questions. Not built for Australian or most non-US jurisdictions.",
   pricing="One-off plan fees plus optional membership. Check current pricing.",

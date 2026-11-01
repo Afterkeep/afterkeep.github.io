@@ -1,5 +1,5 @@
 {
- "reviewed_on": "2026-10-15",
+ "reviewed_on": "2026-11-01",
  "rows": {
   "vaults": [
    "Built-in emergency access",
@@ -350,7 +350,7 @@
     ],
     "What contacts get": [
      "Photos, messages, notes, files, backups and more, for 3 years from approval",
-     "https://support.apple.com/en-us/102631"
+     "https://support.apple.com/en-us/102678"
     ],
     "Excluded": [
      "iCloud Keychain, purchased media",
@@ -636,7 +636,7 @@
      "https://bitkey.world/"
     ],
     "Price": [
-     "$250 hardware (listed on bitkey.world)",
+     "A$400 hardware (Australian price listed on bitkey.world)",
      "https://bitkey.world/"
     ]
    },
