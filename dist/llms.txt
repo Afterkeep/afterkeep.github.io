@@ -26,6 +26,10 @@
 - What happens to my Telegram account when I die? No deceased-user process; inactive accounts self-destruct after the set period (18 months by default) with all cloud data. Export with Telegram Desktop first. [https://afterkeep.github.io/platforms/telegram/](https://afterkeep.github.io/platforms/telegram/)
 - How do I redirect a deceased person's mail in Australia? Australia Post gives executors/administrators up to 12 months free redirection; apply in person with the form, your ID and proof of entitlement (probate, will or statutory declaration). [https://afterkeep.github.io/guides/redirect-mail-after-death-australia/](https://afterkeep.github.io/guides/redirect-mail-after-death-australia/)
 - How do I cancel electricity and gas after a death in Australia? Call each retailer on the bills to transfer, keep as "Estate of", or close with a final bill to the estate; the Australian Death Notification Service can notify many providers at once. [https://afterkeep.github.io/guides/cancel-utilities-after-death-australia/](https://afterkeep.github.io/guides/cancel-utilities-after-death-australia/)
+- What happens to my Netflix account when I die? It keeps billing until cancelled. Netflix will cancel a deceased member's account if you give the account email or phone and the full payment details. [https://afterkeep.github.io/platforms/netflix/](https://afterkeep.github.io/platforms/netflix/)
+- Do you need to lodge a tax return for someone who died in Australia? Often: a 'date of death' return (1 July to date of death) is needed if tax was withheld, income was above the tax-free threshold, or they lodged before. Paper form or tax agent; not myTax. [https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/](https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/)
+- How do I get a death certificate in Australia? The funeral director usually orders it. Otherwise apply to the Births, Deaths and Marriages registry where the death was registered, with ID and proof of eligibility (NSW $70; Vic $59.10 plus postage). [https://afterkeep.github.io/guides/death-certificate-australia/](https://afterkeep.github.io/guides/death-certificate-australia/)
+- How do I transfer a deceased person's car registration in Queensland? Joint owners transfer free with proof of death and ID; otherwise the executor, administrator or next of kin uses TMR form F5296 with probate, the will or a statutory declaration. Surrender the licence with form F4778. [https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/](https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/)
 
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
@@ -50,6 +54,7 @@
 - [What happens to my Reddit when I die?](https://afterkeep.github.io/platforms/reddit/): Reddit doesn't publish any process for deceased users, offers no memorialisation, and its help centre says Reddit administrators can't delet
 - [What happens to my Pinterest when I die?](https://afterkeep.github.io/platforms/pinterest/): Pinterest will delete a deceased family member's account if you contact Pinterest and provide verification, such as an obituary or death cer
 - [What happens to my Telegram when I die?](https://afterkeep.github.io/platforms/telegram/): Telegram has no deceased-user process or legacy contact. Instead, accounts self-destruct: if an account doesn't come online for the period s
+- [What happens to my Netflix when I die?](https://afterkeep.github.io/platforms/netflix/): Netflix keeps charging the payment method on file until the membership is cancelled; nothing happens automatically when a member dies. Netfl
 - [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
@@ -102,6 +107,9 @@
 - [What happens to bank accounts when someone dies? (Australia)](https://afterkeep.github.io/guides/bank-accounts-after-death-australia/)
 - [How to redirect a deceased person's mail (Australia Post)](https://afterkeep.github.io/guides/redirect-mail-after-death-australia/)
 - [How to cancel or transfer electricity, gas and other services after a death (Australia)](https://afterkeep.github.io/guides/cancel-utilities-after-death-australia/)
+- [Final tax return for a deceased person in Australia (the 'date of death' return)](https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/)
+- [How to get a death certificate in Australia (Qld, NSW and Victoria)](https://afterkeep.github.io/guides/death-certificate-australia/)
+- [Car registration and driver licence after a death in Queensland](https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text

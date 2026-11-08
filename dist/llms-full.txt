@@ -1675,6 +1675,48 @@ Q: Do contacts lose messages when an account is deleted?
 A: No. Telegram says contacts keep their copy of messages the person sent them, and groups the person created keep running.
 
 
+## What happens to my Netflix when I die?
+URL: https://afterkeep.github.io/platforms/netflix/
+
+Netflix keeps charging the payment method on file until the membership is cancelled; nothing happens automatically when a member dies. Netflix says it can cancel the account of a friend or family member who has died. With access to the account, use Cancel Membership on the Account page. Without access, contact Netflix with the email address or phone number on the account and the full payment information currently used to pay for it.
+
+Key facts:
+- Netflix will cancel on behalf of someone who has died
+- No login needed: give the account email or phone and payment details
+- Signing out or deleting the app doesn't cancel
+- Partner-billed memberships are cancelled through the partner
+
+Documents heirs need:
+- The email address or phone number associated with the Netflix account
+- The full payment information currently used to pay for Netflix
+
+What can't be recovered:
+- Streaming for everyone using the account's profiles once the membership ends
+- Any remaining gift card or promotional balance is used for continued service after cancelling, until it runs out
+
+Timeline: Netflix publishes no processing time for cancelling on someone's behalf. After cancellation the account won't be charged again, and if there's time left in the billing period it stays usable until it cancels automatically at the end of that period.
+
+Sources: https://help.netflix.com/en/node/110165, https://help.netflix.com/en/node/407
+
+Q: What happens to my Netflix when I die?
+A: Netflix keeps charging the payment method on file until the membership is cancelled; nothing happens automatically when a member dies. Netflix says it can cancel the account of a friend or family member who has died. With access to the account, use Cancel Membership on the Account page. Without access, contact Netflix with the email address or phone number on the account and the full payment information currently used to pay for it.
+
+Q: What happens to my Netflix account when I die?
+A: Nothing automatic. The membership keeps billing the payment method on file until someone cancels it. Netflix says family or friends can ask it to cancel the account of a member who has died.
+
+Q: How do I cancel a deceased person's Netflix without the password?
+A: Contact Netflix with the email address or phone number associated with the account and the full payment information currently used to pay for Netflix. Netflix says it can then cancel the account on their behalf.
+
+Q: Does signing out or deleting the Netflix app cancel the account?
+A: No. Netflix says cancelling from the account is the only way to end the membership; signing out or deleting the app doesn't cancel it.
+
+Q: What if Netflix is billed through a phone or internet provider?
+A: Netflix says memberships billed through a payment partner must be cancelled with that partner. The Account page's Membership section shows a link or instructions.
+
+Q: When do Netflix charges stop after cancelling?
+A: Netflix won't charge again after cancellation. If there's time left in the billing period, the account can be used until it cancels automatically at the end of that period.
+
+
 ## What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?
 URL: https://afterkeep.github.io/platforms/game-libraries/
 
@@ -2243,17 +2285,21 @@ Steps:
 1. Find the providers: the retailer's contact details are on each bill. Redirected mail and bank statements help you spot accounts.
 2. Once a death certificate has been issued by the state or territory registry, use the free Australian Death Notification Service to notify participating banks, phone and internet providers and utility companies in one go. They contact you within 10 working days.
 3. Call energy retailers directly too. Decide whether anyone still needs power or gas at the property.
-4. Keeping supply on: a joint account holder can usually have the account moved into their name, or a new occupant can open a new account. ENGIE and Ergon both describe this.
-5. Leaving the property empty for now: ask for the account to be kept as the "Estate of" or for temporary supply. Ergon says this needs the death certificate and a letter from the executor or administrator.
-6. Supply no longer needed: ask the retailer to close the account (and disconnect supply if appropriate) and send the final bill to the estate.
-7. Have ready: the deceased's full name, address, date of birth and date of death, the account number, and the executor's or solicitor's details.
-8. Stuck? Each state and territory has a free energy (and in most states water) ombudsman scheme; the AER lists them all.
+4. AGL customers: AGL says the easiest way to tell it is its NotifyNOW online platform (run by bereavement specialists Phillips & Cohen Associates, which can also notify other registered companies), or chat or phone. It asks for your details and relationship, the executor's details, the account details and what to do with the service.
+5. Keeping supply on: a joint account holder can usually have the account moved into their name, or a new occupant can open a new account. ENGIE and Ergon both describe this.
+6. Leaving the property empty for now: ask for the account to be kept as the "Estate of" or for temporary supply. Ergon says this needs the death certificate and a letter from the executor or administrator.
+7. Supply no longer needed: ask the retailer to close the account (and disconnect supply if appropriate) and send the final bill to the estate.
+8. Have ready: the deceased's full name, address, date of birth and date of death, the account number, and the executor's or solicitor's details.
+9. Stuck? Each state and territory has a free energy (and in most states water) ombudsman scheme; the AER lists them all.
 
 Q: Who can close or transfer a deceased person's energy account?
 A: Usually the executor or next of kin. ENGIE, for example, accepts a primary or joint account holder, the executor, the deceased's solicitor, or a trustee or business partner.
 
 Q: Will the power be cut off when the account holder dies?
 A: Not automatically. Retailers can keep supply on under the "Estate of", transfer the account, or arrange temporary supply until the property is sorted.
+
+Q: How do I close a deceased person's AGL account?
+A: Tell AGL through its NotifyNOW online platform, or by chat or phone. Have your name and contact details, your relationship to the account holder, the executor's name and details, the deceased's account details and what you want done. If supply stays on, Phillips & Cohen Associates manages the process; for a transfer AGL contacts the new account holder; closing the account triggers a final bill.
 
 Q: What documents do I need?
 A: NSW Government guidance says you'll usually need a certified copy of the death certificate and the account details, plus proof of identity to transfer a service into your name. Some retailers also ask for an executor's letter.
@@ -2264,8 +2310,126 @@ A: A free online service that lets you tell multiple participating organisations
 Q: Who pays the final energy bill?
 A: Retailers send the final bill to the estate. Talk to the executor before paying it personally.
 
-Q: Where can I complain about an energy retailer?
-A: To your state or territory energy ombudsman, which is free. For example: Energy and Water Ombudsman Queensland 1800 662 837, Energy & Water Ombudsman NSW 1800 246 545, Energy and Water Ombudsman Victoria 1800 500 509.
+
+## Final tax return for a deceased person in Australia (the 'date of death' return)
+URL: https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/
+
+You may need to lodge a final 'date of death' tax return covering 1 July of the income year the person died up to the date of death. The ATO says it's required if the person had tax withheld from their income (including interest or dividends), their taxable income was above the tax-free threshold, or they lodged returns in earlier years or had outstanding returns. Usually the executor or administrator (the legal personal representative) lodges it on the paper tax return for individuals, because myTax and myGov can't be used, or through a tax agent. If no return is needed, send a non-lodgment advice marked 'DECEASED' with the date of death.
+
+Key facts:
+- Covers 1 July to the date of death
+- Paper return or tax agent, not myTax or myGov
+- Usually lodged by the executor or administrator
+- Provide for tax owing before distributing the estate
+
+Steps:
+1. Notify the ATO of the death and who will manage the estate. Use the online form plus an interview at a participating Australia Post outlet, or the paper form by mail with certified copies of the death certificate, grant of probate or letters of administration, or will. You can lodge the return once you're on the ATO's records as managing the deceased's tax affairs.
+2. Applying for probate or letters of administration? The ATO suggests waiting for the grant before sending the notification, to avoid delays. You can phone the ATO's individuals enquiries line meanwhile to pause the deceased's tax correspondence.
+3. Ask whether any earlier returns are outstanding. The ATO can tell you when you notify it; these must be lodged too.
+4. Check whether a date of death return is needed: tax withheld from income (including interest or dividends), taxable income above the tax-free threshold, or returns lodged in earlier years or outstanding. If none apply, send a non-lodgment advice form with 'DECEASED' and the date of death as the reason.
+5. Gather the information: the person's papers first. As the authorised legal personal representative you can get their tax information and TFN from the ATO; otherwise their former tax agent may help.
+6. Use the paper tax return for individuals (or a tax agent you've appointed, who can lodge online). Write 'DECEASED ESTATE' at the top of the first page, give the name as 'LEGAL REPRESENTATIVE OF [name] (DECEASED)', mark 'No' to lodging future returns, and sign 'on behalf of' the deceased.
+7. Include income and deductions up to the date of death, plus the cost of preparing the return (such as tax agent fees) even though it's incurred after the death. Income the estate receives after the death goes in a separate trust tax return.
+8. Provide for any tax owing before distributing the estate. The ATO says the executor or administrator may otherwise be personally liable.
+
+Q: Do you have to do a tax return for a deceased person in Australia?
+A: Often, yes. The ATO says a date of death return is required if, in the income year they died, the person had tax withheld from income (including interest or dividends), had taxable income above the tax-free threshold, or had lodged returns in earlier years or had outstanding ones. If none apply, send a non-lodgment advice instead.
+
+Q: Who lodges a deceased person's final tax return?
+A: Usually the authorised legal personal representative, meaning the executor or administrator. You must first notify the ATO of the death and be entered on its records as the person managing the deceased's tax affairs. If someone else lodges, the ATO assesses the return and decides what action to take.
+
+Q: Can I lodge a deceased person's tax return on myTax or myGov?
+A: No. The ATO says myTax and myGov can only be used by the account holder for their own return, so a date of death return uses the paper tax return for individuals, even to claim a franking credit refund. A tax agent appointed by the executor or administrator can lodge online.
+
+Q: What period does the final tax return cover?
+A: From 1 July of the income year the person died up to the date of death. In the ATO's example, someone who died on 4 March 2026 has a return covering 1 July 2025 to 4 March 2026.
+
+Q: Who receives a tax refund for a deceased person?
+A: The ATO releases any refund or franking credits to the authorised legal personal representative. If there isn't one, it decides whether it can release them, taking into account the will or, if there's no will, the rules of succession.
+
+Q: What happens to a HELP debt when someone dies?
+A: Study and training loan repayments are assessed automatically. If income in the final return is above the minimum repayment threshold, the assessment includes a final repayment; after that, any remaining debt is cancelled.
+
+
+## How to get a death certificate in Australia (Qld, NSW and Victoria)
+URL: https://afterkeep.github.io/guides/death-certificate-australia/
+
+Usually the funeral director registers the death and orders the death certificate for the family. If you need one yourself, apply to the Registry of Births, Deaths and Marriages in the state or territory where the death was registered, with proof of identity and proof you're eligible. In Queensland, NSW and Victoria eligible applicants include the spouse or partner, parent or child; Queensland and NSW also list the executor. Each registry sets its own fees and processing times. In NSW a certificate costs $70 (standard) and in Victoria $59.10 plus postage.
+
+Key facts:
+- Funeral director usually orders it
+- Apply in the state where the death was registered
+- Needs proof of identity and eligibility
+- NSW $70 standard; Vic $59.10 plus postage
+
+Steps:
+1. Ask the funeral director first. NSW and Victoria both say the funeral director normally registers the death and orders the certificate for you; in NSW they register it within 7 days of the burial or cremation.
+2. Apply to the registry where the death was registered. Queensland's service is only for deaths registered in Queensland; for a death elsewhere, apply in that state, territory or country.
+3. Check you're eligible. Queensland: the spouse, parent or child, the person who signed the death registration, the funeral director, or an executor. NSW: a spouse or de facto partner, parent or child whose details are on the certificate, the funeral director (within 30 days of registration), the executor or the estate's solicitor. Victoria: next of kin (spouse or domestic partner, child or parent), or others with third party authority from the next of kin.
+4. Gather proof of identity. Queensland asks for 3 forms of ID including proof of home address, as certified copies if you post the application. Victoria lets you verify your identity online with two documents, or with certified copies. NSW requires proof of identity with every application.
+5. Apply. Queensland: online form, then post the documents or submit in person at a Queensland Magistrates Court or QGAP office (not Brisbane Magistrates Court) or at the Brisbane registry. NSW: online, by post or at a Service NSW centre. Victoria: apply online through BDM Victoria.
+6. Pick the right certificate. Queensland's official death certificate shows the cause of death and is used to finalise estate matters; a limited certificate may not be accepted everywhere. NSW warns that an extract certificate may not be accepted by some organisations. Victoria's package includes certificates with and without the cause of death.
+7. Use the official registry website. NSW warns that third-party websites offering to process certificate applications aren't affiliated with the Registry.
+8. Banks, super funds, telcos and the ATO will ask for the death certificate (often a certified copy), so use our guides to work through each one.
+
+Q: Who can get a death certificate in Australia?
+A: It depends on the state. Queensland: the spouse, parent or child, the person who signed the death registration, the funeral director or an executor. NSW: a spouse or de facto partner, parent or child named on the certificate, the funeral director (within 30 days of registration), the executor or the estate's solicitor. Victoria: the next of kin, or others with their written authority.
+
+Q: How much does a death certificate cost?
+A: NSW charges $70 for standard service and $105 for priority, both including $11 postage and handling. Victoria charges $59.10 for a death certificate (with or without the cause of death) or $95.80 for a package of both, plus $10.60 express post within Australia. Queensland's fee is shown when you apply.
+
+Q: How long does it take to get a death certificate?
+A: NSW: up to 1 week for a death registration and certificate, or up to 3 weeks for a standard online application (2 weeks priority), plus 5 to 7 days for delivery. Victoria: up to 7 days for a registration and certificate in the last 3 months, otherwise up to 14 days, plus postage.
+
+Q: Does the funeral director get the death certificate?
+A: Usually. NSW and Victoria both say the funeral director normally registers the death and applies for the certificate on the family's behalf.
+
+Q: Can I get a death certificate if I'm not family?
+A: Sometimes. In NSW you need a letter of authority from someone recorded on the certificate (with their ID and yours) or evidence of an interest in the estate. In Victoria you need third party authority from the next of kin. Queensland lists who else can apply and the documents they need.
+
+Q: Which death certificate do I need for the estate?
+A: In Queensland, the official death certificate, which shows the cause of death and is used to finalise estate matters. Limited or extract certificates may not be accepted by all organisations.
+
+
+## Car registration and driver licence after a death in Queensland
+URL: https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/
+
+A Queensland vehicle registered in two names can be transferred free of charge to the surviving registered operator with proof of death and original evidence of identity. Otherwise the executor, administrator or next of kin transfers or cancels the registration with TMR form F5296 and either the grant of probate or letters of administration, the will (for an executor) or a statutory declaration (for next of kin). A beneficiary usually must survive the deceased by 30 days first. The driver licence can be surrendered, with a refund of the licence fee, at a transport and motoring service centre or by mail with form F4778.
+
+Key facts:
+- Joint registration: free transfer to the survivor
+- Otherwise form F5296 with probate, will or statutory declaration
+- 30-day survival period for beneficiaries
+- Licence refund via service centre or form F4778
+
+Steps:
+1. Expect a letter. When TMR learns of a death (from Births, Deaths and Marriages or the next of kin) it writes to the last known address listing vehicles and personalised or customised plates to transfer or cancel, and places a restriction on them. The registration isn't cancelled, but it can't be renewed until it's transferred.
+2. Jointly registered vehicle: the surviving registered operator can transfer it into their name free of charge with proof of death (if no Registration Notice Individual Restriction letter has been received) and original evidence of identity. No other forms are needed.
+3. Otherwise, work out your authority. With a grant of probate or letters of administration, present the original or certified copies with form F5296; you don't need the will, the death certificate or the statutory declaration. If probate or administration has been applied for but not yet granted, wait for the grant.
+4. No grant? An executor named in the last valid will presents the original or a certified copy of the will and completes F5296 including the statutory declaration. With no will, the next of kin (under the Succession Act 1981) completes F5296 including the statutory declaration.
+5. TMR may ask for the original or a certified copy of the death certificate or coroner's report.
+6. To transfer or cancel: complete any extra forms listed on F5296, present original evidence of identity and pay any fees. Unattached customised plates must be cancelled. Where there are several executors or administrators, only one needs to sign and present ID.
+7. Not ready to decide? Transfer the registration temporarily into the estate, with the executor, administrator or next of kin as the second registered operator responsible for the vehicle.
+8. Driver licence: surrender it and claim a refund of the licence fee at a transport and motoring service centre with the licence (unless lost or destroyed) and one supporting document: death certificate, coroner's report, Public Trustee certificate of authority, sealed grant of probate, or advice from Births, Deaths and Marriages. Originals, or copies certified by a JP or other qualified person.
+9. By mail: send the return/surrender declaration form F4778, the licence and a certified copy of the supporting document to TMR, Emerald Customer Service Centre, PO Box 1787, Emerald QLD 4720. The refund is a cheque in the name of the licensee or their estate and can take up to 15 working days.
+
+Q: What happens to car registration when the owner dies in Queensland?
+A: TMR places a restriction on vehicles and plates in the deceased's name and writes to their last known address. The registration isn't cancelled, but it can't be renewed until it's transferred to an eligible person or entity.
+
+Q: Can I transfer a deceased person's car before probate in Queensland?
+A: If probate or letters of administration have been applied for, TMR says you can't finalise the registration until they're granted. If no grant is being sought, an executor can use the will, or the next of kin a statutory declaration, with form F5296. You can also transfer it temporarily into the estate.
+
+Q: How do I transfer a jointly registered car after a death?
+A: The surviving registered operator can transfer it into their name free of charge with proof of death and original evidence of identity. No other forms are needed.
+
+Q: What is the 30-day survival period?
+A: In most cases a beneficiary must survive the deceased by at least 30 days before receiving benefits under the will, so TMR says not to apply to transfer the registration in that time unless the will says otherwise or you're transferring it into the 'estate of' the deceased.
+
+Q: How do I cancel a deceased person's Queensland driver licence?
+A: Surrender it at a transport and motoring service centre, or by mail with form F4778, with a supporting document such as the death certificate. You can apply for a refund of the licence fee, paid by cheque to the licensee or their estate within about 15 working days.
+
+Q: What about personalised plates?
+A: Personalised or customised plates in the deceased's name must be transferred or cancelled along with the registration, and unattached customised plates must be cancelled.
 
 
 ## Bitwarden vs 1Password for emergency access
