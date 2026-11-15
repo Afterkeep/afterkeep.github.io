@@ -30,6 +30,10 @@
 - Do you need to lodge a tax return for someone who died in Australia? Often: a 'date of death' return (1 July to date of death) is needed if tax was withheld, income was above the tax-free threshold, or they lodged before. Paper form or tax agent; not myTax. [https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/](https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/)
 - How do I get a death certificate in Australia? The funeral director usually orders it. Otherwise apply to the Births, Deaths and Marriages registry where the death was registered, with ID and proof of eligibility (NSW $70; Vic $59.10 plus postage). [https://afterkeep.github.io/guides/death-certificate-australia/](https://afterkeep.github.io/guides/death-certificate-australia/)
 - How do I transfer a deceased person's car registration in Queensland? Joint owners transfer free with proof of death and ID; otherwise the executor, administrator or next of kin uses TMR form F5296 with probate, the will or a statutory declaration. Surrender the licence with form F4778. [https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/](https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/)
+- What happens to my GitHub account when I die? An appointed successor can archive or transfer your public repositories 7 days after presenting a death certificate (21 with an obituary), but can't log in. Others contact GitHub Support. [https://afterkeep.github.io/platforms/github/](https://afterkeep.github.io/platforms/github/)
+- What happens to my Proton Mail when I die? Only Emergency Access (paid plans, up to 5 Proton Mail contacts, 1-30 day wait) gives someone access. Free accounts inactive over 24 months could be deleted. [https://afterkeep.github.io/platforms/proton-mail/](https://afterkeep.github.io/platforms/proton-mail/)
+- Can you inherit Qantas or Velocity points? Qantas: executor asks in writing within 12 months to move unexpired points to one eligible family member. Velocity: executor asks to transfer or redeem, quickly. Status is lost. [https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/](https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/)
+- How do I cancel a deceased person's passport in Australia? Take it and the death certificate to Australia Post; no refund for unused validity. The AEC is told of deaths by BDM registries, or use its online form. [https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/](https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/)
 
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
@@ -55,6 +59,8 @@
 - [What happens to my Pinterest when I die?](https://afterkeep.github.io/platforms/pinterest/): Pinterest will delete a deceased family member's account if you contact Pinterest and provide verification, such as an obituary or death cer
 - [What happens to my Telegram when I die?](https://afterkeep.github.io/platforms/telegram/): Telegram has no deceased-user process or legacy contact. Instead, accounts self-destruct: if an account doesn't come online for the period s
 - [What happens to my Netflix when I die?](https://afterkeep.github.io/platforms/netflix/): Netflix keeps charging the payment method on file until the membership is cancelled; nothing happens automatically when a member dies. Netfl
+- [What happens to my GitHub when I die?](https://afterkeep.github.io/platforms/github/): GitHub says it can work with an authorised person to decide what happens to a deceased user's account content. Next of kin, a pre-designated
+- [What happens to my Proton Mail when I die?](https://afterkeep.github.io/platforms/proton-mail/): Proton's built-in route is Emergency Access, which you set up in advance. On any paid Proton plan you can choose up to five emergency contac
 - [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
@@ -110,6 +116,8 @@
 - [Final tax return for a deceased person in Australia (the 'date of death' return)](https://afterkeep.github.io/guides/final-tax-return-deceased-person-australia/)
 - [How to get a death certificate in Australia (Qld, NSW and Victoria)](https://afterkeep.github.io/guides/death-certificate-australia/)
 - [Car registration and driver licence after a death in Queensland](https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/)
+- [What happens to Qantas and Velocity frequent flyer points when someone dies?](https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/)
+- [Cancel a passport and remove someone from the electoral roll after a death (Australia)](https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text

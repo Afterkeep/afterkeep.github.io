@@ -56,6 +56,7 @@ import pack3; pack3.pre(enrich,growth,pack2)
 import pack4; pack4.pre(enrich,growth,pack2,TOOLS)
 import pack5; pack5.pre(enrich,growth,pack2)
 import pack6; pack6.pre(enrich,growth,pack2)
+import pack7; pack7.pre(enrich,growth,pack2)
 for p in PLATFORMS:
     e=enrich.P.get(p["slug"],{}); p.update(e)
     if p["slug"]=="microsoft-outlook":

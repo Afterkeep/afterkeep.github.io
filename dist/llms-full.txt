@@ -1717,6 +1717,93 @@ Q: When do Netflix charges stop after cancelling?
 A: Netflix won't charge again after cancellation. If there's time left in the billing period, the account can be used until it cancels automatically at the end of that period.
 
 
+## What happens to my GitHub when I die?
+URL: https://afterkeep.github.io/platforms/github/
+
+GitHub says it can work with an authorised person to decide what happens to a deceased user's account content. Next of kin, a pre-designated successor or another authorised individual (GitHub says this could include a collaborator or business partner) contacts GitHub Support, for example to transfer public repositories or cancel billing. If you appoint a successor in advance, they can archive or transfer your public repositories after presenting a death certificate and waiting 7 days, or an obituary and waiting 21 days. Successors can't log into your account.
+
+Key facts:
+- Successors can archive or transfer public repositories
+- Successors cannot log into your account
+- Successor wait: 7 days with a death certificate, 21 days with an obituary
+- Requests go through the GitHub Support portal
+
+Documents heirs need:
+- Your name and contact information
+- The deceased's name and GitHub username
+- Your relationship to them, and whether you're their designated successor (with your own GitHub username)
+- The action you want, such as transferring public repositories or cancelling billing
+- If GitHub asks: photo ID, a copy of the death certificate and proof you're authorised to act
+
+What can't be recovered:
+- Account login: GitHub says successors cannot log into the account
+- Private repositories you haven't backed up or shared: GitHub's successor permissions only list public repositories, so keep your own copies
+
+Timeline: An appointed successor can manage public repositories 7 days after presenting a death certificate, or 21 days after presenting an obituary. GitHub publishes no processing time for other requests and may follow up for more information.
+
+Sources: https://docs.github.com/en/site-policy/other-site-policies/github-deceased-user-policy, https://docs.github.com/en/repositories/creating-and-managing-repositories/access-to-repositories, https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/maintaining-ownership-continuity-of-your-personal-accounts-repositories, https://docs.github.com/en/repositories/archiving-a-github-repository/backing-up-a-repository
+
+Q: What happens to my GitHub when I die?
+A: GitHub says it can work with an authorised person to decide what happens to a deceased user's account content. Next of kin, a pre-designated successor or another authorised individual (GitHub says this could include a collaborator or business partner) contacts GitHub Support, for example to transfer public repositories or cancel billing. If you appoint a successor in advance, they can archive or transfer your public repositories after presenting a death certificate and waiting 7 days, or an obituary and waiting 21 days. Successors can't log into your account.
+
+Q: What happens to my GitHub account when I die?
+A: GitHub works with an authorised person, such as next of kin or a successor you appointed, to decide what happens to the account's content. They contact GitHub Support with the deceased's username and the action they want, such as transferring public repositories or cancelling billing.
+
+Q: What can a GitHub successor do?
+A: Archive your public repositories, transfer them to their own personal account, or transfer them to an organization where they can create repositories. Successors cannot log into your account.
+
+Q: How long does a GitHub successor have to wait?
+A: 7 days after presenting a death certificate, or 21 days after presenting an obituary.
+
+Q: Who can contact GitHub about a deceased user?
+A: Next of kin, a pre-designated successor or another authorised individual, which GitHub says could include a collaborator or business partner. GitHub may ask for photo ID, a death certificate and proof of authority.
+
+Q: How do I back up my GitHub repositories?
+A: GitHub's docs describe a mirror clone (git clone --mirror) that keeps the revision history, plus git lfs fetch --all for Large File Storage objects. Compress the clone and store it somewhere safe, such as an external drive or cloud storage.
+
+
+## What happens to my Proton Mail when I die?
+URL: https://afterkeep.github.io/platforms/proton-mail/
+
+Proton's built-in route is Emergency Access, which you set up in advance. On any paid Proton plan you can choose up to five emergency contacts, each with a Proton Mail address, who can request access to your account if you die or are incapacitated. Access is granted automatically after the waiting period you choose (1 to 30 days) unless you deny it. Proton's help pages describe no other way for family to get in. Free accounts inactive for more than 24 months could be deleted, along with emails, files and passwords.
+
+Key facts:
+- Emergency Access: up to 5 contacts, on all paid plans
+- You and your contact both need a Proton Mail address
+- Wait time 1 to 30 days; Proton notifies you so you can deny it
+- Free accounts inactive over 24 months could be deleted
+
+Documents heirs need:
+- Your own Proton Mail account, with you added as their emergency contact
+- Your own Proton password, to switch into their account once access is granted
+
+What can't be recovered:
+- Everything in a deleted account: Proton says deletion permanently removes emails, contacts, calendars, passwords and files
+- The email address itself: Proton says deleted addresses generally can't be recovered
+
+Timeline: Access is granted automatically at the end of the waiting period the account owner chose (30, 14, 7, 3, 2 or 1 day), or sooner if they approve it. For free accounts, Proton says accounts inactive for more than 24 months could be deleted and it sends reminder emails 30, 15 and 7 days before the scheduled deletion. Proton says it never deletes paid accounts for inactivity.
+
+Sources: https://proton.me/support/emergency-access, https://proton.me/support/inactive-accounts, https://proton.me/support/recovery-phrase, https://proton.me/legal/terms
+
+Q: What happens to my Proton Mail when I die?
+A: Proton's built-in route is Emergency Access, which you set up in advance. On any paid Proton plan you can choose up to five emergency contacts, each with a Proton Mail address, who can request access to your account if you die or are incapacitated. Access is granted automatically after the waiting period you choose (1 to 30 days) unless you deny it. Proton's help pages describe no other way for family to get in. Free accounts inactive for more than 24 months could be deleted, along with emails, files and passwords.
+
+Q: What happens to my Proton Mail account when I die?
+A: Unless you set up Emergency Access, Proton's help pages describe no way for family to get in. With it, a contact you chose can request access and gets it automatically after the waiting period you set. Free accounts inactive for more than 24 months could be deleted.
+
+Q: Is Proton Emergency Access free?
+A: No. Proton says it's available on all paid Proton plans. You and your emergency contact must both have a Proton Mail address.
+
+Q: Can my emergency contact use a Gmail or Outlook address?
+A: No. Proton says the emergency contact must have a Proton Mail email address.
+
+Q: Will Proton delete a free account after the owner dies?
+A: It can. Proton says free accounts inactive for more than 24 months could be deleted, with reminder emails 30, 15 and 7 days before. Its inactive account policy doesn't apply to paid plans.
+
+Q: What is a Proton recovery phrase?
+A: A 12-word, one-time backup password that lets the account holder reset their password and recover encrypted data. Keep it somewhere safe outside Proton. Emergency Access is Proton's feature for giving someone else access.
+
+
 ## What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?
 URL: https://afterkeep.github.io/platforms/game-libraries/
 
@@ -2088,12 +2175,13 @@ Steps:
 1. Get the death certificate from your state or territory's Births, Deaths and Marriages registry. A funeral director may register the death for you.
 2. Within 28 days, tell Services Australia: call, send the Advice of death form (SA116a for an adult, SA116b for a child), or visit a service centre. Services Australia uses the form to update Medicare, Centrelink and Child Support records.
 3. Don't sign in to their myGov. The myGov terms of use say you're not allowed to access another person's myGov account, and myGov says you don't need to close it.
-4. If you don't have documents yet, phone the ATO to say the person has died. It will pause their tax correspondence.
-5. Officially notify the ATO with its Notification of a deceased person form: online, followed by an interview at a participating Australia Post outlet, or on paper with certified copies.
-6. Executors who plan to apply for probate or letters of administration: the ATO suggests waiting for the grant before notifying it, to avoid delays. With a grant, it records you as the authorised legal personal representative (LPR).
-7. To get the person's details from Services Australia for the estate, each executor or administrator completes an Executor/Administrator Request for information form and gives proof of authority.
-8. Check whether you can get a bereavement payment or other support from Services Australia.
-9. Use the free Australian Death Notification Service to tell participating organisations at once (Telstra and Vodafone, for example, accept it).
+4. Cancel their passport by taking it and the death certificate to a local Australia Post office. You don't need to tell the Australian Electoral Commission: Births, Deaths and Marriages registries pass on death information (or use the AEC's online notification form).
+5. If you don't have documents yet, phone the ATO to say the person has died. It will pause their tax correspondence.
+6. Officially notify the ATO with its Notification of a deceased person form: online, followed by an interview at a participating Australia Post outlet, or on paper with certified copies.
+7. Executors who plan to apply for probate or letters of administration: the ATO suggests waiting for the grant before notifying it, to avoid delays. With a grant, it records you as the authorised legal personal representative (LPR).
+8. To get the person's details from Services Australia for the estate, each executor or administrator completes an Executor/Administrator Request for information form and gives proof of authority.
+9. Check whether you can get a bereavement payment or other support from Services Australia.
+10. Use the free Australian Death Notification Service to tell participating organisations at once (Telstra and Vodafone, for example, accept it).
 
 Q: Do I need to close a deceased person's myGov account?
 A: No. myGov says you don't need to close it because it closes automatically after not being used. Its terms say accounts may be closed after 24 months without a sign-in, or 6 months if no services are linked.
@@ -2430,6 +2518,86 @@ A: Surrender it at a transport and motoring service centre, or by mail with form
 
 Q: What about personalised plates?
 A: Personalised or customised plates in the deceased's name must be transferred or cancelled along with the registration, and unattached customised plates must be cancelled.
+
+
+## What happens to Qantas and Velocity frequent flyer points when someone dies?
+URL: https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/
+
+The points don't have to be lost. Qantas: the executor or administrator can ask Qantas in writing, within 12 months of the death, to transfer the unexpired Qantas Points to one eligible family member. Qantas closes the account when told of the death and Status Credits expire. Velocity: the executor or administrator can ask Velocity to transfer the Points to another Velocity account, redeem them, or both. There's no fixed deadline, but unused Points keep expiring, so act quickly. Status and Status Credits are forfeited.
+
+Key facts:
+- Qantas: executor's written request within 12 months
+- Qantas: transfer to one eligible family member
+- Velocity: transfer or redeem; act fast, points keep expiring
+- Status and Status Credits can't be passed on
+
+Steps:
+1. Find the membership numbers: check the person's cards, the airline apps, statements and emails. Note them in your own digital estate plan too.
+2. Qantas: the executor or administrator writes to Qantas asking it to transfer the deceased member's unexpired Qantas Points to one eligible family member. The request must be received within 12 months of the date of death.
+3. Qantas may ask for evidence of the death, for example the grant of probate or letters of administration, and any other information it reasonably needs.
+4. Check the recipient's Qantas account is active. Transferred points take the same expiry date as the other points in that account, and Qantas Points expire at the end of the 18th consecutive month without earning or redeeming.
+5. Qantas closes the deceased member's account once notified of the death. Status Credits can't be transferred and expire on death.
+6. Velocity: email the address for the member's status (platinum@, gold@, silver@ or red@velocityfrequentflyer.com) with their Velocity number, their full name as on the account and the death certificate.
+7. Ask Velocity to transfer the Points to another Velocity account or redeem them. Velocity's terms say executors should tell it as soon as possible because unused Points continue to expire, and the person receiving a transfer must be a Velocity member.
+8. Plan to use inherited Velocity Points. Velocity treats points received as inheritance as a Short Term Activity, which only moves the recipient's Points Expiry Date to the end of the following month if that's later than their current date.
+9. Status, Status Credits and other member benefits can't be passed on in either program.
+
+Q: Can you inherit Qantas Frequent Flyer points?
+A: Yes, through the estate. The executor or administrator can ask Qantas in writing to transfer the deceased member's unexpired points to one eligible family member, within 12 months of the death. Qantas may ask for the grant of probate or letters of administration.
+
+Q: Who counts as an eligible family member for Qantas?
+A: A husband or wife, domestic or de facto partner, parent or step-parent, child (including foster and step-children), brother or sister (including half-siblings), grandparent, grandchild, son- or daughter-in-law, brother- or sister-in-law, father- or mother-in-law, uncle or aunt, nephew or niece, or first cousin.
+
+Q: Is there a deadline to claim frequent flyer points after a death?
+A: Qantas: the request must be received within 12 months of the date of death. Velocity sets no fixed deadline, but its terms say unused Points continue to expire, so tell it as soon as possible.
+
+Q: Can Velocity points go to someone who isn't family?
+A: Velocity's terms let executors or administrators ask for the Points to be transferred to 'another Velocity account'. Unlike Qantas's clause, that wording isn't limited to family members. The recipient must be a Velocity member.
+
+Q: Do status and Status Credits transfer after a death?
+A: No. Qantas Status Credits expire on the member's death, and Velocity forfeits Status Credits, Status and other member benefits once it's notified of the death.
+
+Q: How do I tell Velocity a member has died?
+A: Email the address for their status tier (platinum@, gold@, silver@ or red@velocityfrequentflyer.com) with their Velocity number, full name as on the account and the death certificate. Velocity will explain the next steps for a Points transfer.
+
+
+## Cancel a passport and remove someone from the electoral roll after a death (Australia)
+URL: https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/
+
+To cancel an Australian passport after the holder dies, take the passport and the death certificate to your local Australia Post office, as myGov's death checklist advises. The Australian Passport Office doesn't refund any unused validity. You don't need to tell the Australian Electoral Commission (AEC), because Births, Deaths and Marriages registries send it death information, but you can use the AEC's online 'Notification of a relative who has died' form to ask for the name to be removed from the roll.
+
+Key facts:
+- Passport: take it and the death certificate to Australia Post
+- No refund for unused passport validity
+- AEC: no need to notify; registries tell it
+- Optional AEC online form to remove the name
+
+Steps:
+1. Get the death certificate first. The funeral director usually orders it; see our death certificate guide.
+2. Passport: take the person's passport and the death certificate to your local Australia Post office to cancel it.
+3. Don't expect a refund. The Australian Passport Office says it doesn't refund portions of application fees, so the unused part of a deceased holder's passport isn't refunded.
+4. Electoral roll: you don't have to do anything. The AEC says Births, Deaths and Marriages registries give it information about people who have died.
+5. To tell the AEC yourself, use its online 'Notification of a relative who has died' form. It asks for your name, relationship, email and phone, and the person's name, date of birth, address and date of death. The form warns that giving false or misleading information is a serious offence.
+6. myGov: you don't need to close their account. myGov says it closes automatically after not being used.
+7. Tell Services Australia and the ATO separately; our myGov, Centrelink, Medicare and ATO guide covers both.
+
+Q: How do I cancel a deceased person's passport in Australia?
+A: Take the passport and the death certificate to your local Australia Post office. myGov's death checklist gives this as the way to cancel a passport.
+
+Q: Can I get a refund on a dead person's passport?
+A: No. The Australian Passport Office says it doesn't refund portions of application fees, so there's no refund for the unused validity when a passport holder dies.
+
+Q: Do I need to tell the AEC when someone dies?
+A: No. The AEC says you don't need to notify it, because Births, Deaths and Marriages registries provide information about people who have died. You can still notify it with its online form.
+
+Q: How do I remove a deceased person from the electoral roll?
+A: Usually it happens without you, using registry information. To request it yourself, complete the AEC's 'Notification of a relative who has died' online form.
+
+Q: What does the AEC's notification form ask for?
+A: Your given and family names, relationship to the person, email and phone; and the person's names, date of birth, street address, suburb, state, postcode and date of death.
+
+Q: Do I need to close a deceased person's myGov account?
+A: No. myGov says you don't need to close it because it closes automatically after not being used.
 
 
 ## Bitwarden vs 1Password for emergency access
