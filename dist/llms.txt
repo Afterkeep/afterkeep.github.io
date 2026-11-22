@@ -34,6 +34,10 @@
 - What happens to my Proton Mail when I die? Only Emergency Access (paid plans, up to 5 Proton Mail contacts, 1-30 day wait) gives someone access. Free accounts inactive over 24 months could be deleted. [https://afterkeep.github.io/platforms/proton-mail/](https://afterkeep.github.io/platforms/proton-mail/)
 - Can you inherit Qantas or Velocity points? Qantas: executor asks in writing within 12 months to move unexpired points to one eligible family member. Velocity: executor asks to transfer or redeem, quickly. Status is lost. [https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/](https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/)
 - How do I cancel a deceased person's passport in Australia? Take it and the death certificate to Australia Post; no refund for unused validity. The AEC is told of deaths by BDM registries, or use its online form. [https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/](https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/)
+- What happens to my WordPress.com site when I die? Family or the estate emails passwordhelp@wordpress.com to make it private or transfer it; a transfer needs the death certificate plus proof of authority or a notarized statement. [https://afterkeep.github.io/platforms/wordpress-com/](https://afterkeep.github.io/platforms/wordpress-com/)
+- What happens to shares when someone dies in Australia? CHESS holdings go through the broker; issuer-sponsored through the registry. Computershare: will + death certificate + indemnity up to A$50,000 a holding, probate above. [https://afterkeep.github.io/guides/shares-after-death-australia/](https://afterkeep.github.io/guides/shares-after-death-australia/)
+- How do I claim a deceased person's unclaimed money in Australia? Search Moneysmart (ASIC) and the state register. The executor claims; ASIC accepts will + death certificate up to $20,000, probate above. No time limit for ASIC money. [https://afterkeep.github.io/guides/unclaimed-money-deceased-estate-australia/](https://afterkeep.github.io/guides/unclaimed-money-deceased-estate-australia/)
+- How do I transfer a car registration after a death in NSW? At a Service NSW Centre with ID, the transfer application, proof of death and estate documents. No fee or stamp duty unless it goes to a buyer. [https://afterkeep.github.io/guides/vehicle-registration-after-death-nsw/](https://afterkeep.github.io/guides/vehicle-registration-after-death-nsw/)
 
 ## Platforms
 - [What happens to my Google / Gmail when I die?](https://afterkeep.github.io/platforms/google-gmail/): Google never hands over passwords. If you set up Inactive Account Manager, up to 10 people you chose can download the data you picked once y
@@ -61,6 +65,7 @@
 - [What happens to my Netflix when I die?](https://afterkeep.github.io/platforms/netflix/): Netflix keeps charging the payment method on file until the membership is cancelled; nothing happens automatically when a member dies. Netfl
 - [What happens to my GitHub when I die?](https://afterkeep.github.io/platforms/github/): GitHub says it can work with an authorised person to decide what happens to a deceased user's account content. Next of kin, a pre-designated
 - [What happens to my Proton Mail when I die?](https://afterkeep.github.io/platforms/proton-mail/): Proton's built-in route is Emergency Access, which you set up in advance. On any paid Proton plan you can choose up to five emergency contac
+- [What happens to my WordPress.com when I die?](https://afterkeep.github.io/platforms/wordpress-com/): WordPress.com says it helps the family or estate decide what happens to a deceased owner's site. Email passwordhelp@wordpress.com with the o
 - [What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?](https://afterkeep.github.io/platforms/game-libraries/): In most cases your digital games can't be passed on. Steam, Epic, PlayStation and Xbox license games to you personally and say the licence i
 
 ## Tools
@@ -118,6 +123,9 @@
 - [Car registration and driver licence after a death in Queensland](https://afterkeep.github.io/guides/car-registration-driver-licence-after-death-queensland/)
 - [What happens to Qantas and Velocity frequent flyer points when someone dies?](https://afterkeep.github.io/guides/frequent-flyer-points-after-death-australia/)
 - [Cancel a passport and remove someone from the electoral roll after a death (Australia)](https://afterkeep.github.io/guides/passport-electoral-roll-after-death-australia/)
+- [What happens to shares when someone dies in Australia?](https://afterkeep.github.io/guides/shares-after-death-australia/)
+- [How to find and claim a deceased person's unclaimed money in Australia](https://afterkeep.github.io/guides/unclaimed-money-deceased-estate-australia/)
+- [Transfer or cancel a NSW car registration after a death](https://afterkeep.github.io/guides/vehicle-registration-after-death-nsw/)
 
 ## Full text
 - [llms-full.txt](https://afterkeep.github.io/llms-full.txt): every answer, key fact and FAQ in plain text

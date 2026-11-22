@@ -928,11 +928,11 @@ A: Apple generally requires a court order for family to get the data.
 Q: How long does a Legacy Contact have access?
 A: Three years from when the first legacy account request is approved. After that, Apple permanently deletes the legacy account, so download anything you want to keep.
 
+Q: Can I have more than one Legacy Contact?
+A: Yes. Apple says you can add more than one, and any one of them can make decisions about your account data after your death on their own, including permanently deleting it. A Legacy Contact doesn't need an Apple Account or device but must be over 13 (age varies by country).
+
 Q: Does Legacy Contact remove Activation Lock?
 A: Yes. Apple says Activation Lock is removed from devices that use the original Apple Account once access is approved. The devices then need to be erased and restored before reuse.
-
-Q: Can Apple unlock a dead person's iPhone?
-A: No. Apple says it can't remove a device passcode without erasing the device. It may help remove Activation Lock so the device can be reused.
 
 
 ## What happens to my Facebook when I die?
@@ -1804,6 +1804,50 @@ Q: What is a Proton recovery phrase?
 A: A 12-word, one-time backup password that lets the account holder reset their password and recover encrypted data. Keep it somewhere safe outside Proton. Emergency Access is Proton's feature for giving someone else access.
 
 
+## What happens to my WordPress.com when I die?
+URL: https://afterkeep.github.io/platforms/wordpress-com/
+
+WordPress.com says it helps the family or estate decide what happens to a deceased owner's site. Email passwordhelp@wordpress.com with the owner's name or account email (if known), the site address, a short explanation and what you want: make the site private or transfer it to another owner. To transfer ownership, attach a copy of the death certificate plus a legal document showing your authority to act, or a signed, notarized statement. WordPress.com's page describes no setting to plan this in advance, so leave instructions in your digital estate plan.
+
+Key facts:
+- Contact: passwordhelp@wordpress.com
+- Options: make the site private or transfer it to another owner
+- Transfer needs a death certificate plus proof of authority or a notarized statement
+- No advance 'legacy' setting described on WordPress.com's page
+
+Documents heirs need:
+- The site owner's name or account email address (if known)
+- The site's URL
+- For an ownership transfer: a copy of the death certificate
+- For an ownership transfer: a legal document showing your authority to act, or a signed, notarized statement with your name, contact details, email, relationship and requested action
+
+What can't be recovered:
+- Paid plans and add-ons keep renewing until someone updates or cancels the subscriptions
+- Anything deleted: WordPress.com lists deleting the site as one option once you have access, so download what you want to keep first
+
+Timeline: WordPress.com publishes no processing time for deceased-owner requests.
+
+Sources: https://wordpress.com/support/deceased-user/
+
+Q: What happens to my WordPress.com when I die?
+A: WordPress.com says it helps the family or estate decide what happens to a deceased owner's site. Email passwordhelp@wordpress.com with the owner's name or account email (if known), the site address, a short explanation and what you want: make the site private or transfer it to another owner. To transfer ownership, attach a copy of the death certificate plus a legal document showing your authority to act, or a signed, notarized statement. WordPress.com's page describes no setting to plan this in advance, so leave instructions in your digital estate plan.
+
+Q: Who do I contact at WordPress.com when a site owner dies?
+A: Email passwordhelp@wordpress.com. WordPress.com says it helps the family or estate decide what happens to the site, such as making it private or transferring it to another owner.
+
+Q: How do I take over a deceased person's WordPress.com site?
+A: Email passwordhelp@wordpress.com asking to transfer ownership to another account, and attach a copy of the death certificate plus a legal document showing your authority to act, or a signed, notarized statement with your name, contact details, email, relationship to the owner and the action you want.
+
+Q: Can WordPress.com make a deceased person's site private?
+A: Yes. WordPress.com lists making the site private as one of the actions you can ask for when you report a deceased site owner.
+
+Q: What can I do with the site once I have access?
+A: WordPress.com suggests publishing an update post, adding an 'in memoriam' page, setting up a donation form, making the site private or deleting it, and updating or cancelling billing subscriptions.
+
+Q: Do I need a lawyer's document to transfer the site?
+A: Not necessarily. WordPress.com accepts either a legal document stating your authority to act for the deceased, or a signed, notarized statement with the details it lists, alongside a copy of the death certificate.
+
+
 ## What happens to my game libraries (Steam, GOG, Epic, PlayStation, Xbox) when I die?
 URL: https://afterkeep.github.io/platforms/game-libraries/
 
@@ -2598,6 +2642,129 @@ A: Your given and family names, relationship to the person, email and phone; and
 
 Q: Do I need to close a deceased person's myGov account?
 A: No. myGov says you don't need to close it because it closes automatically after not being used.
+
+
+## What happens to shares when someone dies in Australia?
+URL: https://afterkeep.github.io/guides/shares-after-death-australia/
+
+Shares stay in the deceased person's name until the estate deals with them. If they're CHESS-sponsored (a HIN starting with X), the sponsoring broker handles it. If they're issuer-sponsored (an SRN), contact the company's share registry, such as Computershare or MUFG Corporate Markets. Shares can be transmitted into the executor's name or transferred straight to beneficiaries; there's no need to transmit first. For a sole holding of an Australian resident, Computershare accepts a death certificate, the will and a Small Estate Indemnity form for holdings worth up to A$50,000. Above that it needs probate. A surviving joint holder uses a separate form.
+
+Key facts:
+- CHESS (HIN starts with X): go through the broker
+- Computershare: up to A$50,000 per holding, will + death certificate + indemnity
+- Over A$50,000: probate or letters of administration
+- Registries don't sell shares; use a broker
+
+Steps:
+1. Find the holdings: look for holding statements, dividend statements and emails. Note each company, the SRN (10 digits, starting with I) or HIN, and the name and address exactly as registered.
+2. CHESS-sponsored holdings (HIN starts with X): contact the sponsoring broker. Both Computershare and MUFG say the broker deals with the estate for these.
+3. Issuer-sponsored holdings: contact the registry named on the statement. MUFG offers an online questionnaire that lists the forms and documents your situation needs.
+4. Work out what each holding is worth. Computershare's Australian checklist sets the paperwork by value: up to A$50,000 with a will, a certified death certificate, the will and a 'Small Estate Indemnity' form (or probate). Over A$50,000, probate. With no will: up to A$50,000, the death certificate and an 'Intestacy Request and Indemnity' form (or letters of administration); over that, letters of administration.
+5. Use a registry death certificate. MUFG says a medical death certificate isn't enough; it needs the certificate issued by Births, Deaths and Marriages.
+6. Add any extra forms that apply. Computershare asks for a 'Confirmation of the Deceased's Name' form if the register name differs from the legal documents, and a 'Section 1071B Statement' if probate is granted in a different state from where the shares are registered. For South Australian probate, get a Section 121A Registrar's Certificate of Disclosure.
+7. Choose the outcome: a 'Transmission Application' puts the shares in the executor's name for later distribution; a 'Standard Transfer' moves them straight to beneficiaries or buyers. Registries don't sell shares; Computershare says to contact a broker to sell.
+8. Send it properly. Computershare needs a separate form for each holding, original forms with ink signatures (no copies, fax or email) and originally certified copies of legal documents, not the originals. MUFG accepts completed forms by email or post.
+9. Check for old dividends or shares already handed to ASIC as unclaimed money; see our unclaimed money guide.
+
+Q: What happens to shares when someone dies in Australia?
+A: They stay in the deceased's name until the executor or administrator has them transmitted into the executor's name, transferred to beneficiaries, or sold through a broker. CHESS-sponsored shares go through the sponsoring broker; issuer-sponsored shares go through the company's share registry.
+
+Q: Do you need probate to transfer shares?
+A: Not always. Computershare's Australian checklist accepts a certified death certificate, the will and a Small Estate Indemnity form where a holding is worth up to A$50,000. Above A$50,000 it needs Australian probate (or letters of administration if there's no will).
+
+Q: What's the difference between transmission and transfer?
+A: MUFG explains that transmission moves shares from the deceased's name into the executor's name as trustee for the estate. Transfer moves them to the final beneficiaries, either from the executor or directly from the deceased. You can often transfer directly without transmitting first.
+
+Q: How do I know if shares are CHESS or issuer sponsored?
+A: Check the holding statement. A HIN beginning with X means CHESS-sponsored, so contact the broker. An issuer-sponsored holding has an SRN, which Computershare describes as a 10-digit number starting with I.
+
+Q: Can shares be registered in the name of an estate or a child?
+A: Not on Computershare's Standard Transfer. It says securities can't be registered in the name of a trust, a super fund, a minor, an estate or a deceased person, and a maximum of three holders can be registered.
+
+Q: What if the shares were held jointly?
+A: Computershare's checklist doesn't cover joint holdings; it points to its 'Request to Register Surviving Securityholder(s)' form. MUFG lists 'transmit to surviving joint holder(s)' as one of the options.
+
+
+## How to find and claim a deceased person's unclaimed money in Australia
+URL: https://afterkeep.github.io/guides/unclaimed-money-deceased-estate-australia/
+
+Search ASIC's Moneysmart unclaimed money register for old bank accounts, shares and life insurance, and your state's register for other money (in Queensland, the Public Trustee; in NSW, Revenue NSW). There's no time limit on claiming money held by ASIC. Only the executor or administrator can claim for the estate. For ASIC-held shares money they use Claim form B with probate, or with a certified death certificate and will if the amount is $20,000 or less. Bank-account money is claimed through the bank's unclaimed money team.
+
+Key facts:
+- Only the executor or administrator can claim for an estate
+- ASIC: no time limit; about 60 days to process
+- ASIC shares money: will + death certificate if $20,000 or less
+- Bank-account money: claim through the bank
+
+Steps:
+1. Search ASIC's register on Moneysmart by name (or Original Transaction Number). It covers money from lost bank accounts, shares and investments, and life insurance. Service NSW notes bank accounts become unclaimed after 7 years with no deposits or withdrawals.
+2. Search the state register too. Queensland Public Trustee holds money from Queensland government agencies, businesses such as solicitors, real estate agents and nursing homes, unclaimed wages and deceased estate entitlements. It doesn't hold old bank accounts, life insurance, super or rental bonds. In NSW, search Revenue NSW's register.
+3. Note the reference: the OTN for ASIC records, or the reference number for Queensland Public Trustee.
+4. Shares and investments ('Company money') held by ASIC: the executor or administrator completes Claim form B - Representative, with all executors claiming. Provide certified ID for each, proof of the deceased's address or connection to the company, and a certified copy of probate including the full will. With a will but no probate, certified copies of the death certificate and will are enough unless the funds exceed $20,000.
+5. Old bank accounts: contact the bank that held the account and ask for its unclaimed money team. ASIC only assesses these claims when they come through the bank.
+6. Queensland Public Trustee: all executors sign the application, a Justice of the Peace witnesses it, and you post it with certified ID, linking documents, the will, the death certificate and the grant of probate or letters of administration (or a statutory declaration from all executors if there isn't one). Money is paid to an estate bank account, or by cheque to the estate.
+7. Revenue NSW: select 'Deceased estate' in its online claim. The executor or administrator provides ID, the grant (or will and death certificate) and a document linking the deceased to the address on record; all executors must be part of the claim.
+8. No will? ASIC asks you to email it first with the beneficiaries, the estate's value, place and date of death, usual residence and confirmation that no grant was made. Revenue NSW says you need formal administration and suggests contacting NSW Trustee and Guardian.
+9. Lost super is separate: once the ATO records you as the legal personal representative, its deceased estate data package includes details of any super accounts.
+
+Q: How do I find unclaimed money for a deceased person in Australia?
+A: Search ASIC's unclaimed money register on Moneysmart (bank accounts, shares and investments, life insurance) and the state register, such as Queensland Public Trustee or Revenue NSW. Anyone can search a name, but only the executor or administrator can claim for the estate.
+
+Q: Who can claim unclaimed money for a deceased estate?
+A: The executor or administrator. ASIC requires all executors to claim on Claim form B, Queensland Public Trustee says the executor is the only person eligible, and Revenue NSW requires all executors or administrators to be part of the claim.
+
+Q: Do I need probate to claim unclaimed money from ASIC?
+A: Not for smaller amounts. For shares and investments money, ASIC accepts certified copies of the death certificate and will if the funds are $20,000 or less. Over $20,000, probate must be provided.
+
+Q: Is there a time limit to claim unclaimed money?
+A: Not for money lodged with ASIC. Service NSW notes it can be claimed at any time by the rightful owner, and interest is paid from 1 July 2013.
+
+Q: How long does an unclaimed money claim take?
+A: ASIC says about 60 days once it has the correct documents. Queensland Public Trustee aims for up to 28 days from receiving all documents, and Revenue NSW asks you to allow up to 28 days.
+
+Q: How do I claim a dead person's old bank account money?
+A: Contact the bank that originally held the account and ask for its unclaimed money team. The bank verifies the claim and submits it to ASIC, and the funds come back through the bank.
+
+
+## Transfer or cancel a NSW car registration after a death
+URL: https://afterkeep.github.io/guides/vehicle-registration-after-death-nsw/
+
+When a NSW registered operator dies, the registration must be transferred or cancelled at a Service NSW Centre. It can go to the executor or administrator, a beneficiary (as the executor advises), a surviving joint operator, the next of kin or a buyer. Bring your ID, an Application for Transfer of Registration and proof of death, such as the death certificate. Transfers to the executor, a beneficiary, the next of kin or a joint operator carry no transfer fee or stamp duty; a buyer pays both.
+
+Key facts:
+- Transfer at a Service NSW Centre, not online
+- No transfer fee or stamp duty for executor, beneficiary, next of kin or joint operator
+- Buyers pay transfer fee and stamp duty
+- BDM usually tells Transport for NSW, but it can take time
+
+Steps:
+1. Tell Transport for NSW about the death if it isn't recorded yet. The NSW Registry of Births, Deaths and Marriages usually notifies it, but that can take time. You can email or post a document confirming the death (a death certificate, newspaper death notice, or letter from a solicitor or NSW Trustee and Guardian) or take it to a Service NSW Centre. This covers licences and registrations.
+2. Decide who the vehicle goes to: the executor or administrator, a beneficiary, the surviving joint registered operator, the next of kin, or a buyer.
+3. Gather the basics: your proof of identity, a completed Application for Transfer of Registration, and proof of death (the death certificate, a newspaper or online death notice, a letter from a solicitor or NSW Trustee and Guardian, or an Advice of Death form with the deceased's ID).
+4. To the executor or administrator: add the original or a certified copy of the will, probate or letters of administration, or signed written advice from a solicitor or NSW Trustee and Guardian.
+5. To a beneficiary: the same estate documents, plus signed advice from the executor or administrator confirming the beneficiary's name.
+6. To the next of kin: a statutory declaration giving the relationship, that to their knowledge there's no administrator and no will, why they're entitled, and that no closer relative has a better claim. A guardian completes it if the next of kin is under 18.
+7. Surviving joint operator: no extra documents. Buyer: Proof of Registration Entitlement, and the buyer pays the transfer fee and stamp duty.
+8. To cancel the registration instead, provide the will, probate or letters of administration (or a solicitor's or NSW Trustee and Guardian's written advice). A fee may apply.
+9. Take everything to a Service NSW Centre; this transfer can't be done online.
+
+Q: How do I transfer a car registration when someone dies in NSW?
+A: Go to a Service NSW Centre with your ID, a completed Application for Transfer of Registration, proof of death and the documents for the person receiving it (for example the will or probate for the executor).
+
+Q: Do you pay stamp duty to transfer a deceased person's car in NSW?
+A: Not when it goes to the executor or administrator, a beneficiary, the next of kin or the surviving joint operator. A buyer pays the transfer fee and stamp duty.
+
+Q: Can next of kin transfer a car without a will in NSW?
+A: Yes. The next of kin completes a statutory declaration stating their relationship, that to their knowledge there's no administrator and no will, why they're entitled, and that no closer relative is entitled.
+
+Q: Do I need to tell Transport for NSW about a death?
+A: The NSW Registry of Births, Deaths and Marriages usually tells Transport for NSW, but it can take some time. You can notify it yourself by email, post or in person with a document confirming the death.
+
+Q: Can I transfer a deceased person's NSW registration online?
+A: No. Service NSW says this transfer is done at a Service NSW Centre.
+
+Q: What if the car is sold without being transferred first?
+A: Service NSW says that if the vehicle is sold without first being transferred to a person named in a will or other acceptable document, the new operator must meet the normal transfer requirements.
 
 
 ## Bitwarden vs 1Password for emergency access
